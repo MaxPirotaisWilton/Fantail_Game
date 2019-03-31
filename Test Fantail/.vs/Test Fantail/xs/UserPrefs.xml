@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{9C5007FB-BDC8-6ABC-4CD5-5F8F5542B026}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/NewPlayerScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/NewPlayerScript.cs" Line="108" Column="98" />
+      <File FileName="Assets/Scripts/CameraFollow.cs" Line="27" Column="51" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Test Fantail" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="NewPlayerScript.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
