@@ -20,7 +20,10 @@ public class NewPlayerScript : MonoBehaviour
     public VectorVisualisation[] visualVectorArray;
     private GameObject[] visualVectorArrowsArray;
 
+    private Vector2 drag;
     private Vector2 lift;
+    private Vector2 aeroForce;
+    private float alpha;
 
     //private int framecount;
 
@@ -102,7 +105,9 @@ public class NewPlayerScript : MonoBehaviour
         Vector2 transformRight2 = new Vector2(transform.right.x, transform.right.y);
 
         //Completing missing info on visualVectorArray[0]
-        { 
+        {
+            visualVectorArray[0].Direction = aeroForce / 3;
+
             visualVectorArray[0].Magnitude = visualVectorArray[0].Direction.magnitude;
 
             if (visualVectorArray[0].Magnitude > 0)
@@ -123,6 +128,29 @@ public class NewPlayerScript : MonoBehaviour
                 }
         }
 
+        //Completing missing info on visualVectorArray[2]
+        {
+            visualVectorArray[2].Direction = drag / 3;
+
+            visualVectorArray[2].Magnitude = visualVectorArray[2].Direction.magnitude;
+
+            if (visualVectorArray[2].Magnitude > 0)
+            {
+                visualVectorArray[2].Angle = Vector2.SignedAngle(plainVector, visualVectorArray[2].Direction);
+            }
+        }
+
+        //Completing missing info on visualVectorArray[3]
+        {
+            visualVectorArray[3].Direction = lift / 3;
+
+            visualVectorArray[3].Magnitude = visualVectorArray[3].Direction.magnitude;
+
+            if (visualVectorArray[3].Magnitude > 0)
+            {
+                visualVectorArray[3].Angle = Vector2.SignedAngle(plainVector, visualVectorArray[3].Direction);
+            }
+        }
 
         //updates vector visualisation arrows
         for (int i = 0; i < visualVectorArray.Length; i++)
@@ -306,7 +334,7 @@ public class NewPlayerScript : MonoBehaviour
 
 
             UpdateAlpha(deltaTime, zoomVector);
-
+            UpdateVelocity(deltaTime);
 
         }
         else
@@ -363,19 +391,27 @@ public class NewPlayerScript : MonoBehaviour
             processedAlpha = -rawAlpha;
         }
 
-        Debug.Log("processedBodyAngle = " + processedBodyAngle + " , rawAlpha = " + rawAlpha + " , processedAlpha = " + processedAlpha);
+        //Debug.Log("processedBodyAngle = " + processedBodyAngle + " , rawAlpha = " + rawAlpha + " , processedAlpha = " + processedAlpha);
 
+        alpha = rawAlpha;
 
     }
 
     void UpdateVelocity(float DeltaTime)
     {
+        if(rigidbody.velocity.sqrMagnitude > 0)
+        {
+            float theta = Mathf.Deg2Rad * alpha;
+            Vector2 v = rigidbody.velocity;
 
-    }
+            drag = -v * (1 - Mathf.Cos(theta));
+            lift = new Vector2(-(v.y),(v.x)) * Mathf.Sin(theta);
 
-    void UpdatePosition(float DeltaTime)
-    {
+            aeroForce = drag + lift*2;
 
+            rigidbody.AddForce(aeroForce);
+
+        }
     }
 
 }

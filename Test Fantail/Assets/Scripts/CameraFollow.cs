@@ -12,7 +12,7 @@ public class CameraFollow : MonoBehaviour {
     public Vector3 offset;
 
     // Update is called once per frame
-    void LateUpdate () {
+    void FixedUpdate () {
         if (playerScript != null)
         {
             Vector3 DesiredPosition = playerTransform.position + offset;
