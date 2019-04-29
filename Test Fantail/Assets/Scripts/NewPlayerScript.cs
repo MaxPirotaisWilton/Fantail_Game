@@ -55,7 +55,6 @@ public class NewPlayerScript : MonoBehaviour
 
     private float appliedPenaltyMultiplier = 1f;
     public float penaltyMultiplier = 0.5f;
-    private float additionalPenalty;
 
     private float cursorAngle;
     public float zoomLimit = 4f;
@@ -65,10 +64,18 @@ public class NewPlayerScript : MonoBehaviour
 
     private Vector2 plainVector = new Vector2(1, 0);
 
-    public GameObject flightSpriteObject;
     public GameObject normalSpriteObject;
-    private SpriteRenderer flightSpriteRenderer;
     private SpriteRenderer normalSpriteRenderer;
+
+    private TrailRenderer trail;
+    public Animator animator;
+
+    //Variables fed into Animator Variables
+    public bool fidgeting;
+    public bool hopping;
+    public bool gliding;
+
+    private int wait = 0;
 
     private float deltaTime;
 
@@ -77,11 +84,12 @@ public class NewPlayerScript : MonoBehaviour
     {
 
         rigidbody = GetComponent<Rigidbody2D>();
-        flightSpriteRenderer = flightSpriteObject.GetComponent<SpriteRenderer>();
         normalSpriteRenderer = normalSpriteObject.GetComponent<SpriteRenderer>();
 
         cursorHeadSpriteRenderer = cursorHead.GetComponent<SpriteRenderer>();
         cursorLineSpriteRenderer = cursorLine.GetComponent<SpriteRenderer>();
+
+        trail = GetComponent<TrailRenderer>();
 
         visualVectorArrowsArray = new GameObject[visualVectorArray.Length];
 
@@ -99,11 +107,296 @@ public class NewPlayerScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
         deltaTime = Time.deltaTime;
+        VectorVisualization();
+
 
         Vector2 transformRight2 = new Vector2(transform.right.x, transform.right.y);
 
+
+
+
+        //deals with all instances of player moving horizontally
+        if (walking)
+        {
+            wait = 0;
+            fidgeting = false;
+
+            //only hops/goes upwards if the player is touching the ground.
+            if (bottomCollides)
+            {
+                hopping = false;
+                rigidbody.velocity = new Vector2(rigidbody.velocity.x, hopSpeed);
+            }
+            else
+            {
+                hopping = true;
+            }
+
+            //reset walking bool to false if true
+            walking = false;
+
+            //Flips the player sprite when going 
+            if (rigidbody.velocity.x < 0)
+            {
+                normalSpriteRenderer.flipX = true;
+            }
+            else 
+            {
+                normalSpriteRenderer.flipX = false;
+            }
+        } 
+        else
+        {
+
+            wait ++;
+
+            if (bottomCollides)
+            {
+                hopping = false;
+            }
+            if(wait >= 500)
+            {
+                fidgeting = true;
+                wait = -200;
+            }
+
+            if(wait >= 0)
+            {
+                fidgeting = false;
+            }
+
+        }
+
+
+        //Hoping Left
+        if (Input.GetKey(KeyCode.LeftArrow))
+        {
+            if (rigidbody.velocity.x >= -(horizontalSpeed * appliedPenaltyMultiplier))
+            {
+                rigidbody.velocity += -transformRight2;
+            }
+
+            if (!walking)
+            {
+                walking = true;
+            }
+
+        }
+
+
+        //Hoping Right
+        if (Input.GetKey(KeyCode.RightArrow))
+        {
+            if (rigidbody.velocity.x <= (horizontalSpeed * appliedPenaltyMultiplier))
+            {
+                rigidbody.velocity += transformRight2;
+            }
+            if (!walking)
+            {
+                walking = true;
+            }
+
+        }
+
+
+
+
+        //Handles detection of collision(s) with bool(s)
+        bottomCollides = Physics2D.OverlapCircle(bottomCheck.position, groundCheckRadius, groundLayer);
+        inWater = Physics2D.OverlapCircle(bottomCheck.position, groundCheckRadius, waterLayer);
+
+
+        //Decreases a multiplier for speed when in Water 
+        if (inWater)
+        {
+            appliedPenaltyMultiplier = penaltyMultiplier;
+
+        }
+        else if (!inWater)
+        {
+            appliedPenaltyMultiplier = 1;
+
+        }
+
+
+        //Calculations for flight vector
+
+        Vector2 mousePosPlus = new Vector2(Input.mousePosition.x - Screen.width / 2, Input.mousePosition.y - Screen.height / 2);
+        Vector2 zoomVector = mousePosPlus / 75;
+
+        //Limits the vector
+        if (zoomVector.magnitude > zoomLimit)
+        {
+            zoomVector *= (zoomLimit / zoomVector.magnitude);
+        }
+
+        Vector2 cursorPosVector = zoomVector + rigidbody.position;
+
+        //Calculations for cursor angle
+
+
+        float dotProduct = Vector2.Dot(plainVector, zoomVector);
+        float cosAngle = dotProduct / Mathf.Sqrt(Vector2.SqrMagnitude(zoomVector));
+
+        cursorAngle = (Mathf.Acos(cosAngle)) * Mathf.Rad2Deg;
+
+
+
+        //makes the player zoom towards the in-game cursor when the player clicks the left mouse button
+        if (Input.GetMouseButtonDown(0))
+        {
+
+            rigidbody.velocity = zoomVector * zoomMultiplier * appliedPenaltyMultiplier;
+
+        }
+
+
+
+
+        //resets camera smoothness when back on the ground after flying
+        if ((hasFlown && bottomCollides) || inWater)
+        {
+            cameraScript.smoothSpeed = normalSmooth;
+            hasFlown = false;
+        }
+
+
+        //assigning transforms to in-game cursor
+        Vector3 intermediateVector = new Vector3(cursorPosVector.x, cursorPosVector.y, cursorHead.transform.position.z);
+        cursorHead.transform.position = intermediateVector;
+        cursorLine.transform.position = (new Vector3((zoomVector.x / 2) + transform.position.x, (zoomVector.y / 2) + transform.position.y, cursorLine.transform.position.z));
+        cursorLine.transform.localScale = new Vector3(zoomVector.magnitude / 2.5f, 1, 1);
+
+
+        if (cursorPosVector.y < transform.position.y)
+        {
+            cursorAngle *= -1;
+
+        }
+
+        cursorHead.transform.eulerAngles = new Vector3(0, 0, cursorAngle);
+        cursorLine.transform.eulerAngles = new Vector3(0, 0, cursorAngle);
+
+
+
+        /*
+         * 
+         * Switches from normal motion to gliding motion when left clicking during flight.
+         *
+         */
+
+        if (hasFlown && Input.GetMouseButton(1))
+        {
+            gliding = true;
+            normalSpriteRenderer.flipX = false;
+
+            //starts trail when flying
+            trail.time = 0.4f;
+            trail.emitting = true;
+
+            UpdateAlpha(deltaTime, zoomVector);
+            UpdateVelocity(deltaTime);
+
+        }
+        else
+        {
+            gliding = false;
+            normalSpriteObject.transform.eulerAngles = new Vector3(0, 0, 0);
+            normalSpriteRenderer.flipY = false;
+
+            //Decreases trail length until zero, when it is disabled
+            if (trail.time >= 0)
+            {
+                trail.time -= 0.01f;
+            }
+            else
+            {
+                trail.emitting = false;
+            }
+        }
+
+        animator.SetBool("fidget", fidgeting);
+        animator.SetBool("hopping", hopping);
+        animator.SetBool("gliding", gliding);
+        animator.SetBool("onGround", bottomCollides);
+        animator.SetBool("dashed", Input.GetMouseButtonDown(0));
+        animator.SetBool("inWater", inWater);
+
+    }
+
+    void LateUpdate()
+    {
+        if (Input.GetMouseButtonDown(0) && !hasFlown && !inWater)
+
+        {
+            cameraScript.smoothSpeed = inFlightSmooth;
+            hasFlown = true;
+        }
+    }
+
+    /*When gliding, updates the bird's angle of attack (Alpha)
+
+    @param DeltaTime    Change in time
+    @param CursorPosition   Position of cursor as a 2D Vector (Vector2)
+
+    */
+
+    void UpdateAlpha(float DeltaTime, Vector2 CursorPosition)
+    {
+        Vector2 bodyDirection;
+        float processedBodyAngle;
+        float rawAlpha;
+        float processedAlpha;
+
+        processedBodyAngle = (normalSpriteObject.transform.eulerAngles.z);
+        /*if(processedBodyAngle < 0)
+        {
+            processedBodyAngle += 360;
+        }*/
+
+
+        normalSpriteObject.transform.eulerAngles = new Vector3(0, 0, cursorAngle);
+
+        bodyDirection = CursorPosition;
+
+        rawAlpha = Vector2.SignedAngle(rigidbody.velocity, bodyDirection);
+        processedAlpha = rawAlpha;
+
+        if (processedBodyAngle > 90 && processedBodyAngle < 270)
+        {
+            normalSpriteRenderer.flipY = true;
+            processedAlpha = -rawAlpha;
+        } else
+        {
+            normalSpriteRenderer.flipY = false;
+        }
+
+        //Debug.Log("processedBodyAngle = " + processedBodyAngle + " , rawAlpha = " + rawAlpha + " , processedAlpha = " + processedAlpha);
+
+        alpha = rawAlpha;
+
+    }
+
+    void UpdateVelocity(float DeltaTime)
+    {
+        if (rigidbody.velocity.sqrMagnitude > 0)
+        {
+            float theta = Mathf.Deg2Rad * alpha;
+            Vector2 v = rigidbody.velocity;
+
+            drag = -v * (1 - Mathf.Cos(theta));
+            lift = new Vector2(-(v.y), (v.x)) * Mathf.Sin(theta);
+
+            aeroForce = drag + lift * 2;
+
+            rigidbody.AddForce(aeroForce);
+
+        }
+    }
+
+    void VectorVisualization()
+    {
         //Completing missing info on visualVectorArray[0]
         {
             visualVectorArray[0].Direction = aeroForce / 3;
@@ -122,10 +415,10 @@ public class NewPlayerScript : MonoBehaviour
 
             visualVectorArray[1].Magnitude = visualVectorArray[1].Direction.magnitude;
 
-            if (visualVectorArray[1].Magnitude > 0) 
-                {
-                    visualVectorArray[1].Angle = Vector2.SignedAngle(plainVector, visualVectorArray[1].Direction);
-                }
+            if (visualVectorArray[1].Magnitude > 0)
+            {
+                visualVectorArray[1].Angle = Vector2.SignedAngle(plainVector, visualVectorArray[1].Direction);
+            }
         }
 
         //Completing missing info on visualVectorArray[2]
@@ -182,234 +475,6 @@ public class NewPlayerScript : MonoBehaviour
 
             //Debug.Log("Components found in element " + i +": # of SpriteRenderers = " + arrowSpriteRenderersArray.Length + " and # of Transforms = " + arrowTransformsArray.Length);
 
-
-        }
-
-
-
-
-        //deals with all instances of player moving horizontally
-        if (walking)
-        {
-
-            //only changes hops/goes upwards if the player is touching the ground.
-            if (bottomCollides)
-            {
-                rigidbody.velocity = new Vector2(rigidbody.velocity.x, hopSpeed);
-            }
-
-            //reset walking bool to false if true
-            walking = false;
-        }
-
-
-        //Hoping Left
-        if (Input.GetKey(KeyCode.LeftArrow))
-        {
-            if (rigidbody.velocity.x >= -(horizontalSpeed * appliedPenaltyMultiplier))
-            {
-                rigidbody.velocity += -transformRight2;
-            }
-
-            if (!walking)
-            {
-                walking = true;
-            }
-
-        }
-
-
-        //Hoping Right
-        if (Input.GetKey(KeyCode.RightArrow))
-        {
-            if (rigidbody.velocity.x <= (horizontalSpeed * appliedPenaltyMultiplier))
-            {
-                rigidbody.velocity += transformRight2;
-            }
-            if (!walking)
-            {
-                walking = true;
-            }
-
-        }
-
-
-
-
-
-        //Handles detection of collision(s) with bool(s)
-        bottomCollides = Physics2D.OverlapCircle(bottomCheck.position, groundCheckRadius, groundLayer);
-        inWater = Physics2D.OverlapCircle(bottomCheck.position, groundCheckRadius, waterLayer);
-
-
-        //Decreases a multiplier for speed when in Water 
-
-        if (inWater)
-        {
-            appliedPenaltyMultiplier = penaltyMultiplier;
-            additionalPenalty = 0.1f;
-        }
-        else if (!inWater)
-        {
-            appliedPenaltyMultiplier = 1;
-            additionalPenalty = 1f;
-        }
-
-
-        //Calculations for flight vector
-
-        Vector2 mousePosPlus = new Vector2(Input.mousePosition.x - Screen.width / 2, Input.mousePosition.y - Screen.height / 2);
-        Vector2 zoomVector = mousePosPlus / 75;
-
-        //Limits the vector
-        if (zoomVector.magnitude > zoomLimit)
-        {
-            zoomVector *= (zoomLimit / zoomVector.magnitude);
-        }
-
-        Vector2 cursorPosVector = zoomVector + rigidbody.position;
-
-        //Calculations for cursor angle
-
-
-        float dotProduct = Vector2.Dot(plainVector, zoomVector);
-        float cosAngle = dotProduct / Mathf.Sqrt(Vector2.SqrMagnitude(zoomVector));
-
-        cursorAngle = (Mathf.Acos(cosAngle)) * Mathf.Rad2Deg;
-
-
-
-        //makes the player zoom towards the in-game cursor when the player clicks the left mouse button
-        if (Input.GetMouseButtonDown(0))
-        {
-
-            rigidbody.velocity = zoomVector * zoomMultiplier * appliedPenaltyMultiplier * additionalPenalty;
-
-        }
-
-
-
-
-        //resets camera smoothness when back on the ground after flying
-        if ((hasFlown && bottomCollides) || inWater)
-        {
-            cameraScript.smoothSpeed = normalSmooth;
-            hasFlown = false;
-        }
-
-
-        //assigning transforms to in-game cursor
-        Vector3 intermediateVector = new Vector3(cursorPosVector.x, cursorPosVector.y, cursorHead.transform.position.z);
-        cursorHead.transform.position = intermediateVector;
-        cursorLine.transform.position = (new Vector3((zoomVector.x / 2) + transform.position.x, (zoomVector.y / 2) + transform.position.y, cursorLine.transform.position.z));
-        cursorLine.transform.localScale = new Vector3(zoomVector.magnitude / 2.5f, 1, 1);
-
-
-        if (cursorPosVector.y < transform.position.y)
-        {
-            cursorAngle *= -1;
-
-        }
-
-        cursorHead.transform.eulerAngles = new Vector3(0, 0, cursorAngle);
-        cursorLine.transform.eulerAngles = new Vector3(0, 0, cursorAngle);
-
-        //visualVectorArray[0].Direction = zoomVector;
-
-
-
-        /*
-         * 
-         * Switches from normal motion to gliding motion when left clicking during flight.
-         *
-         */
-
-        if (hasFlown && Input.GetMouseButton(1))
-        {
-            //rigidbody.constraints = RigidbodyConstraints2D.FreezeAll;
-
-            flightSpriteRenderer.enabled = true;
-            normalSpriteRenderer.enabled = false;
-
-
-
-            UpdateAlpha(deltaTime, zoomVector);
-            UpdateVelocity(deltaTime);
-
-        }
-        else
-        {
-            //rigidbody.constraints = RigidbodyConstraints2D.FreezeRotation;
-
-            flightSpriteRenderer.enabled = false;
-            normalSpriteRenderer.enabled = true;
-
-        }
-
-    }
-
-    void LateUpdate()
-    {
-        if (Input.GetMouseButtonDown(0) && !hasFlown && !inWater)
-
-        {
-            cameraScript.smoothSpeed = inFlightSmooth;
-            hasFlown = true;
-        }
-    }
-
-    /*When gliding, updates the bird's angle of attack (Alpha)
-
-    @param DeltaTime    Change in time
-    @param CursorPosition   Position of cursor as a 2D Vector (Vector2)
-
-    */
-
-    void UpdateAlpha(float DeltaTime, Vector2 CursorPosition)
-    {
-        Vector2 bodyDirection;
-        float processedBodyAngle;
-        float rawAlpha;
-        float processedAlpha;
-
-        processedBodyAngle = (flightSpriteObject.transform.rotation.z * 180);
-        /*if(processedBodyAngle < 0)
-        {
-            processedBodyAngle += 360;
-        }*/
-
-
-        flightSpriteObject.transform.eulerAngles = new Vector3(0, 0, cursorAngle);
-
-        bodyDirection = CursorPosition;
-
-        rawAlpha = Vector2.SignedAngle(rigidbody.velocity, bodyDirection);
-        processedAlpha = rawAlpha;
-
-        if (processedBodyAngle > 90 || processedBodyAngle < -90)
-        {
-            processedAlpha = -rawAlpha;
-        }
-
-        //Debug.Log("processedBodyAngle = " + processedBodyAngle + " , rawAlpha = " + rawAlpha + " , processedAlpha = " + processedAlpha);
-
-        alpha = rawAlpha;
-
-    }
-
-    void UpdateVelocity(float DeltaTime)
-    {
-        if(rigidbody.velocity.sqrMagnitude > 0)
-        {
-            float theta = Mathf.Deg2Rad * alpha;
-            Vector2 v = rigidbody.velocity;
-
-            drag = -v * (1 - Mathf.Cos(theta));
-            lift = new Vector2(-(v.y),(v.x)) * Mathf.Sin(theta);
-
-            aeroForce = drag + lift*2;
-
-            rigidbody.AddForce(aeroForce);
 
         }
     }
