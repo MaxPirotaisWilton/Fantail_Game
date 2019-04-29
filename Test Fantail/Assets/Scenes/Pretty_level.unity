@@ -887,6 +887,12 @@ MonoBehaviour:
     Angle: 0
     Magnitude: 0
     Colour: {r: 0, g: 0.7058824, b: 0.12460327, a: 1}
+  - Instantiate: 1
+    Name: mouseX+Y
+    Direction: {x: 0, y: 0}
+    Angle: 0
+    Magnitude: 0
+    Colour: {r: 0, g: 1, b: 1, a: 1}
   cameraScript: {fileID: 519420030}
   camera: {fileID: 519420031}
   inFlightSmooth: 0.05
@@ -895,6 +901,8 @@ MonoBehaviour:
   cursorHead: {fileID: 1800906463}
   cursorLine: {fileID: 473096331}
   cursorHasMoved: 0
+  cursorPositionX: 0
+  cursorPositionY: 0
   walking: 0
   groundLayer:
     serializedVersion: 2
@@ -913,6 +921,8 @@ MonoBehaviour:
   zoomLimit: 3
   normalSpriteObject: {fileID: 736442364}
   animator: {fileID: 736442367}
+  inputMouseX: 0
+  inputMouseY: 0
   fidgeting: 0
   hopping: 0
   gliding: 0

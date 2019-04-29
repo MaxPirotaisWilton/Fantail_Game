@@ -40,6 +40,8 @@ public class NewPlayerScript : MonoBehaviour
     private SpriteRenderer cursorLineSpriteRenderer;
     public bool cursorHasMoved;
 
+    public float cursorPositionX = 0;
+    public float cursorPositionY = 0;
 
     private Rigidbody2D rigidbody;
     public bool walking = false;
@@ -70,6 +72,11 @@ public class NewPlayerScript : MonoBehaviour
     private TrailRenderer trail;
     public Animator animator;
 
+    //Variables related to inputs
+
+    public float inputMouseX;
+    public float inputMouseY;
+
     //Variables fed into Animator Variables
     public bool fidgeting;
     public bool hopping;
@@ -82,6 +89,7 @@ public class NewPlayerScript : MonoBehaviour
     // Use this for initialization
     void Start()
     {
+        Cursor.lockState = CursorLockMode.Locked;
 
         rigidbody = GetComponent<Rigidbody2D>();
         normalSpriteRenderer = normalSpriteObject.GetComponent<SpriteRenderer>();
@@ -107,6 +115,14 @@ public class NewPlayerScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+
+        //Variables related to inputs
+
+        float inputHorizontal = Input.GetAxis("Horizontal");
+        inputMouseX = Input.GetAxis("Mouse X");
+        inputMouseY = Input.GetAxis("Mouse Y");
+
+
         deltaTime = Time.deltaTime;
         VectorVisualization();
 
@@ -170,9 +186,9 @@ public class NewPlayerScript : MonoBehaviour
 
 
         //Hoping Left
-        if (Input.GetKey(KeyCode.LeftArrow))
+        if (inputHorizontal < 0)
         {
-            if (rigidbody.velocity.x >= -(horizontalSpeed * appliedPenaltyMultiplier))
+            if (rigidbody.velocity.x >= -(horizontalSpeed * appliedPenaltyMultiplier * -inputHorizontal))
             {
                 rigidbody.velocity += -transformRight2;
             }
@@ -186,9 +202,9 @@ public class NewPlayerScript : MonoBehaviour
 
 
         //Hoping Right
-        if (Input.GetKey(KeyCode.RightArrow))
+        if (inputHorizontal > 0)
         {
-            if (rigidbody.velocity.x <= (horizontalSpeed * appliedPenaltyMultiplier))
+            if (rigidbody.velocity.x <= (horizontalSpeed * appliedPenaltyMultiplier * inputHorizontal))
             {
                 rigidbody.velocity += transformRight2;
             }
@@ -222,13 +238,17 @@ public class NewPlayerScript : MonoBehaviour
 
         //Calculations for flight vector
 
-        Vector2 mousePosPlus = new Vector2(Input.mousePosition.x - Screen.width / 2, Input.mousePosition.y - Screen.height / 2);
-        Vector2 zoomVector = mousePosPlus / 75;
+
+        cursorPositionX += inputMouseX;
+        cursorPositionY += inputMouseY;
+        Vector2 zoomVector = new Vector2(cursorPositionX,cursorPositionY);
 
         //Limits the vector
         if (zoomVector.magnitude > zoomLimit)
         {
             zoomVector *= (zoomLimit / zoomVector.magnitude);
+            cursorPositionX = zoomVector.x;
+            cursorPositionY = zoomVector.y;
         }
 
         Vector2 cursorPosVector = zoomVector + rigidbody.position;
@@ -444,6 +464,19 @@ public class NewPlayerScript : MonoBehaviour
                 visualVectorArray[3].Angle = Vector2.SignedAngle(plainVector, visualVectorArray[3].Direction);
             }
         }
+
+
+        {
+            visualVectorArray[4].Direction = new Vector2(inputMouseX,inputMouseY);
+
+            visualVectorArray[4].Magnitude = visualVectorArray[4].Direction.magnitude;
+
+            if (visualVectorArray[4].Magnitude > 0)
+            {
+                visualVectorArray[4].Angle = Vector2.SignedAngle(plainVector, visualVectorArray[4].Direction);
+            }
+        }
+
 
         //updates vector visualisation arrows
         for (int i = 0; i < visualVectorArray.Length; i++)
