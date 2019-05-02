@@ -4,32 +4,17 @@ using UnityEngine;
 
 public class NewPlayerScript : MonoBehaviour
 {
-    [System.Serializable]
-    public struct VectorVisualisation
-    {
-        public bool Instantiate;
-        public string Name;
-        public Vector2 Direction;
-        public float Angle;
-        public float Magnitude;
-        public Color Colour;
-    }
 
-
-
-    public VectorVisualisation[] visualVectorArray;
-    private GameObject[] visualVectorArrowsArray;
-
-    private Vector2 drag;
-    private Vector2 lift;
-    private Vector2 aeroForce;
+    public Vector2 drag;
+    public Vector2 lift;
+    public Vector2 aeroForce;
     private float alpha;
 
     //private int framecount;
 
     public CameraFollow cameraScript;
     public Camera camera;
-    private bool hasFlown;
+
     public float inFlightSmooth = 0.5f;
     public float normalSmooth = 0.0125f;
 
@@ -59,7 +44,11 @@ public class NewPlayerScript : MonoBehaviour
     public float penaltyMultiplier = 0.5f;
 
     private float cursorAngle;
-    public float zoomLimit = 4f;
+    public float cursorLimit = 4f;
+    private bool hasFlown;
+    public int zoomNumLimit = 3;
+    public int zoomNum;
+    public bool allowZoom;
 
     private bool bottomCollides;
     private bool inWater;
@@ -89,7 +78,8 @@ public class NewPlayerScript : MonoBehaviour
     // Use this for initialization
     void Start()
     {
-        Cursor.lockState = CursorLockMode.Locked;
+
+        zoomNum = zoomNumLimit;
 
         rigidbody = GetComponent<Rigidbody2D>();
         normalSpriteRenderer = normalSpriteObject.GetComponent<SpriteRenderer>();
@@ -99,17 +89,11 @@ public class NewPlayerScript : MonoBehaviour
 
         trail = GetComponent<TrailRenderer>();
 
-        visualVectorArrowsArray = new GameObject[visualVectorArray.Length];
 
-        for (int i = 0; i < visualVectorArray.Length; i++)
-        {
-
-            visualVectorArrowsArray[i] = Instantiate(cursor, transform);
-
-
-        }
 
         Cursor.visible = false;
+        Cursor.lockState = CursorLockMode.Locked;
+
     }
 
     // Update is called once per frame
@@ -122,10 +106,7 @@ public class NewPlayerScript : MonoBehaviour
         inputMouseX = Input.GetAxis("Mouse X");
         inputMouseY = Input.GetAxis("Mouse Y");
 
-
         deltaTime = Time.deltaTime;
-        VectorVisualization();
-
 
         Vector2 transformRight2 = new Vector2(transform.right.x, transform.right.y);
 
@@ -157,27 +138,27 @@ public class NewPlayerScript : MonoBehaviour
             {
                 normalSpriteRenderer.flipX = true;
             }
-            else 
+            else
             {
                 normalSpriteRenderer.flipX = false;
             }
-        } 
+        }
         else
         {
 
-            wait ++;
+            wait++;
 
             if (bottomCollides)
             {
                 hopping = false;
             }
-            if(wait >= 500)
+            if (wait >= 500)
             {
                 fidgeting = true;
                 wait = -200;
             }
 
-            if(wait >= 0)
+            if (wait >= 0)
             {
                 fidgeting = false;
             }
@@ -223,6 +204,14 @@ public class NewPlayerScript : MonoBehaviour
         inWater = Physics2D.OverlapCircle(bottomCheck.position, groundCheckRadius, waterLayer);
 
 
+        if(bottomCollides || inWater)
+        {
+
+            zoomNum = zoomNumLimit;
+
+        }
+
+
         //Decreases a multiplier for speed when in Water 
         if (inWater)
         {
@@ -241,12 +230,12 @@ public class NewPlayerScript : MonoBehaviour
 
         cursorPositionX += inputMouseX;
         cursorPositionY += inputMouseY;
-        Vector2 zoomVector = new Vector2(cursorPositionX,cursorPositionY);
+        Vector2 zoomVector = new Vector2(cursorPositionX, cursorPositionY);
 
         //Limits the vector
-        if (zoomVector.magnitude > zoomLimit)
+        if (zoomVector.magnitude > cursorLimit)
         {
-            zoomVector *= (zoomLimit / zoomVector.magnitude);
+            zoomVector *= (cursorLimit / zoomVector.magnitude);
             cursorPositionX = zoomVector.x;
             cursorPositionY = zoomVector.y;
         }
@@ -262,9 +251,26 @@ public class NewPlayerScript : MonoBehaviour
         cursorAngle = (Mathf.Acos(cosAngle)) * Mathf.Rad2Deg;
 
 
+        if (Input.GetButtonDown("Dash") && zoomNum > 0)
+        {
+
+           
+            allowZoom = true;
+            Debug.Log("Dash is initiated");
+            zoomNum--;
+
+
+        }
+        else 
+        {
+
+            allowZoom = false;
+             
+        }
+
 
         //makes the player zoom towards the in-game cursor when the player clicks the left mouse button
-        if (Input.GetMouseButtonDown(0))
+        if (allowZoom)
         {
 
             rigidbody.velocity = zoomVector * zoomMultiplier * appliedPenaltyMultiplier;
@@ -306,7 +312,7 @@ public class NewPlayerScript : MonoBehaviour
          *
          */
 
-        if (hasFlown && Input.GetMouseButton(1))
+        if (hasFlown && Input.GetButton("Glide/Peck"))
         {
             gliding = true;
             normalSpriteRenderer.flipX = false;
@@ -340,18 +346,19 @@ public class NewPlayerScript : MonoBehaviour
         animator.SetBool("hopping", hopping);
         animator.SetBool("gliding", gliding);
         animator.SetBool("onGround", bottomCollides);
-        animator.SetBool("dashed", Input.GetMouseButtonDown(0));
+        animator.SetBool("dashed", allowZoom);
         animator.SetBool("inWater", inWater);
 
     }
 
     void LateUpdate()
     {
-        if (Input.GetMouseButtonDown(0) && !hasFlown && !inWater)
+        if (allowZoom && !hasFlown && !inWater)
 
         {
             cameraScript.smoothSpeed = inFlightSmooth;
             hasFlown = true;
+            animator.Play("Dash", -1, 0f);
         }
     }
 
@@ -370,13 +377,11 @@ public class NewPlayerScript : MonoBehaviour
         float processedAlpha;
 
         processedBodyAngle = (normalSpriteObject.transform.eulerAngles.z);
-        /*if(processedBodyAngle < 0)
-        {
-            processedBodyAngle += 360;
-        }*/
+
+        float glidingBodyAngle = cursorAngle;
 
 
-        normalSpriteObject.transform.eulerAngles = new Vector3(0, 0, cursorAngle);
+        normalSpriteObject.transform.eulerAngles = new Vector3(0, 0, glidingBodyAngle);
 
         bodyDirection = CursorPosition;
 
@@ -387,7 +392,8 @@ public class NewPlayerScript : MonoBehaviour
         {
             normalSpriteRenderer.flipY = true;
             processedAlpha = -rawAlpha;
-        } else
+        }
+        else
         {
             normalSpriteRenderer.flipY = false;
         }
@@ -415,101 +421,5 @@ public class NewPlayerScript : MonoBehaviour
         }
     }
 
-    void VectorVisualization()
-    {
-        //Completing missing info on visualVectorArray[0]
-        {
-            visualVectorArray[0].Direction = aeroForce / 3;
-
-            visualVectorArray[0].Magnitude = visualVectorArray[0].Direction.magnitude;
-
-            if (visualVectorArray[0].Magnitude > 0)
-            {
-                visualVectorArray[0].Angle = Vector2.SignedAngle(plainVector, visualVectorArray[0].Direction);
-            }
-        }
-
-        //Completing missing info on visualVectorArray[1]
-        {
-            visualVectorArray[1].Direction = rigidbody.velocity / 3;
-
-            visualVectorArray[1].Magnitude = visualVectorArray[1].Direction.magnitude;
-
-            if (visualVectorArray[1].Magnitude > 0)
-            {
-                visualVectorArray[1].Angle = Vector2.SignedAngle(plainVector, visualVectorArray[1].Direction);
-            }
-        }
-
-        //Completing missing info on visualVectorArray[2]
-        {
-            visualVectorArray[2].Direction = drag / 3;
-
-            visualVectorArray[2].Magnitude = visualVectorArray[2].Direction.magnitude;
-
-            if (visualVectorArray[2].Magnitude > 0)
-            {
-                visualVectorArray[2].Angle = Vector2.SignedAngle(plainVector, visualVectorArray[2].Direction);
-            }
-        }
-
-        //Completing missing info on visualVectorArray[3]
-        {
-            visualVectorArray[3].Direction = lift / 3;
-
-            visualVectorArray[3].Magnitude = visualVectorArray[3].Direction.magnitude;
-
-            if (visualVectorArray[3].Magnitude > 0)
-            {
-                visualVectorArray[3].Angle = Vector2.SignedAngle(plainVector, visualVectorArray[3].Direction);
-            }
-        }
-
-
-        {
-            visualVectorArray[4].Direction = new Vector2(inputMouseX,inputMouseY);
-
-            visualVectorArray[4].Magnitude = visualVectorArray[4].Direction.magnitude;
-
-            if (visualVectorArray[4].Magnitude > 0)
-            {
-                visualVectorArray[4].Angle = Vector2.SignedAngle(plainVector, visualVectorArray[4].Direction);
-            }
-        }
-
-
-        //updates vector visualisation arrows
-        for (int i = 0; i < visualVectorArray.Length; i++)
-        {
-            Vector2 originalVector = visualVectorArray[i].Direction;
-            Vector2 processedVector = originalVector + rigidbody.position;
-            float cursorRotation = visualVectorArray[i].Angle;
-            float visualMagnitude = visualVectorArray[i].Magnitude;
-            Color visualColour = visualVectorArray[i].Colour;
-            Transform[] arrowTransformsArray;
-            SpriteRenderer[] arrowSpriteRenderersArray;
-
-            arrowSpriteRenderersArray = visualVectorArrowsArray[i].GetComponentsInChildren<SpriteRenderer>();
-            arrowTransformsArray = visualVectorArrowsArray[i].GetComponentsInChildren<Transform>();
-
-            for (int j = 0; j < arrowSpriteRenderersArray.Length; j++)
-            {
-                arrowSpriteRenderersArray[j].color = visualVectorArray[i].Colour;
-                arrowSpriteRenderersArray[j].enabled = visualVectorArray[i].Instantiate;
-
-            }
-
-            arrowTransformsArray[2].position = processedVector;
-            arrowTransformsArray[2].eulerAngles = new Vector3(0, 0, cursorRotation);
-
-            arrowTransformsArray[1].position = originalVector / 2 + rigidbody.position;
-            arrowTransformsArray[1].eulerAngles = new Vector3(0, 0, cursorRotation);
-            arrowTransformsArray[1].transform.localScale = new Vector3(visualMagnitude / 2.5f, 1, 1);
-
-            //Debug.Log("Components found in element " + i +": # of SpriteRenderers = " + arrowSpriteRenderersArray.Length + " and # of Transforms = " + arrowTransformsArray.Length);
-
-
-        }
-    }
 
 }

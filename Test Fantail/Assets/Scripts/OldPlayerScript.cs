@@ -241,33 +241,6 @@ public class OldPlayerScript : MonoBehaviour {
     {
         Vector2 bodyDirection;
         float rawAlpha;
-        float processedAlpha;
-
-        /*
-        float bodyAngle = 999f;
-        float velocityAngle = 0f;
-        float alpha;
-
-        if(Vector2.SqrMagnitude(rigidbody.velocity) > 0)
-        { 
-            Vector3 velocity3 = new Vector3
-        }
-
-
-
-        if (flightSpriteObject.transform.eulerAngles.z < 0)
-        {
-            bodyAngle = flightSpriteObject.transform.eulerAngles.z + 360;
-        }
-        else
-        {
-            bodyAngle = flightSpriteObject.transform.eulerAngles.z;
-        }
-
-
-
-        Debug.Log("bodyAngle = " + bodyAngle + " and velocityAngle = " + velocityAngle);
-        */
 
         flightSpriteObject.transform.eulerAngles = new Vector3(0, 0, cursorAngle);
 

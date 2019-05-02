@@ -61,11 +61,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\ArrowHeadScript.cs" />
     <Compile Include="Assets\Scripts\AudioManager.cs" />
     <Compile Include="Assets\Scripts\CameraFollow.cs" />
     <Compile Include="Assets\Scripts\NewPlayerScript.cs" />
     <Compile Include="Assets\Scripts\OldPlayerScript.cs" />
+    <Compile Include="Assets\Scripts\RaycastGround.cs" />
     <Compile Include="Assets\Scripts\Sound.cs" />
+    <Compile Include="Assets\VectorVisualizationScript.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>/Users/Max/Documents/Unity/Projects_on_GitHub/Fantail_Game/Test Fantail/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
