@@ -43,6 +43,8 @@ public class NewPlayerScript : MonoBehaviour
     private float appliedPenaltyMultiplier = 1f;
     public float penaltyMultiplier = 0.5f;
 
+    public bool pecking;
+
     private float cursorAngle;
     public float cursorLimit = 4f;
     private bool hasFlown;
@@ -65,6 +67,11 @@ public class NewPlayerScript : MonoBehaviour
 
     public float inputMouseX;
     public float inputMouseY;
+    public float inputJoystickX;
+    public float inputJoystickY;
+
+    public int controlsCase = 0;
+
 
     //Variables fed into Animator Variables
     public bool fidgeting;
@@ -105,6 +112,8 @@ public class NewPlayerScript : MonoBehaviour
         float inputHorizontal = Input.GetAxis("Horizontal");
         inputMouseX = Input.GetAxis("Mouse X");
         inputMouseY = Input.GetAxis("Mouse Y");
+        inputJoystickX = Input.GetAxis("Joystick X");
+        inputJoystickY = Input.GetAxis("Joystick Y");
 
         deltaTime = Time.deltaTime;
 
@@ -196,7 +205,23 @@ public class NewPlayerScript : MonoBehaviour
 
         }
 
-
+        //Pecking
+        if(bottomCollides && !walking && !hasFlown && !inWater)
+        {
+            if (Input.GetButtonDown("Glide/Peck"))
+            {
+                pecking = true;
+                Debug.Log("Pecking...");
+            }
+            else
+            {
+                pecking = false;
+            } 
+        }
+        else 
+        {
+            pecking = false;
+        }
 
 
         //Handles detection of collision(s) with bool(s)
@@ -208,6 +233,7 @@ public class NewPlayerScript : MonoBehaviour
         {
 
             zoomNum = zoomNumLimit;
+            normalSpriteObject.transform.eulerAngles = new Vector3(0, 0, 0);
 
         }
 
@@ -227,10 +253,27 @@ public class NewPlayerScript : MonoBehaviour
 
         //Calculations for flight vector
 
+        Vector2 processedVector = new Vector2(cursorPositionX, cursorPositionY);
+        Vector2 zoomVector;
 
-        cursorPositionX += inputMouseX;
-        cursorPositionY += inputMouseY;
-        Vector2 zoomVector = new Vector2(cursorPositionX, cursorPositionY);
+        switch (controlsCase)
+        {
+            case 0:
+                cursorPositionX += inputMouseX;
+                cursorPositionY += inputMouseY;
+                zoomVector = processedVector;
+                break;
+
+            case 1:
+                cursorPositionX = inputJoystickX;
+                cursorPositionY = -inputJoystickY;
+                processedVector.Normalize();
+                zoomVector = processedVector;
+                zoomVector *= 4;
+                break;
+        }
+
+
 
         //Limits the vector
         if (zoomVector.magnitude > cursorLimit)
@@ -253,12 +296,9 @@ public class NewPlayerScript : MonoBehaviour
 
         if (Input.GetButtonDown("Dash") && zoomNum > 0)
         {
-
-           
+             
             allowZoom = true;
-            Debug.Log("Dash is initiated");
             zoomNum--;
-
 
         }
         else 
@@ -274,10 +314,36 @@ public class NewPlayerScript : MonoBehaviour
         {
 
             rigidbody.velocity = zoomVector * zoomMultiplier * appliedPenaltyMultiplier;
-
+            normalSpriteRenderer.flipX = false;
         }
 
+        //Makes the bird rotate towards velocity when having hopped
+        if(hasFlown && !gliding)
+        {
+            float intermediateBodyAngle;
+            float newBodyAngle;
 
+            if(rigidbody.velocity.magnitude > 0)
+            {
+                intermediateBodyAngle = Vector2.SignedAngle(plainVector, rigidbody.velocity);
+            }
+            else
+            {
+                intermediateBodyAngle = 0;
+            }
+
+            if(intermediateBodyAngle > 90 || intermediateBodyAngle < -90)
+            {
+                normalSpriteRenderer.flipX = true;
+                newBodyAngle = intermediateBodyAngle + 180;
+            }
+            else
+            {
+                newBodyAngle = intermediateBodyAngle;
+            }
+
+            normalSpriteObject.transform.eulerAngles = new Vector3(0,0,newBodyAngle);
+        }
 
 
         //resets camera smoothness when back on the ground after flying
@@ -304,8 +370,6 @@ public class NewPlayerScript : MonoBehaviour
         cursorHead.transform.eulerAngles = new Vector3(0, 0, cursorAngle);
         cursorLine.transform.eulerAngles = new Vector3(0, 0, cursorAngle);
 
-
-
         /*
          * 
          * Switches from normal motion to gliding motion when left clicking during flight.
@@ -328,13 +392,12 @@ public class NewPlayerScript : MonoBehaviour
         else
         {
             gliding = false;
-            normalSpriteObject.transform.eulerAngles = new Vector3(0, 0, 0);
             normalSpriteRenderer.flipY = false;
 
             //Decreases trail length until zero, when it is disabled
             if (trail.time >= 0)
             {
-                trail.time -= 0.01f;
+                trail.time -= 0.02f;
             }
             else
             {
@@ -348,7 +411,7 @@ public class NewPlayerScript : MonoBehaviour
         animator.SetBool("onGround", bottomCollides);
         animator.SetBool("dashed", allowZoom);
         animator.SetBool("inWater", inWater);
-
+        animator.SetBool("peck", pecking);
     }
 
     void LateUpdate()

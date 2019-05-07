@@ -92,7 +92,7 @@ public class VectorVisualizationScript : MonoBehaviour {
             }
         }
 
-
+        //Completing missing info on visualVectorArray[4]
         {
             visualVectorArray[4].Direction = new Vector2(player.inputMouseX, player.inputMouseY);
 
@@ -104,6 +104,17 @@ public class VectorVisualizationScript : MonoBehaviour {
             }
         }
 
+        //Completing missing info on visualVectorArray[5]
+        {
+            visualVectorArray[5].Direction = new Vector2(player.inputJoystickX, player.inputJoystickY);
+
+            visualVectorArray[5].Magnitude = visualVectorArray[5].Direction.magnitude;
+
+            if (visualVectorArray[5].Magnitude > 0)
+            {
+                visualVectorArray[5].Angle = Vector2.SignedAngle(plainVector, visualVectorArray[5].Direction);
+            }
+        }
 
         //updates vector visualisation arrows
         for (int i = 0; i < visualVectorArray.Length; i++)

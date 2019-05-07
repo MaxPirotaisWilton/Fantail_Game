@@ -871,15 +871,19 @@ MonoBehaviour:
   horizontalSpeed: 7
   hopSpeed: 4
   zoomMultiplier: 5
-  penaltyMultiplier: 0.4
+  penaltyMultiplier: 0.3
+  pecking: 0
   cursorLimit: 4
-  zoomNumLimit: 3
+  zoomNumLimit: 4
   zoomNum: 0
   allowZoom: 0
   normalSpriteObject: {fileID: 736442364}
   animator: {fileID: 736442367}
   inputMouseX: 0
   inputMouseY: 0
+  inputJoystickX: 0
+  inputJoystickY: 0
+  controlsCase: 1
   fidgeting: 0
   hopping: 0
   gliding: 0
@@ -975,7 +979,7 @@ MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 416795254}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8d317295d5a5f447a871fb2e9d6af862, type: 3}
   m_Name: 
@@ -984,36 +988,42 @@ MonoBehaviour:
   vectorVisual: {fileID: 1490259952696708, guid: 4d4b9938668a74f9698132fb99db416b,
     type: 2}
   visualVectorArray:
-  - Instantiate: 1
+  - Instantiate: 0
     Name: AeroForce
     Direction: {x: 0, y: 0}
     Angle: 0
     Magnitude: 0
     Colour: {r: 0, g: 0, b: 1, a: 1}
-  - Instantiate: 1
+  - Instantiate: 0
     Name: Velocity
     Direction: {x: 0, y: 0}
     Angle: 0
     Magnitude: 0
     Colour: {r: 1, g: 0, b: 0, a: 1}
-  - Instantiate: 1
+  - Instantiate: 0
     Name: Drag
     Direction: {x: 0, y: 0}
     Angle: 0
     Magnitude: 0
     Colour: {r: 1, g: 1, b: 0, a: 1}
-  - Instantiate: 1
+  - Instantiate: 0
     Name: Lift
     Direction: {x: 0, y: 0}
     Angle: 0
     Magnitude: 0
     Colour: {r: 0, g: 0.78431374, b: 0, a: 1}
-  - Instantiate: 1
+  - Instantiate: 0
     Name: Mouse X + Y
     Direction: {x: 0, y: 0}
     Angle: 0
     Magnitude: 0
     Colour: {r: 0, g: 1, b: 1, a: 1}
+  - Instantiate: 0
+    Name: Joystick X + Y
+    Direction: {x: 0, y: 0}
+    Angle: 0
+    Magnitude: 0
+    Colour: {r: 1, g: 0.4392157, b: 1, a: 1}
 --- !u!1 &473096331 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1677023889971212, guid: ec17c326cd01c4efd89fe898386cae1e,
