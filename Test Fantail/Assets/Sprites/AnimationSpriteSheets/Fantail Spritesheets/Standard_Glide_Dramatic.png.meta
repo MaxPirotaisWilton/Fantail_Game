@@ -1,0 +1,4026 @@
+fileFormatVersion: 2
+guid: e1ce73dc7767c4d0db6789cd6651c3a7
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Standard_Glide_Dramatic_0
+    21300002: Standard_Glide_Dramatic_1
+    21300004: Standard_Glide_Dramatic_2
+    21300006: Standard_Glide_Dramatic_3
+    21300008: Standard_Glide_Dramatic_4
+    21300010: Standard_Glide_Dramatic_5
+    21300012: Standard_Glide_Dramatic_6
+    21300014: Standard_Glide_Dramatic_7
+    21300016: Standard_Glide_Dramatic_8
+    21300018: Standard_Glide_Dramatic_9
+    21300020: Standard_Glide_Dramatic_10
+    21300022: Standard_Glide_Dramatic_11
+    21300024: Standard_Glide_Dramatic_12
+    21300026: Standard_Glide_Dramatic_13
+    21300028: Standard_Glide_Dramatic_14
+    21300030: Standard_Glide_Dramatic_15
+    21300032: Standard_Glide_Dramatic_16
+    21300034: Standard_Glide_Dramatic_17
+    21300036: Standard_Glide_Dramatic_18
+    21300038: Standard_Glide_Dramatic_19
+    21300040: Standard_Glide_Dramatic_20
+    21300042: Standard_Glide_Dramatic_21
+    21300044: Standard_Glide_Dramatic_22
+    21300046: Standard_Glide_Dramatic_23
+    21300048: Standard_Glide_Dramatic_24
+    21300050: Standard_Glide_Dramatic_25
+    21300052: Standard_Glide_Dramatic_26
+    21300054: Standard_Glide_Dramatic_27
+    21300056: Standard_Glide_Dramatic_28
+    21300058: Standard_Glide_Dramatic_29
+    21300060: Standard_Glide_Dramatic_30
+    21300062: Standard_Glide_Dramatic_31
+    21300064: Standard_Glide_Dramatic_32
+    21300066: Standard_Glide_Dramatic_33
+    21300068: Standard_Glide_Dramatic_34
+    21300070: Standard_Glide_Dramatic_35
+    21300072: Standard_Glide_Dramatic_36
+    21300074: Standard_Glide_Dramatic_37
+    21300076: Standard_Glide_Dramatic_38
+    21300078: Standard_Glide_Dramatic_39
+    21300080: Standard_Glide_Dramatic_40
+    21300082: Standard_Glide_Dramatic_41
+    21300084: Standard_Glide_Dramatic_42
+    21300086: Standard_Glide_Dramatic_43
+    21300088: Standard_Glide_Dramatic_44
+    21300090: Standard_Glide_Dramatic_45
+    21300092: Standard_Glide_Dramatic_46
+    21300094: Standard_Glide_Dramatic_47
+    21300096: Standard_Glide_Dramatic_48
+    21300098: Standard_Glide_Dramatic_49
+    21300100: Standard_Glide_Dramatic_50
+    21300102: Standard_Glide_Dramatic_51
+    21300104: Standard_Glide_Dramatic_52
+    21300106: Standard_Glide_Dramatic_53
+    21300108: Standard_Glide_Dramatic_54
+    21300110: Standard_Glide_Dramatic_55
+    21300112: Standard_Glide_Dramatic_56
+    21300114: Standard_Glide_Dramatic_57
+    21300116: Standard_Glide_Dramatic_58
+    21300118: Standard_Glide_Dramatic_59
+    21300120: Standard_Glide_Dramatic_60
+    21300122: Standard_Glide_Dramatic_61
+    21300124: Standard_Glide_Dramatic_62
+    21300126: Standard_Glide_Dramatic_63
+    21300128: Standard_Glide_Dramatic_64
+    21300130: Standard_Glide_Dramatic_65
+    21300132: Standard_Glide_Dramatic_66
+    21300134: Standard_Glide_Dramatic_67
+    21300136: Standard_Glide_Dramatic_68
+    21300138: Standard_Glide_Dramatic_69
+    21300140: Standard_Glide_Dramatic_70
+    21300142: Standard_Glide_Dramatic_71
+    21300144: Standard_Glide_Dramatic_72
+    21300146: Standard_Glide_Dramatic_73
+    21300148: Standard_Glide_Dramatic_74
+    21300150: Standard_Glide_Dramatic_75
+    21300152: Standard_Glide_Dramatic_76
+    21300154: Standard_Glide_Dramatic_77
+    21300156: Standard_Glide_Dramatic_78
+    21300158: Standard_Glide_Dramatic_79
+    21300160: Standard_Glide_Dramatic_80
+    21300162: Standard_Glide_Dramatic_81
+    21300164: Standard_Glide_Dramatic_82
+    21300166: Standard_Glide_Dramatic_83
+    21300168: Standard_Glide_Dramatic_84
+    21300170: Standard_Glide_Dramatic_85
+    21300172: Standard_Glide_Dramatic_86
+    21300174: Standard_Glide_Dramatic_87
+    21300176: Standard_Glide_Dramatic_88
+    21300178: Standard_Glide_Dramatic_89
+    21300180: Standard_Glide_Dramatic_90
+    21300182: Standard_Glide_Dramatic_91
+    21300184: Standard_Glide_Dramatic_92
+    21300186: Standard_Glide_Dramatic_93
+    21300188: Standard_Glide_Dramatic_94
+    21300190: Standard_Glide_Dramatic_95
+    21300192: Standard_Glide_Dramatic_96
+    21300194: Standard_Glide_Dramatic_97
+    21300196: Standard_Glide_Dramatic_98
+    21300198: Standard_Glide_Dramatic_99
+    21300200: Standard_Glide_Dramatic_100
+    21300202: Standard_Glide_Dramatic_101
+    21300204: Standard_Glide_Dramatic_102
+    21300206: Standard_Glide_Dramatic_103
+    21300208: Standard_Glide_Dramatic_104
+    21300210: Standard_Glide_Dramatic_105
+    21300212: Standard_Glide_Dramatic_106
+    21300214: Standard_Glide_Dramatic_107
+    21300216: Standard_Glide_Dramatic_108
+    21300218: Standard_Glide_Dramatic_109
+    21300220: Standard_Glide_Dramatic_110
+    21300222: Standard_Glide_Dramatic_111
+    21300224: Standard_Glide_Dramatic_112
+    21300226: Standard_Glide_Dramatic_113
+    21300228: Standard_Glide_Dramatic_114
+    21300230: Standard_Glide_Dramatic_115
+    21300232: Standard_Glide_Dramatic_116
+    21300234: Standard_Glide_Dramatic_117
+    21300236: Standard_Glide_Dramatic_118
+    21300238: Standard_Glide_Dramatic_119
+    21300240: Standard_Glide_Dramatic_120
+    21300242: Standard_Glide_Dramatic_121
+    21300244: Standard_Glide_Dramatic_122
+    21300246: Standard_Glide_Dramatic_123
+    21300248: Standard_Glide_Dramatic_124
+    21300250: Standard_Glide_Dramatic_125
+    21300252: Standard_Glide_Dramatic_126
+    21300254: Standard_Glide_Dramatic_127
+    21300256: Standard_Glide_Dramatic_128
+    21300258: Standard_Glide_Dramatic_129
+    21300260: Standard_Glide_Dramatic_130
+    21300262: Standard_Glide_Dramatic_131
+    21300264: Standard_Glide_Dramatic_132
+    21300266: Standard_Glide_Dramatic_133
+    21300268: Standard_Glide_Dramatic_134
+    21300270: Standard_Glide_Dramatic_135
+    21300272: Standard_Glide_Dramatic_136
+    21300274: Standard_Glide_Dramatic_137
+    21300276: Standard_Glide_Dramatic_138
+    21300278: Standard_Glide_Dramatic_139
+    21300280: Standard_Glide_Dramatic_140
+    21300282: Standard_Glide_Dramatic_141
+    21300284: Standard_Glide_Dramatic_142
+    21300286: Standard_Glide_Dramatic_143
+    21300288: Standard_Glide_Dramatic_144
+    21300290: Standard_Glide_Dramatic_145
+    21300292: Standard_Glide_Dramatic_146
+    21300294: Standard_Glide_Dramatic_147
+    21300296: Standard_Glide_Dramatic_148
+    21300298: Standard_Glide_Dramatic_149
+    21300300: Standard_Glide_Dramatic_150
+    21300302: Standard_Glide_Dramatic_151
+    21300304: Standard_Glide_Dramatic_152
+    21300306: Standard_Glide_Dramatic_153
+    21300308: Standard_Glide_Dramatic_154
+    21300310: Standard_Glide_Dramatic_155
+    21300312: Standard_Glide_Dramatic_156
+    21300314: Standard_Glide_Dramatic_157
+    21300316: Standard_Glide_Dramatic_158
+    21300318: Standard_Glide_Dramatic_159
+    21300320: Standard_Glide_Dramatic_160
+    21300322: Standard_Glide_Dramatic_161
+    21300324: Standard_Glide_Dramatic_162
+    21300326: Standard_Glide_Dramatic_163
+    21300328: Standard_Glide_Dramatic_164
+    21300330: Standard_Glide_Dramatic_165
+    21300332: Standard_Glide_Dramatic_166
+    21300334: Standard_Glide_Dramatic_167
+    21300336: Standard_Glide_Dramatic_168
+    21300338: Standard_Glide_Dramatic_169
+    21300340: Standard_Glide_Dramatic_170
+    21300342: Standard_Glide_Dramatic_171
+    21300344: Standard_Glide_Dramatic_172
+    21300346: Standard_Glide_Dramatic_173
+    21300348: Standard_Glide_Dramatic_174
+    21300350: Standard_Glide_Dramatic_175
+    21300352: Standard_Glide_Dramatic_176
+    21300354: Standard_Glide_Dramatic_177
+    21300356: Standard_Glide_Dramatic_178
+    21300358: Standard_Glide_Dramatic_179
+    21300360: Standard_Glide_Dramatic_180
+    21300362: Standard_Glide_Dramatic_181
+    21300364: Standard_Glide_Dramatic_182
+    21300366: Standard_Glide_Dramatic_183
+    21300368: Standard_Glide_Dramatic_184
+    21300370: Standard_Glide_Dramatic_185
+    21300372: Standard_Glide_Dramatic_186
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2900
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5b627a5b3ff4d34816d676ed246f48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_1
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 2900
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a48a9b3b06ba4fc08480a9d41248154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_2
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 2900
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530284ea80ec646479f1614acd6be12d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_3
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 2900
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f351d2551ab5249cf906d2bea35eb1be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_4
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 2900
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0798f5eb49b14a0f9595a08b42f0424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_5
+      rect:
+        serializedVersion: 2
+        x: 3475
+        y: 2900
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2c939aae67542d5bfbebdec88fddd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_6
+      rect:
+        serializedVersion: 2
+        x: 4170
+        y: 2900
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b310073ad244667826999c58a388b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_7
+      rect:
+        serializedVersion: 2
+        x: 4865
+        y: 2900
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d6322fd7abd41d6b4a2ffaa8c53325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_8
+      rect:
+        serializedVersion: 2
+        x: 5560
+        y: 2900
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4435b8128444f48b346c414987a64f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_9
+      rect:
+        serializedVersion: 2
+        x: 6255
+        y: 2900
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62aface83ecb84b3fbe770593b05e9a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_10
+      rect:
+        serializedVersion: 2
+        x: 6950
+        y: 2900
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67651fe837d2942adb9e126de8e2db01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_11
+      rect:
+        serializedVersion: 2
+        x: 7645
+        y: 2900
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb01873389c79458da202f863daef0be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_12
+      rect:
+        serializedVersion: 2
+        x: 8340
+        y: 2900
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a18ca151c2324427b64c041a9413fd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_13
+      rect:
+        serializedVersion: 2
+        x: 9035
+        y: 2900
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928b99dfeec8c495896c78ecb5502b93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_14
+      rect:
+        serializedVersion: 2
+        x: 9730
+        y: 2900
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5851b7a49b624e61abcdc4f2a64ccec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_15
+      rect:
+        serializedVersion: 2
+        x: 10425
+        y: 2900
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1545cf4a0681435c8f0bf509311f370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_16
+      rect:
+        serializedVersion: 2
+        x: 11120
+        y: 2900
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c3ad0052958409faa862e8d1057b39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2610
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d1e4bf898334c9ba43ea301237e6d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_18
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 2610
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be8dbd79edbb4a5eb6434f8ca5f5f3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_19
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 2610
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e885fef9471247f5a5377d4034b7d5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_20
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 2610
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca5160e9ac2c40d88a91a0fe9581154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_21
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 2610
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953d000225b864ecfacab6a410c6d0a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_22
+      rect:
+        serializedVersion: 2
+        x: 3475
+        y: 2610
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b694f4519dc4764ab8ff8e7705bfd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_23
+      rect:
+        serializedVersion: 2
+        x: 4170
+        y: 2610
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5035d996807448ebc09a436218e890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_24
+      rect:
+        serializedVersion: 2
+        x: 4865
+        y: 2610
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed84003311f804f3eaa0828b1d560c74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_25
+      rect:
+        serializedVersion: 2
+        x: 5560
+        y: 2610
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad074b3dd510e4ebf97883ad25e98730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_26
+      rect:
+        serializedVersion: 2
+        x: 6255
+        y: 2610
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5eb492584b1c4ea9934dbc2dbe07de8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_27
+      rect:
+        serializedVersion: 2
+        x: 6950
+        y: 2610
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3b1a043a6f64da79e2540184edc5b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_28
+      rect:
+        serializedVersion: 2
+        x: 7645
+        y: 2610
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2844d0e1ad01444e5901c7dd897b1b71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_29
+      rect:
+        serializedVersion: 2
+        x: 8340
+        y: 2610
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4434960e0924c7c96ef435cc396c61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_30
+      rect:
+        serializedVersion: 2
+        x: 9035
+        y: 2610
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4078934d06547b2acdfc33068098d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_31
+      rect:
+        serializedVersion: 2
+        x: 9730
+        y: 2610
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04eef074c806485fa6b7fbeacc92e19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_32
+      rect:
+        serializedVersion: 2
+        x: 10425
+        y: 2610
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f065887c08dc240c6a251a65de56efd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_33
+      rect:
+        serializedVersion: 2
+        x: 11120
+        y: 2610
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb22931396a654745b1374d240b87692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2320
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6734d517e6f0c4e49a275fce1877dede
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_35
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 2320
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3258c1bc78f40308873a0c4cfb7d55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_36
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 2320
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5155c08bebf4b4c9e5015479ecb848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_37
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 2320
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc8e8776b124473fb478a8937bf93a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_38
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 2320
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcc30a58335e4bfb9470032db3339f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_39
+      rect:
+        serializedVersion: 2
+        x: 3475
+        y: 2320
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c4d86fe55a84f798b2fbdc7091d5d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_40
+      rect:
+        serializedVersion: 2
+        x: 4170
+        y: 2320
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f178b5524d04e47aa910456b72a11f23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_41
+      rect:
+        serializedVersion: 2
+        x: 4865
+        y: 2320
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960c36d8036ee41fe8effcc9a58f33a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_42
+      rect:
+        serializedVersion: 2
+        x: 5560
+        y: 2320
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa68575ab7a4b4a58b6c5d02e59af25d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_43
+      rect:
+        serializedVersion: 2
+        x: 6255
+        y: 2320
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d6cd9ba65064553bd0648de4cd88ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_44
+      rect:
+        serializedVersion: 2
+        x: 6950
+        y: 2320
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aad15b73cf174cf0aeb8c4e3be5bc10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_45
+      rect:
+        serializedVersion: 2
+        x: 7645
+        y: 2320
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c27c73e79984408a986a581ef9de15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_46
+      rect:
+        serializedVersion: 2
+        x: 8340
+        y: 2320
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f224d0ace9e46d2ace576731fcec91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_47
+      rect:
+        serializedVersion: 2
+        x: 9035
+        y: 2320
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4baeb661d15643a4a50d1216f7c427b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_48
+      rect:
+        serializedVersion: 2
+        x: 9730
+        y: 2320
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d7e74f5b05844af8b4fdf4c95ca1cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_49
+      rect:
+        serializedVersion: 2
+        x: 10425
+        y: 2320
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e341e1e0df74f2891c38a64ce12b60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_50
+      rect:
+        serializedVersion: 2
+        x: 11120
+        y: 2320
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c8fd06176234d6eacfbb7d2b704d0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2030
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d77fe4ef6fb46e1a64f95c6861fc52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_52
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 2030
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e24333e834440768d87825d72dc308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_53
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 2030
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0580e6da43b0941788a9b47b6cc5fdd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_54
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 2030
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb127fe55b8a2434192bf7050eeb4582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_55
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 2030
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72980842ccb9a4b45a0e80cc07690f49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_56
+      rect:
+        serializedVersion: 2
+        x: 3475
+        y: 2030
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6894ec0b3ccdf4f6499ecd409c4dce91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_57
+      rect:
+        serializedVersion: 2
+        x: 4170
+        y: 2030
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948e07d4cd9694b59b237f9d5ed93808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_58
+      rect:
+        serializedVersion: 2
+        x: 4865
+        y: 2030
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa968a8a07d0c495f99895bed4cce64b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_59
+      rect:
+        serializedVersion: 2
+        x: 5560
+        y: 2030
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88cc012f0cac457999db7bf49f05d9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_60
+      rect:
+        serializedVersion: 2
+        x: 6255
+        y: 2030
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cc760785e6747558d858c605250ec3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_61
+      rect:
+        serializedVersion: 2
+        x: 6950
+        y: 2030
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fb1da7de88a405a8fa9c827ba8c7af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_62
+      rect:
+        serializedVersion: 2
+        x: 7645
+        y: 2030
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e31874db90640de859536a474a8f48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_63
+      rect:
+        serializedVersion: 2
+        x: 8340
+        y: 2030
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ba269f996894ff8ae4bd8396cbbdd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_64
+      rect:
+        serializedVersion: 2
+        x: 9035
+        y: 2030
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ebbe289dedc4251926bbde74065728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_65
+      rect:
+        serializedVersion: 2
+        x: 9730
+        y: 2030
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce20f07fb5ce4fbd93ebd39f5029db2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_66
+      rect:
+        serializedVersion: 2
+        x: 10425
+        y: 2030
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d752c48fee5841fba4ef030e94646cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_67
+      rect:
+        serializedVersion: 2
+        x: 11120
+        y: 2030
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0582e9ca374eb41589f1a483e07646ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1740
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8d4b70ad9e4492dae417766cd3ff56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_69
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1740
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2e4bfbaf40b42fd93ec506abf191ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_70
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 1740
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cad8506695bd445ebfd20ed9bc0686e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_71
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 1740
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ceba95dca04413eb585cf95ee8ed5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_72
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 1740
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2e2dc65da79489885df6111091c2ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_73
+      rect:
+        serializedVersion: 2
+        x: 3475
+        y: 1740
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ef118070d3141379e0d2aee7fec8b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_74
+      rect:
+        serializedVersion: 2
+        x: 4170
+        y: 1740
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7163a6922654e4933945394f4c5cb713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_75
+      rect:
+        serializedVersion: 2
+        x: 4865
+        y: 1740
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a942b9c1e80e4bcf979f84d8b547ed8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_76
+      rect:
+        serializedVersion: 2
+        x: 5560
+        y: 1740
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ed95426436e442cb58c64832a9fe1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_77
+      rect:
+        serializedVersion: 2
+        x: 6255
+        y: 1740
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105aed668b0424496a108ee084e60345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_78
+      rect:
+        serializedVersion: 2
+        x: 6950
+        y: 1740
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e052ff8004c4f4be6a25a6dcc7f582e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_79
+      rect:
+        serializedVersion: 2
+        x: 7645
+        y: 1740
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad52fd36c63143bcb89f20ba6ae8e6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_80
+      rect:
+        serializedVersion: 2
+        x: 8340
+        y: 1740
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76b8ff9c6c05465a9a84e3781d52283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_81
+      rect:
+        serializedVersion: 2
+        x: 9035
+        y: 1740
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58849cd4a19254f578f58c17095bfe61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_82
+      rect:
+        serializedVersion: 2
+        x: 9730
+        y: 1740
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3825c7f6f0cd745059b18007ec0a02dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_83
+      rect:
+        serializedVersion: 2
+        x: 10425
+        y: 1740
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31446c10288124e91b4ae16944e3ddf5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_84
+      rect:
+        serializedVersion: 2
+        x: 11120
+        y: 1740
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d326928b2fc65491da06b01b93cbc6ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1450
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e0a35a762a844fb8566ff49e83afb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_86
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1450
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47083f22ca81d4d21a79015496ce3c61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_87
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 1450
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fac989fd52494b1696eb75c01c434ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_88
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 1450
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6604ced5369f34c4ba0028658ae5346b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_89
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 1450
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742aac5e2997640ab8f1c2119477d239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_90
+      rect:
+        serializedVersion: 2
+        x: 3475
+        y: 1450
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4454080982b4609b66e426d7d4fe82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_91
+      rect:
+        serializedVersion: 2
+        x: 4170
+        y: 1450
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de01d76ba5804a6ab88b7a394487a9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_92
+      rect:
+        serializedVersion: 2
+        x: 4865
+        y: 1450
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cf1192b26d5494ea099e7dee7f80e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_93
+      rect:
+        serializedVersion: 2
+        x: 5560
+        y: 1450
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8238c0fe1fb064714a2a98012241c249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_94
+      rect:
+        serializedVersion: 2
+        x: 6255
+        y: 1450
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf221486991a942cdaeb440d314af10c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_95
+      rect:
+        serializedVersion: 2
+        x: 6950
+        y: 1450
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df4f81943f1d43539a4959b4449d5e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_96
+      rect:
+        serializedVersion: 2
+        x: 7645
+        y: 1450
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda018a70bbca439c9e1470dd5632514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_97
+      rect:
+        serializedVersion: 2
+        x: 8340
+        y: 1450
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6603d6f5771684dbe9ee0c0fc562c8eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_98
+      rect:
+        serializedVersion: 2
+        x: 9035
+        y: 1450
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2b0554d5459427bab7286c6ca1062f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_99
+      rect:
+        serializedVersion: 2
+        x: 9730
+        y: 1450
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cca69df31e10452b85a2bc5642b73a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_100
+      rect:
+        serializedVersion: 2
+        x: 10425
+        y: 1450
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427cb62ec40a04ea1a430c3f24141556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_101
+      rect:
+        serializedVersion: 2
+        x: 11120
+        y: 1450
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b8a39ebea524c7f994a8e3d905d1a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1160
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ba3281aee2344c8b6100576ef68231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_103
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1160
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60ed7bafbf3f491b8fe3044301e5ede
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_104
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 1160
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025c0f9c7582f4b84844bb594814868a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_105
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 1160
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63564425e31a445180d8583261dfe6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_106
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 1160
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b515360af051e421e8d50696b0ed4c84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_107
+      rect:
+        serializedVersion: 2
+        x: 3475
+        y: 1160
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47f73687236d4915bbfe000aab6b8b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_108
+      rect:
+        serializedVersion: 2
+        x: 4170
+        y: 1160
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2dfc76465b7345829b12b4ad510223c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_109
+      rect:
+        serializedVersion: 2
+        x: 4865
+        y: 1160
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5eb0e4c293a41f6b3c8830c041386e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_110
+      rect:
+        serializedVersion: 2
+        x: 5560
+        y: 1160
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e903d218a03d4cc898d49061365425a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_111
+      rect:
+        serializedVersion: 2
+        x: 6255
+        y: 1160
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309a441c87f4e4e62aa39c658519b05c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_112
+      rect:
+        serializedVersion: 2
+        x: 6950
+        y: 1160
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc9e58ba29e94563b77c9d0ee9b8b5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_113
+      rect:
+        serializedVersion: 2
+        x: 7645
+        y: 1160
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7748d2577cb6d40d9bab535cd8dabbc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_114
+      rect:
+        serializedVersion: 2
+        x: 8340
+        y: 1160
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd6de212e9fe471088af426355ff122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_115
+      rect:
+        serializedVersion: 2
+        x: 9035
+        y: 1160
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1e5c722ed994089af4b7c5f35050c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_116
+      rect:
+        serializedVersion: 2
+        x: 9730
+        y: 1160
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02a9c3df4b834775990d25254e01c82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_117
+      rect:
+        serializedVersion: 2
+        x: 10425
+        y: 1160
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8f51f1055714f9aadc52cae43da6b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_118
+      rect:
+        serializedVersion: 2
+        x: 11120
+        y: 1160
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8117e8f53d7e04591a49be2b8fa8b59e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 870
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211170c9667d7414fb55f9e2fc18c353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_120
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 870
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed295a1daf9f24765990eac70215219c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_121
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 870
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b15fe3dc4a82402da2fad0709a4ced4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_122
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 870
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0697d717533914fc08e0f166cd0dfc1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_123
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 870
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01745c37c29e94072993f8d0e5e7d500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_124
+      rect:
+        serializedVersion: 2
+        x: 3475
+        y: 870
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1440e220cb144e3ea557d72f5780ea2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_125
+      rect:
+        serializedVersion: 2
+        x: 4170
+        y: 870
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b9edf4e18a24b50936ac05c3bc3258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_126
+      rect:
+        serializedVersion: 2
+        x: 4865
+        y: 870
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1bc896c1edb443baf84ea7693c6197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_127
+      rect:
+        serializedVersion: 2
+        x: 5560
+        y: 870
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2bbff13e3e0472a90547fefbb1b286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_128
+      rect:
+        serializedVersion: 2
+        x: 6255
+        y: 870
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa3c8525e9f146debbef4b6c94d56fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_129
+      rect:
+        serializedVersion: 2
+        x: 6950
+        y: 870
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4e79338ef9d45348f2288debf1a56d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_130
+      rect:
+        serializedVersion: 2
+        x: 7645
+        y: 870
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c567f492cb614f8e91d768d27d5dd26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_131
+      rect:
+        serializedVersion: 2
+        x: 8340
+        y: 870
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bfef23ba23c496b85d70aa39391617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_132
+      rect:
+        serializedVersion: 2
+        x: 9035
+        y: 870
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6367312273dbb4cb4af21855e514aa90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_133
+      rect:
+        serializedVersion: 2
+        x: 9730
+        y: 870
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0acff1d40ff1a483485b16ae7f8262ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_134
+      rect:
+        serializedVersion: 2
+        x: 10425
+        y: 870
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5239f3c1039fb44fc9fc5da24928aeaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_135
+      rect:
+        serializedVersion: 2
+        x: 11120
+        y: 870
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f4167027c11471b928fda23264807b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 580
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d0a6d3200d4417cbe7c91711eb224c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_137
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 580
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b05300c5e43b42e396836a26136a716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_138
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 580
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d44e88f389d94f7996f268cf2634da3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_139
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 580
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209da219db43246a8a6b95799f63ef75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_140
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 580
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a518248515b4c2db408478751e8fd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_141
+      rect:
+        serializedVersion: 2
+        x: 3475
+        y: 580
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bdad8129b0c4bbfaac5a2a3b6391eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_142
+      rect:
+        serializedVersion: 2
+        x: 4170
+        y: 580
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea61fb4f89a14d2f861223054209b7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_143
+      rect:
+        serializedVersion: 2
+        x: 4865
+        y: 580
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34bee131a5cdc401b8bd5d00ba0223a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_144
+      rect:
+        serializedVersion: 2
+        x: 5560
+        y: 580
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5502f793332f74d9592ff0d1425fb409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_145
+      rect:
+        serializedVersion: 2
+        x: 6255
+        y: 580
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ddf78e03bac4ddea1dc41a03d30209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_146
+      rect:
+        serializedVersion: 2
+        x: 6950
+        y: 580
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46630d756c88e47ff8170acb8b49ac50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_147
+      rect:
+        serializedVersion: 2
+        x: 7645
+        y: 580
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fe0aaa2ab7e4b649a67fc993f37a02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_148
+      rect:
+        serializedVersion: 2
+        x: 8340
+        y: 580
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c982a8909c6984e3c8f1483d532575be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_149
+      rect:
+        serializedVersion: 2
+        x: 9035
+        y: 580
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5bf3a9f64168433086d85408ba4bb1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_150
+      rect:
+        serializedVersion: 2
+        x: 9730
+        y: 580
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ac04bc78b6a4c67820ca2cf82b73bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_151
+      rect:
+        serializedVersion: 2
+        x: 10425
+        y: 580
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81569acf4422047249673c66aaca29c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_152
+      rect:
+        serializedVersion: 2
+        x: 11120
+        y: 580
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d2c536259a14b38aa3fe8f17717776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_153
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 290
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44c30522757549da80ca761e7456422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_154
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 290
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f93f1f4ea57c431ab64e3fd3e56ba36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_155
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 290
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3fa988deebb4f05a4828ae8b212b4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_156
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 290
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367b31e83d04e44969cfe90b65a27ff4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_157
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 290
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34423196b0b9463e980df770aff5314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_158
+      rect:
+        serializedVersion: 2
+        x: 3475
+        y: 290
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f726fefa6244a7bb4019e27566cf6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_159
+      rect:
+        serializedVersion: 2
+        x: 4170
+        y: 290
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e243e4d4164db4ebaa98db8642f8de4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_160
+      rect:
+        serializedVersion: 2
+        x: 4865
+        y: 290
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fc9a976802f446ab6881ea0b3888ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_161
+      rect:
+        serializedVersion: 2
+        x: 5560
+        y: 290
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246679624e3794c01bfe0d732851cfa3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_162
+      rect:
+        serializedVersion: 2
+        x: 6255
+        y: 290
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768229da932e8427faf30a8c2da5b9dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_163
+      rect:
+        serializedVersion: 2
+        x: 6950
+        y: 290
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf39e13b9977f4b03b577f86af3d076c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_164
+      rect:
+        serializedVersion: 2
+        x: 7645
+        y: 290
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5fc5bc0767a4f7d98e5229b63761d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_165
+      rect:
+        serializedVersion: 2
+        x: 8340
+        y: 290
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7b7fc51727540d4894f9240e66a410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_166
+      rect:
+        serializedVersion: 2
+        x: 9035
+        y: 290
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f4b1bea550d44a2adcb8572d58b2f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_167
+      rect:
+        serializedVersion: 2
+        x: 9730
+        y: 290
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987719b23c20c4945b2e644e4b637ebf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_168
+      rect:
+        serializedVersion: 2
+        x: 10425
+        y: 290
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d6b7a07abe64a84b0010bd73516e80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_169
+      rect:
+        serializedVersion: 2
+        x: 11120
+        y: 290
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeecdc1a1f53d4c5ab6c485a1910cb77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fed6c07e58904829a8c9a1d4138027d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_171
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 0
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b89b75cf37c4fca9b03b5c3ab258cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_172
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 0
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bc2de595da140678f044714aabcadc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_173
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 0
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7cdc181a4c214d7f83d1b97626906a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_174
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 0
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab6510662b76463b8ef3dc14e0207dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_175
+      rect:
+        serializedVersion: 2
+        x: 3475
+        y: 0
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0e47e761edc4c2aabd84b7a21e1585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_176
+      rect:
+        serializedVersion: 2
+        x: 4170
+        y: 0
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b25cffffd0f946d68aa3bf842a5eb70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_177
+      rect:
+        serializedVersion: 2
+        x: 4865
+        y: 0
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9844d305b1aa4bdd98679afe568390e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_178
+      rect:
+        serializedVersion: 2
+        x: 5560
+        y: 0
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7ea56184c054aadaddacd8f0144c83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_179
+      rect:
+        serializedVersion: 2
+        x: 6255
+        y: 0
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51e51c26c6044dd7ba35dec3ff8c514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_180
+      rect:
+        serializedVersion: 2
+        x: 6950
+        y: 0
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8a2180a2a054305a3f1ef685252394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_181
+      rect:
+        serializedVersion: 2
+        x: 7645
+        y: 0
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bea1da47c1d2441cae64d829fc15ae7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_182
+      rect:
+        serializedVersion: 2
+        x: 8340
+        y: 0
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a114f0fa3469446d8904df47388915b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_183
+      rect:
+        serializedVersion: 2
+        x: 9035
+        y: 0
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f88593bbdec4935b4f81ee0f5706a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_184
+      rect:
+        serializedVersion: 2
+        x: 9730
+        y: 0
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54832bea34134500b25dc8f9f3fe5e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_185
+      rect:
+        serializedVersion: 2
+        x: 10425
+        y: 0
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ca3e2182e6e46849be9721a600494c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standard_Glide_Dramatic_186
+      rect:
+        serializedVersion: 2
+        x: 11120
+        y: 0
+        width: 695
+        height: 290
+      alignment: 9
+      pivot: {x: 0.76, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6669194860e94d05a065cba8dfa9c50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d602b79a9f9064c43841430ae18d8545
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

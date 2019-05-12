@@ -7,23 +7,19 @@ public class RaycastGround : MonoBehaviour {
 
     void Update()
     {
-        Ray ray = new Ray(transform.position, Vector3.down);
-        RaycastHit hit;
+        RaycastHit2D[] hits = new RaycastHit2D[2];
+        int h = Physics2D.RaycastNonAlloc(transform.position, -Vector2.up, hits); //cast downwards
+        if (h > 1)
+        { //if we hit something do stuff
+            Debug.Log(hits[1].normal);
 
-        Debug.DrawRay(ray.origin, ray.direction * distance, Color.red);
+            float angle = Mathf.Abs(Mathf.Atan2(hits[1].normal.x, hits[1].normal.y) * Mathf.Rad2Deg); //get angle
+            Debug.Log(angle);
 
-        if (Physics.Raycast(ray, out hit, distance, hitMask))
-        {
-            Debug.Log("Hit collider " + hit.collider + ", at " + hit.point + ", normal " + hit.normal);
-            Debug.DrawRay(hit.point, hit.normal * 2f, Color.blue);
-
-            float angle = Vector3.Angle(hit.normal, Vector3.up);
-            Debug.Log("angle " + angle);
-
-            //if (angle > 30)...
-        }
-        else // is not colliding
-        {
+            if (angle > 30)
+            {
+                //DoSomething(); //change your animation
+            }
 
         }
     }

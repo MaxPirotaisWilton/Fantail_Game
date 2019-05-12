@@ -1,0 +1,1107 @@
+fileFormatVersion: 2
+guid: 447ae01f260e84b20b4b809abfdc0d5c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: New_DashUp_0
+    21300002: New_DashUp_1
+    21300004: New_DashUp_2
+    21300006: New_DashUp_3
+    21300008: New_DashUp_4
+    21300010: New_DashUp_5
+    21300012: New_DashUp_6
+    21300014: New_DashUp_7
+    21300016: New_DashUp_8
+    21300018: New_DashUp_9
+    21300020: New_DashUp_10
+    21300022: New_DashUp_11
+    21300024: New_DashUp_12
+    21300026: New_DashUp_13
+    21300028: New_DashUp_14
+    21300030: New_DashUp_15
+    21300032: New_DashUp_16
+    21300034: New_DashUp_17
+    21300036: New_DashUp_18
+    21300038: New_DashUp_19
+    21300040: New_DashUp_20
+    21300042: New_DashUp_21
+    21300044: New_DashUp_22
+    21300046: New_DashUp_23
+    21300048: New_DashUp_24
+    21300050: New_DashUp_25
+    21300052: New_DashUp_26
+    21300054: New_DashUp_27
+    21300056: New_DashUp_28
+    21300058: New_DashUp_29
+    21300060: New_DashUp_30
+    21300062: New_DashUp_31
+    21300064: New_DashUp_32
+    21300066: New_DashUp_33
+    21300068: New_DashUp_34
+    21300070: New_DashUp_35
+    21300072: New_DashUp_36
+    21300074: New_DashUp_37
+    21300076: New_DashUp_38
+    21300078: New_DashUp_39
+    21300080: New_DashUp_40
+    21300082: New_DashUp_41
+    21300084: New_DashUp_42
+    21300086: New_DashUp_43
+    21300088: New_DashUp_44
+    21300090: New_DashUp_45
+    21300092: New_DashUp_46
+    21300094: New_DashUp_47
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: New_DashUp_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3515
+        width: 749
+        height: 703
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f442303c0df014277ab0e8ae0e255ac7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_DashUp_1
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 3515
+        width: 749
+        height: 703
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf85016cfeeb447d956c9e617c56d86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_DashUp_2
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 3515
+        width: 749
+        height: 703
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2defb73d09981411f98415f94a0083aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_DashUp_3
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 3515
+        width: 749
+        height: 703
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97570ef504ef64b6da5bbf6c4670c941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_DashUp_4
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 3515
+        width: 749
+        height: 703
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e3ecdd6e9c84af082cb2cf1f6b4c4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_DashUp_5
+      rect:
+        serializedVersion: 2
+        x: 3745
+        y: 3515
+        width: 749
+        height: 703
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0b6f2f2fa68406eba851f16e9b2aa8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_DashUp_6
+      rect:
+        serializedVersion: 2
+        x: 4494
+        y: 3515
+        width: 749
+        height: 703
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e976b2c872d44b1934cac55d6c161e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_DashUp_7
+      rect:
+        serializedVersion: 2
+        x: 5243
+        y: 3515
+        width: 749
+        height: 703
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ffe5dbe4db34aa39e9ed78d4b0d274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_DashUp_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2812
+        width: 749
+        height: 703
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffeeff4b45bba4317830ebcf013c7a3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_DashUp_9
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 2812
+        width: 749
+        height: 703
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f5dcf9a97234fb89ae20d702974c88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_DashUp_10
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 2812
+        width: 749
+        height: 703
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e071377324537411b9875b131fa68167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_DashUp_11
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 2812
+        width: 749
+        height: 703
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cd130df2a5e4050973d1d8d24de81f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_DashUp_12
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 2812
+        width: 749
+        height: 703
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ca61a21f1004a36af1e791b5548a43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_DashUp_13
+      rect:
+        serializedVersion: 2
+        x: 3745
+        y: 2812
+        width: 749
+        height: 703
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafb09ed7f155442a8256a2b9795bdbb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_DashUp_14
+      rect:
+        serializedVersion: 2
+        x: 4494
+        y: 2812
+        width: 749
+        height: 703
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677137dc37cf44b1289d2293f0cd593e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_DashUp_15
+      rect:
+        serializedVersion: 2
+        x: 5243
+        y: 2812
+        width: 749
+        height: 703
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9eb86d5149849fa9ccca361ed2637c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_DashUp_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2109
+        width: 749
+        height: 703
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7199079247e4cfdb04e23fabae2d58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_DashUp_17
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 2109
+        width: 749
+        height: 703
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33a455c629e14ab7adccec6c62c6108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_DashUp_18
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 2109
+        width: 749
+        height: 703
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e299f3db03b4434baca428ff0174a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_DashUp_19
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 2109
+        width: 749
+        height: 703
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2891be3702e5e49a68b6473435d1ede1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_DashUp_20
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 2109
+        width: 749
+        height: 703
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99de9ab1fae65481598d1a5f21fb285b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_DashUp_21
+      rect:
+        serializedVersion: 2
+        x: 3745
+        y: 2109
+        width: 749
+        height: 703
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11f4c243959c4bf48182020c20f39da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_DashUp_22
+      rect:
+        serializedVersion: 2
+        x: 4494
+        y: 2109
+        width: 749
+        height: 703
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70137fab6f9bb4041a8ae8fbc4747803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_DashUp_23
+      rect:
+        serializedVersion: 2
+        x: 5243
+        y: 2109
+        width: 749
+        height: 703
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6641b78d2b6c74ed29c8d7bc1f083356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_DashUp_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1406
+        width: 749
+        height: 703
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be48e74f80d84bd588069b84b97c18c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_DashUp_25
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1406
+        width: 749
+        height: 703
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4920ddbae1c2430b9d3f767694aaca4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_DashUp_26
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 1406
+        width: 749
+        height: 703
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11d9933437ce48218395975e85d1ce6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_DashUp_27
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 1406
+        width: 749
+        height: 703
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7715df8680474e3abc856d8e35c60d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_DashUp_28
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 1406
+        width: 749
+        height: 703
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd1d31cb77234125beec93179ab1b22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_DashUp_29
+      rect:
+        serializedVersion: 2
+        x: 3745
+        y: 1406
+        width: 749
+        height: 703
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60ebf15d78bf4cdbb82ee00d0f2fa40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_DashUp_30
+      rect:
+        serializedVersion: 2
+        x: 4494
+        y: 1406
+        width: 749
+        height: 703
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f19656bc659f4f149081eecf94c312b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_DashUp_31
+      rect:
+        serializedVersion: 2
+        x: 5243
+        y: 1406
+        width: 749
+        height: 703
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b8ba0a551064baba6c8eaa8b8fbef3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_DashUp_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 703
+        width: 749
+        height: 703
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb0fc961640f424783e1b0dc79de0f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_DashUp_33
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 703
+        width: 749
+        height: 703
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e936354a44adf4032aa72593892adc22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_DashUp_34
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 703
+        width: 749
+        height: 703
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037298e335c504732886c2a816f2bdae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_DashUp_35
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 703
+        width: 749
+        height: 703
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffee5e047b1d44d0b9eac3dcd37fa77c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_DashUp_36
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 703
+        width: 749
+        height: 703
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e52bbb57f99436f81728785261c697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_DashUp_37
+      rect:
+        serializedVersion: 2
+        x: 3745
+        y: 703
+        width: 749
+        height: 703
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2692d5e386264e1bb11113b7eaff360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_DashUp_38
+      rect:
+        serializedVersion: 2
+        x: 4494
+        y: 703
+        width: 749
+        height: 703
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39cdf8c1062c45b0a036d8db38b3fb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_DashUp_39
+      rect:
+        serializedVersion: 2
+        x: 5243
+        y: 703
+        width: 749
+        height: 703
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3321e8bd8df824300996538fec67b89b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_DashUp_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 749
+        height: 703
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6dec8c102994fa8aceb0fcbeca00ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_DashUp_41
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 0
+        width: 749
+        height: 703
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff93798079e4f4777a2ae9d83da792e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_DashUp_42
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 0
+        width: 749
+        height: 703
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7e7d5a290e142c49fe9dbb824c3a00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_DashUp_43
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 0
+        width: 749
+        height: 703
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51885ac622a84437a72c4e7c4f3770d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_DashUp_44
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 0
+        width: 749
+        height: 703
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd58a2fa3287e43c4b71dc3b9b337603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_DashUp_45
+      rect:
+        serializedVersion: 2
+        x: 3745
+        y: 0
+        width: 749
+        height: 703
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cd622d0545f451db7737ee9a52c44b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_DashUp_46
+      rect:
+        serializedVersion: 2
+        x: 4494
+        y: 0
+        width: 749
+        height: 703
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e810bb499818b42a0bd9b04559be510b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_DashUp_47
+      rect:
+        serializedVersion: 2
+        x: 5243
+        y: 0
+        width: 749
+        height: 703
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfa7938007e54ba1b24e11c166e643f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f7a70a1d3e5444c1eb58a328e2828ad0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

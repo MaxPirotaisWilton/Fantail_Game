@@ -144,7 +144,7 @@ public class VectorVisualizationScript : MonoBehaviour {
             arrowTransformsArray[1].eulerAngles = new Vector3(0, 0, cursorRotation);
             arrowTransformsArray[1].transform.localScale = new Vector3(visualMagnitude / 2.5f, 1, 1);
 
-            Debug.Log("Components found in element " + i + ": # of SpriteRenderers = " + arrowSpriteRenderersArray.Length + " and # of Transforms = " + arrowTransformsArray.Length);
+            //Debug.Log("Components found in element " + i + ": # of SpriteRenderers = " + arrowSpriteRenderersArray.Length + " and # of Transforms = " + arrowTransformsArray.Length);
 
 
         }

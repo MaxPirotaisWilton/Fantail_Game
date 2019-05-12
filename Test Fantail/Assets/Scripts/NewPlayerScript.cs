@@ -77,6 +77,8 @@ public class NewPlayerScript : MonoBehaviour
     public bool fidgeting;
     public bool hopping;
     public bool gliding;
+    public bool lookingUp;
+    public bool lookingDown;
 
     private int wait = 0;
 
@@ -143,11 +145,11 @@ public class NewPlayerScript : MonoBehaviour
             walking = false;
 
             //Flips the player sprite when going 
-            if (rigidbody.velocity.x < 0)
+            if (Input.GetAxis("Horizontal") < 0)
             {
                 normalSpriteRenderer.flipX = true;
             }
-            else
+            else if(Input.GetAxis("Horizontal") > 0)
             {
                 normalSpriteRenderer.flipX = false;
             }
@@ -174,37 +176,39 @@ public class NewPlayerScript : MonoBehaviour
 
         }
 
-
-        //Hoping Left
-        if (inputHorizontal < 0)
+        //Hoping left and right
+        if (!hasFlown)
         {
-            if (rigidbody.velocity.x >= -(horizontalSpeed * appliedPenaltyMultiplier * -inputHorizontal))
+            //Hoping Left
+            if (inputHorizontal < 0)
             {
-                rigidbody.velocity += -transformRight2;
+                if (rigidbody.velocity.x >= -(horizontalSpeed * appliedPenaltyMultiplier * -inputHorizontal))
+                {
+                    rigidbody.velocity += -transformRight2;
+                }
+
+                if (!walking)
+                {
+                    walking = true;
+                }
+
             }
 
-            if (!walking)
-            {
-                walking = true;
-            }
 
+            //Hoping Right
+            if (inputHorizontal > 0)
+            {
+                if (rigidbody.velocity.x <= (horizontalSpeed * appliedPenaltyMultiplier * inputHorizontal))
+                {
+                    rigidbody.velocity += transformRight2;
+                }
+                if (!walking)
+                {
+                    walking = true;
+                }
+
+            }
         }
-
-
-        //Hoping Right
-        if (inputHorizontal > 0)
-        {
-            if (rigidbody.velocity.x <= (horizontalSpeed * appliedPenaltyMultiplier * inputHorizontal))
-            {
-                rigidbody.velocity += transformRight2;
-            }
-            if (!walking)
-            {
-                walking = true;
-            }
-
-        }
-
         //Pecking
         if(bottomCollides && !walking && !hasFlown && !inWater)
         {
@@ -253,6 +257,19 @@ public class NewPlayerScript : MonoBehaviour
 
         //Calculations for flight vector
 
+        if (Mathf.Abs(inputMouseX) > 0 || Mathf.Abs(inputMouseY) > 0) 
+        {
+            controlsCase = 0; 
+        }
+
+        for(int i = 0; i < 20; i++)
+        {
+            if (Mathf.Abs(inputJoystickX) > 0 || Mathf.Abs(inputJoystickY) > 0)
+            {
+                controlsCase = 1;
+            }
+        }
+
         Vector2 processedVector = new Vector2(cursorPositionX, cursorPositionY);
         Vector2 zoomVector;
 
@@ -265,11 +282,15 @@ public class NewPlayerScript : MonoBehaviour
                 break;
 
             case 1:
-                cursorPositionX = inputJoystickX;
-                cursorPositionY = -inputJoystickY;
-                processedVector.Normalize();
+                cursorPositionX = inputJoystickX * 4;
+                cursorPositionY = -inputJoystickY * 4;
+                //processedVector.Normalize();
                 zoomVector = processedVector;
-                zoomVector *= 4;
+                //zoomVector *= 4;
+                break;
+
+            default:
+                zoomVector = new Vector2(0, 0);
                 break;
         }
 
@@ -350,6 +371,7 @@ public class NewPlayerScript : MonoBehaviour
         if ((hasFlown && bottomCollides) || inWater)
         {
             cameraScript.smoothSpeed = normalSmooth;
+            cameraScript.playerTransform = transform;
             hasFlown = false;
         }
 
@@ -378,6 +400,7 @@ public class NewPlayerScript : MonoBehaviour
 
         if (hasFlown && Input.GetButton("Glide/Peck"))
         {
+            //rigidbody.constraints = RigidbodyConstraints2D.FreezeAll;
             gliding = true;
             normalSpriteRenderer.flipX = false;
 
@@ -391,6 +414,7 @@ public class NewPlayerScript : MonoBehaviour
         }
         else
         {
+            //rigidbody.constraints = RigidbodyConstraints2D.FreezeRotation;
             gliding = false;
             normalSpriteRenderer.flipY = false;
 
@@ -405,6 +429,8 @@ public class NewPlayerScript : MonoBehaviour
             }
         }
 
+
+
         animator.SetBool("fidget", fidgeting);
         animator.SetBool("hopping", hopping);
         animator.SetBool("gliding", gliding);
@@ -412,6 +438,8 @@ public class NewPlayerScript : MonoBehaviour
         animator.SetBool("dashed", allowZoom);
         animator.SetBool("inWater", inWater);
         animator.SetBool("peck", pecking);
+        animator.SetBool("lookingUp", lookingUp);
+        animator.SetBool("lookingDown", lookingDown);
     }
 
     void LateUpdate()
@@ -420,6 +448,8 @@ public class NewPlayerScript : MonoBehaviour
 
         {
             cameraScript.smoothSpeed = inFlightSmooth;
+            cameraScript.playerTransform = cursorHead.transform;
+
             hasFlown = true;
             animator.Play("Dash", -1, 0f);
         }
@@ -461,7 +491,34 @@ public class NewPlayerScript : MonoBehaviour
             normalSpriteRenderer.flipY = false;
         }
 
-        //Debug.Log("processedBodyAngle = " + processedBodyAngle + " , rawAlpha = " + rawAlpha + " , processedAlpha = " + processedAlpha);
+        if (processedBodyAngle > 60 && processedBodyAngle < 120)
+        {
+
+            lookingUp = true;
+            Debug.Log("bird is looking up");
+
+        }
+        else
+        {
+
+            lookingUp = false;
+
+        }
+
+        if (processedBodyAngle > 215 && processedBodyAngle < 315)
+        {
+
+            lookingDown = true;
+
+        }
+        else
+        {
+
+            lookingDown = false;
+
+        }
+
+        Debug.Log("processedBodyAngle = " + processedBodyAngle + " , rawAlpha = " + rawAlpha + " , processedAlpha = " + processedAlpha);
 
         alpha = rawAlpha;
 

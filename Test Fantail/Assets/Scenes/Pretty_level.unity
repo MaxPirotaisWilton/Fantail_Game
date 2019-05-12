@@ -870,7 +870,7 @@ MonoBehaviour:
   centerCheckRadius: 0.18
   horizontalSpeed: 7
   hopSpeed: 4
-  zoomMultiplier: 5
+  zoomMultiplier: 6
   penaltyMultiplier: 0.3
   pecking: 0
   cursorLimit: 4
@@ -883,10 +883,12 @@ MonoBehaviour:
   inputMouseY: 0
   inputJoystickX: 0
   inputJoystickY: 0
-  controlsCase: 1
+  controlsCase: 0
   fidgeting: 0
   hopping: 0
   gliding: 0
+  lookingUp: 0
+  lookingDown: 0
 --- !u!60 &416795258
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -964,7 +966,7 @@ MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 416795254}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9a4e52d5918a74e25b59cfa236a0a864, type: 3}
   m_Name: 
@@ -2222,6 +2224,11 @@ Prefab:
         type: 2}
       propertyPath: transparentColour.b
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114003498951704604, guid: ec17c326cd01c4efd89fe898386cae1e,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ec17c326cd01c4efd89fe898386cae1e, type: 2}

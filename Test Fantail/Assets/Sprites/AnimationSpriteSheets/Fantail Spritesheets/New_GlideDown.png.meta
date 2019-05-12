@@ -1,0 +1,1149 @@
+fileFormatVersion: 2
+guid: 596640f7adafe4ce6a8f68c31a4c62d6
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: New_GlideDown_0
+    21300002: New_GlideDown_1
+    21300004: New_GlideDown_2
+    21300006: New_GlideDown_3
+    21300008: New_GlideDown_4
+    21300010: New_GlideDown_5
+    21300012: New_GlideDown_6
+    21300014: New_GlideDown_7
+    21300016: New_GlideDown_8
+    21300018: New_GlideDown_9
+    21300020: New_GlideDown_10
+    21300022: New_GlideDown_11
+    21300024: New_GlideDown_12
+    21300026: New_GlideDown_13
+    21300028: New_GlideDown_14
+    21300030: New_GlideDown_15
+    21300032: New_GlideDown_16
+    21300034: New_GlideDown_17
+    21300036: New_GlideDown_18
+    21300038: New_GlideDown_19
+    21300040: New_GlideDown_20
+    21300042: New_GlideDown_21
+    21300044: New_GlideDown_22
+    21300046: New_GlideDown_23
+    21300048: New_GlideDown_24
+    21300050: New_GlideDown_25
+    21300052: New_GlideDown_26
+    21300054: New_GlideDown_27
+    21300056: New_GlideDown_28
+    21300058: New_GlideDown_29
+    21300060: New_GlideDown_30
+    21300062: New_GlideDown_31
+    21300064: New_GlideDown_32
+    21300066: New_GlideDown_33
+    21300068: New_GlideDown_34
+    21300070: New_GlideDown_35
+    21300072: New_GlideDown_36
+    21300074: New_GlideDown_37
+    21300076: New_GlideDown_38
+    21300078: New_GlideDown_39
+    21300080: New_GlideDown_40
+    21300082: New_GlideDown_41
+    21300084: New_GlideDown_42
+    21300086: New_GlideDown_43
+    21300088: New_GlideDown_44
+    21300090: New_GlideDown_45
+    21300092: New_GlideDown_46
+    21300094: New_GlideDown_47
+    21300096: New_GlideDown_48
+    21300098: New_GlideDown_49
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: New_GlideDown_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2076
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58743103b5c4c406c92a77215fd2d1b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_GlideDown_1
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 2076
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a68208f809943089ccfe25c70f0759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_GlideDown_2
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 2076
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedc31dce9300488ba143d0dc96e0d46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_GlideDown_3
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 2076
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48dda8b73b8b41f79eb215afdc4e817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_GlideDown_4
+      rect:
+        serializedVersion: 2
+        x: 2980
+        y: 2076
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b930af6222494eedbc6cb27828976cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_GlideDown_5
+      rect:
+        serializedVersion: 2
+        x: 3725
+        y: 2076
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82f3055322aa4d4cbe676c27338ecb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_GlideDown_6
+      rect:
+        serializedVersion: 2
+        x: 4470
+        y: 2076
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a45d63761c174f07947edc64235640a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_GlideDown_7
+      rect:
+        serializedVersion: 2
+        x: 5215
+        y: 2076
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc811f535e274967b41a75b1b8b5b52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_GlideDown_8
+      rect:
+        serializedVersion: 2
+        x: 5960
+        y: 2076
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcbc79e791b74baa92b1702abb9f6bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_GlideDown_9
+      rect:
+        serializedVersion: 2
+        x: 6705
+        y: 2076
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220ced74432724b56b50ed22bf5a598f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_GlideDown_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1557
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21235bcd3a95b464d80829388039992e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_GlideDown_11
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1557
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68c9422d8c9d4f70b4503a27cc7b618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_GlideDown_12
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1557
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a975e077f69142629444290a364ec7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_GlideDown_13
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 1557
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb565102456b4115a2ad7be36963b34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_GlideDown_14
+      rect:
+        serializedVersion: 2
+        x: 2980
+        y: 1557
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6077275a7df64a2895242e4a6296850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_GlideDown_15
+      rect:
+        serializedVersion: 2
+        x: 3725
+        y: 1557
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3494f504fd23043ac9a6067225ab5b4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_GlideDown_16
+      rect:
+        serializedVersion: 2
+        x: 4470
+        y: 1557
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947c5b37776f44bc4a9727da8ef8c21c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_GlideDown_17
+      rect:
+        serializedVersion: 2
+        x: 5215
+        y: 1557
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fbe4bfdcc714a599951c858f3b5615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_GlideDown_18
+      rect:
+        serializedVersion: 2
+        x: 5960
+        y: 1557
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9782ae2c2f14106bc1baa01663e031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_GlideDown_19
+      rect:
+        serializedVersion: 2
+        x: 6705
+        y: 1557
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfdd60b1e443436998c0444009e0979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_GlideDown_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1038
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef9ccc3ec72b49f19374ece1538f7a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_GlideDown_21
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1038
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b90b949cab040f19606ab4dfb6a87e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_GlideDown_22
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1038
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434c46460ad4c4592889b0896fa6a9e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_GlideDown_23
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 1038
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e382026c9108415882b87cad7e69b9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_GlideDown_24
+      rect:
+        serializedVersion: 2
+        x: 2980
+        y: 1038
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ea3c2d91ff341fab3a180843edb9ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_GlideDown_25
+      rect:
+        serializedVersion: 2
+        x: 3725
+        y: 1038
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f314e3a33ab4d43b44d7144c2e30f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_GlideDown_26
+      rect:
+        serializedVersion: 2
+        x: 4470
+        y: 1038
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5467d8628a454c4cbe86733425788e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_GlideDown_27
+      rect:
+        serializedVersion: 2
+        x: 5215
+        y: 1038
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07225e69f0b0f4d9c929a22abf78c7f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_GlideDown_28
+      rect:
+        serializedVersion: 2
+        x: 5960
+        y: 1038
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736d0c37237e945c88db9c75851693d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_GlideDown_29
+      rect:
+        serializedVersion: 2
+        x: 6705
+        y: 1038
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c9a248e93324842b261c907b220a49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_GlideDown_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 519
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413c1dd5d13524d479fc65873b6eaf23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_GlideDown_31
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 519
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047a79071f95746f1aadda38a49bc657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_GlideDown_32
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 519
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031cc62c54e4f42d49682503414f2c36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_GlideDown_33
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 519
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906b0c794509744eba3bec81583cd945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_GlideDown_34
+      rect:
+        serializedVersion: 2
+        x: 2980
+        y: 519
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8eff7944640a4209861994ce759f9a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_GlideDown_35
+      rect:
+        serializedVersion: 2
+        x: 3725
+        y: 519
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83b7c87ffe6347c8abaf35bd1426452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_GlideDown_36
+      rect:
+        serializedVersion: 2
+        x: 4470
+        y: 519
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e459159dabe54e8a8496ab2b8cdc8cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_GlideDown_37
+      rect:
+        serializedVersion: 2
+        x: 5215
+        y: 519
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452687629a8314c8bb6ea8e0c7e3b2d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_GlideDown_38
+      rect:
+        serializedVersion: 2
+        x: 5960
+        y: 519
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc37f29f018d4bf7b74aac592bff433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_GlideDown_39
+      rect:
+        serializedVersion: 2
+        x: 6705
+        y: 519
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e221509790fd43089c28f6cbe841ace
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_GlideDown_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67b035f5ff8a4762a682b6a56cb0a23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_GlideDown_41
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 0
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803a05e9cca9e4de484cf973c03dd1aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_GlideDown_42
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 0
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8190848375962472d82e01314b2f8dbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_GlideDown_43
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 0
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba2dd96991da4d6fabf5e2f9bd842be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_GlideDown_44
+      rect:
+        serializedVersion: 2
+        x: 2980
+        y: 0
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e725f35ccc54473aa882e20345452a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_GlideDown_45
+      rect:
+        serializedVersion: 2
+        x: 3725
+        y: 0
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f9dc2b7c7304ec7a3b97ba335eec63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_GlideDown_46
+      rect:
+        serializedVersion: 2
+        x: 4470
+        y: 0
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b473c869e5e4c6887ab92d87061631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_GlideDown_47
+      rect:
+        serializedVersion: 2
+        x: 5215
+        y: 0
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb237dc7a2d6413aa136725f2b8cffa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_GlideDown_48
+      rect:
+        serializedVersion: 2
+        x: 5960
+        y: 0
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7bec9e3c53f42c5a96412b777c2559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_GlideDown_49
+      rect:
+        serializedVersion: 2
+        x: 6705
+        y: 0
+        width: 745
+        height: 519
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b906be98ac10a4b378b8a1c7b973885b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4c91aae6448b346ed888b9a6850aa5b0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

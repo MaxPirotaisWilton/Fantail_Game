@@ -8,7 +8,7 @@ public class ArrowHeadScript : MonoBehaviour {
     public SpriteRenderer[] arrowSegments;
     private Color WHITE = new Color(255f,255f,255f);
     public Color transparentColour;
-    private int switchState = 0;
+    private int switchState = 1;
 
 	// Use this for initialization
 	void Start () {
@@ -18,9 +18,9 @@ public class ArrowHeadScript : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
-        switchState = player.zoomNum;
 
-            switch (player.zoomNum)
+    /*
+            switch (switchState)
             {
                 case 0:
                     arrowSegments[1].color = transparentColour;
@@ -45,5 +45,6 @@ public class ArrowHeadScript : MonoBehaviour {
                     arrowSegments[3].color = WHITE;
                     break;
             }
+            */
 	}
 }
