@@ -60,7 +60,7 @@ public class NewPlayerScript : MonoBehaviour
     public GameObject normalSpriteObject;
     private SpriteRenderer normalSpriteRenderer;
 
-    private TrailRenderer trail;
+    public TrailRenderer trail;
     public Animator animator;
 
     //Variables related to inputs
@@ -69,6 +69,8 @@ public class NewPlayerScript : MonoBehaviour
     public float inputMouseY;
     public float inputJoystickX;
     public float inputJoystickY;
+
+    bool dashButtonWasDown;
 
     public int controlsCase = 0;
 
@@ -96,9 +98,9 @@ public class NewPlayerScript : MonoBehaviour
         cursorHeadSpriteRenderer = cursorHead.GetComponent<SpriteRenderer>();
         cursorLineSpriteRenderer = cursorLine.GetComponent<SpriteRenderer>();
 
-        trail = GetComponent<TrailRenderer>();
+        //trail = GetComponent<TrailRenderer>();
 
-
+        rigidbody.collisionDetectionMode = CollisionDetectionMode2D.Continuous;
 
         Cursor.visible = false;
         Cursor.lockState = CursorLockMode.Locked;
@@ -145,11 +147,11 @@ public class NewPlayerScript : MonoBehaviour
             walking = false;
 
             //Flips the player sprite when going 
-            if (Input.GetAxis("Horizontal") < 0)
+            if (inputHorizontal < 0)
             {
                 normalSpriteRenderer.flipX = true;
             }
-            else if(Input.GetAxis("Horizontal") > 0)
+            else if(inputHorizontal > 0)
             {
                 normalSpriteRenderer.flipX = false;
             }
@@ -177,7 +179,7 @@ public class NewPlayerScript : MonoBehaviour
         }
 
         //Hoping left and right
-        if (!hasFlown)
+        if (!hasFlown && !Input.GetButton("Dash"))
         {
             //Hoping Left
             if (inputHorizontal < 0)
@@ -315,11 +317,17 @@ public class NewPlayerScript : MonoBehaviour
         cursorAngle = (Mathf.Acos(cosAngle)) * Mathf.Rad2Deg;
 
 
-        if (Input.GetButtonDown("Dash") && zoomNum > 0)
+        if(Input.GetButton("Dash"))
+        {
+            dashButtonWasDown = true;
+        }
+
+        if (Input.GetButtonDown("Dash") && zoomNum > 0 && zoomVector.magnitude > 0.4f)
         {
              
             allowZoom = true;
             zoomNum--;
+            dashButtonWasDown = false;
 
         }
         else 
@@ -333,7 +341,7 @@ public class NewPlayerScript : MonoBehaviour
         //makes the player zoom towards the in-game cursor when the player clicks the left mouse button
         if (allowZoom)
         {
-
+            hopping = false;
             rigidbody.velocity = zoomVector * zoomMultiplier * appliedPenaltyMultiplier;
             normalSpriteRenderer.flipX = false;
         }
@@ -343,6 +351,8 @@ public class NewPlayerScript : MonoBehaviour
         {
             float intermediateBodyAngle;
             float newBodyAngle;
+
+            hopping = false;
 
             if(rigidbody.velocity.magnitude > 0)
             {
