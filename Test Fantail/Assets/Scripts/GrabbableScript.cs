@@ -22,7 +22,7 @@ public class GrabbableScript : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
-        beakTransform = playerScript.beakTransform;
+        //beakTransform = playerScript.beakTransform;
 
 
         if(grabbed)
