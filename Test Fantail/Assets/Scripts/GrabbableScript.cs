@@ -6,7 +6,7 @@ public class GrabbableScript : MonoBehaviour {
 
     public GameObject player;
     public Transform grabTransform;
-    private NewPlayerScript playerScript;
+    private GrabItemScript playerScript;
     private Transform beakTransform;
 
     public bool grabbed;
@@ -14,7 +14,7 @@ public class GrabbableScript : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 
-        playerScript = player.GetComponent<NewPlayerScript>();
+        playerScript = player.GetComponent<GrabItemScript>();
 
 
 	}
@@ -22,7 +22,7 @@ public class GrabbableScript : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
-        beakTransform = playerScript.beakTransform;
+        //beakTransform = playerScript.beakTransform;
 
 
         if(grabbed)

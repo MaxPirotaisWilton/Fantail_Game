@@ -47,13 +47,13 @@ public class NewPlayerScript : MonoBehaviour
 
     private float cursorAngle;
     public float cursorLimit = 4f;
-    private bool hasFlown;
+    public bool hasFlown;
     public int zoomNumLimit = 3;
     public int zoomNum;
     public bool allowZoom;
 
-    private bool bottomCollides;
-    private bool inWater;
+    public bool bottomCollides;
+    public bool inWater;
 
     private Vector2 plainVector = new Vector2(1, 0);
 
@@ -211,8 +211,9 @@ public class NewPlayerScript : MonoBehaviour
 
             }
         }
+
         //Pecking
-        if(bottomCollides && !walking && !hasFlown && !inWater)
+        if (bottomCollides && !walking && !hasFlown && !inWater)
         {
             if (Input.GetButtonDown("Glide/Peck"))
             {
@@ -222,13 +223,12 @@ public class NewPlayerScript : MonoBehaviour
             else
             {
                 pecking = false;
-            } 
+            }
         }
-        else 
+        else
         {
             pecking = false;
         }
-
 
         //Handles detection of collision(s) with bool(s)
         bottomCollides = Physics2D.OverlapCircle(bottomCheck.position, groundCheckRadius, groundLayer);
