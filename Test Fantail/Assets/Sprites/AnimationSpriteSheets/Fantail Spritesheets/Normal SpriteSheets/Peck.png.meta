@@ -1,0 +1,477 @@
+fileFormatVersion: 2
+guid: 83d334c0d014c4e6c92145eef9de1bbe
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Peck_0
+    21300002: Peck_1
+    21300004: Peck_2
+    21300006: Peck_3
+    21300008: Peck_4
+    21300010: Peck_5
+    21300012: Peck_6
+    21300014: Peck_7
+    21300016: Peck_8
+    21300018: Peck_9
+    21300020: Peck_10
+    21300022: Peck_11
+    21300024: Peck_12
+    21300026: Peck_13
+    21300028: Peck_14
+    21300030: Peck_15
+    21300032: Peck_16
+    21300034: Peck_17
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Peck_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1010
+        width: 732
+        height: 505
+      alignment: 9
+      pivot: {x: 0.7, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04eaccca44574c568bdccd118e66987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peck_1
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1010
+        width: 732
+        height: 505
+      alignment: 9
+      pivot: {x: 0.7, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9c7eeb85f9947debf50f5a2330426d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peck_2
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1010
+        width: 732
+        height: 505
+      alignment: 9
+      pivot: {x: 0.7, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50911a7a6a44405e9388e5488b11cb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peck_3
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 1010
+        width: 732
+        height: 505
+      alignment: 9
+      pivot: {x: 0.7, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc17f253287f44c3aea0816a6e62f73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peck_4
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 1010
+        width: 732
+        height: 505
+      alignment: 9
+      pivot: {x: 0.7, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141025651f30e45e591193848057c5e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peck_5
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 1010
+        width: 732
+        height: 505
+      alignment: 9
+      pivot: {x: 0.7, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ad46236cfbf4187a0f678916485b02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peck_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 505
+        width: 732
+        height: 505
+      alignment: 9
+      pivot: {x: 0.7, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802402fd34173407c888f9aeac03fef6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peck_7
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 505
+        width: 732
+        height: 505
+      alignment: 9
+      pivot: {x: 0.7, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69a0c507c5cc47cea24b1e5ad9013cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peck_8
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 505
+        width: 732
+        height: 505
+      alignment: 9
+      pivot: {x: 0.7, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d35f91790a34f82ae1ebe71cf567ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peck_9
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 505
+        width: 732
+        height: 505
+      alignment: 9
+      pivot: {x: 0.7, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3a9dd91d7d44cf784d82cd09cd95b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peck_10
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 505
+        width: 732
+        height: 505
+      alignment: 9
+      pivot: {x: 0.7, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba87fcd6f22e4d95863e8695e76b6ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peck_11
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 505
+        width: 732
+        height: 505
+      alignment: 9
+      pivot: {x: 0.7, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcac618152a0c4ce6a5e1d8fb5d30941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peck_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 732
+        height: 505
+      alignment: 9
+      pivot: {x: 0.7, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed773684438fb41218c09ab306456de1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peck_13
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 0
+        width: 732
+        height: 505
+      alignment: 9
+      pivot: {x: 0.7, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1524c3403ef80407b9e4fea75ba56377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peck_14
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 0
+        width: 732
+        height: 505
+      alignment: 9
+      pivot: {x: 0.7, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da13af92fc40a4b11b257c5ffa2f0e53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peck_15
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 0
+        width: 732
+        height: 505
+      alignment: 9
+      pivot: {x: 0.7, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69089cd5703ff439b9f8d87c156420c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peck_16
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 0
+        width: 732
+        height: 505
+      alignment: 9
+      pivot: {x: 0.7, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a31a0f4c2ee465e9d015274255c243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peck_17
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 0
+        width: 732
+        height: 505
+      alignment: 9
+      pivot: {x: 0.7, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3dd318ad9e8464ab99847e51d18886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e71cb4b8d3d31430f9923d4d38ebb9a1
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

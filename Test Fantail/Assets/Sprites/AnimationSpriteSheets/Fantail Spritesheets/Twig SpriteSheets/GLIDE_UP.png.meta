@@ -1,0 +1,1989 @@
+fileFormatVersion: 2
+guid: 62355ff830da3413ab01258710ab84b7
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GLIDE_UP_0
+    21300002: GLIDE_UP_1
+    21300004: GLIDE_UP_2
+    21300006: GLIDE_UP_3
+    21300008: GLIDE_UP_4
+    21300010: GLIDE_UP_5
+    21300012: GLIDE_UP_6
+    21300014: GLIDE_UP_7
+    21300016: GLIDE_UP_8
+    21300018: GLIDE_UP_9
+    21300020: GLIDE_UP_10
+    21300022: GLIDE_UP_11
+    21300024: GLIDE_UP_12
+    21300026: GLIDE_UP_13
+    21300028: GLIDE_UP_14
+    21300030: GLIDE_UP_15
+    21300032: GLIDE_UP_16
+    21300034: GLIDE_UP_17
+    21300036: GLIDE_UP_18
+    21300038: GLIDE_UP_19
+    21300040: GLIDE_UP_20
+    21300042: GLIDE_UP_21
+    21300044: GLIDE_UP_22
+    21300046: GLIDE_UP_23
+    21300048: GLIDE_UP_24
+    21300050: GLIDE_UP_25
+    21300052: GLIDE_UP_26
+    21300054: GLIDE_UP_27
+    21300056: GLIDE_UP_28
+    21300058: GLIDE_UP_29
+    21300060: GLIDE_UP_30
+    21300062: GLIDE_UP_31
+    21300064: GLIDE_UP_32
+    21300066: GLIDE_UP_33
+    21300068: GLIDE_UP_34
+    21300070: GLIDE_UP_35
+    21300072: GLIDE_UP_36
+    21300074: GLIDE_UP_37
+    21300076: GLIDE_UP_38
+    21300078: GLIDE_UP_39
+    21300080: GLIDE_UP_40
+    21300082: GLIDE_UP_41
+    21300084: GLIDE_UP_42
+    21300086: GLIDE_UP_43
+    21300088: GLIDE_UP_44
+    21300090: GLIDE_UP_45
+    21300092: GLIDE_UP_46
+    21300094: GLIDE_UP_47
+    21300096: GLIDE_UP_48
+    21300098: GLIDE_UP_49
+    21300100: GLIDE_UP_50
+    21300102: GLIDE_UP_51
+    21300104: GLIDE_UP_52
+    21300106: GLIDE_UP_53
+    21300108: GLIDE_UP_54
+    21300110: GLIDE_UP_55
+    21300112: GLIDE_UP_56
+    21300114: GLIDE_UP_57
+    21300116: GLIDE_UP_58
+    21300118: GLIDE_UP_59
+    21300120: GLIDE_UP_60
+    21300122: GLIDE_UP_61
+    21300124: GLIDE_UP_62
+    21300126: GLIDE_UP_63
+    21300128: GLIDE_UP_64
+    21300130: GLIDE_UP_65
+    21300132: GLIDE_UP_66
+    21300134: GLIDE_UP_67
+    21300136: GLIDE_UP_68
+    21300138: GLIDE_UP_69
+    21300140: GLIDE_UP_70
+    21300142: GLIDE_UP_71
+    21300144: GLIDE_UP_72
+    21300146: GLIDE_UP_73
+    21300148: GLIDE_UP_74
+    21300150: GLIDE_UP_75
+    21300152: GLIDE_UP_76
+    21300154: GLIDE_UP_77
+    21300156: GLIDE_UP_78
+    21300158: GLIDE_UP_79
+    21300160: GLIDE_UP_80
+    21300162: GLIDE_UP_81
+    21300164: GLIDE_UP_82
+    21300166: GLIDE_UP_83
+    21300168: GLIDE_UP_84
+    21300170: GLIDE_UP_85
+    21300172: GLIDE_UP_86
+    21300174: GLIDE_UP_87
+    21300176: GLIDE_UP_88
+    21300178: GLIDE_UP_89
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GLIDE_UP_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5888
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18425d4df27d14775b65a9aabc82b391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_1
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 5888
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9038e21ae8d4bd3be3d628cf595e4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_2
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 5888
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ab111421a7f494b811a5d16c0a4a80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_3
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 5888
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f1e9b84ede34e959435d1913eb058d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_4
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 5888
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eba491f30418448f9c27a606d302208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_5
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 5888
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2894aa12577d49dda02104ef6cd9dbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_6
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 5888
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8867d9aa03564d90b5c1ed6568eea6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_7
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 5888
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623e02daa4ba640c5a31343a124dd5a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_8
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 5888
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31d2af4724a54189b6ea6a97d1fbcc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_9
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 5888
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fc155a617ea409fb4193876aa4f4cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5152
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e705af2a38804872a792bec12d3765a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_11
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 5152
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f668d7e10807e44a28a7f8d5a11dd2fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_12
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 5152
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee630c1129c549a48f4d397b293e2b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_13
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 5152
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d252db907e441578fe10d1cb24b7ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_14
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 5152
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bcfa407d3b34a61b87e0869273ede1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_15
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 5152
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d24ec8f9a8d74fa1b87da1d85b63f8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_16
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 5152
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6d98ce7e7ae4969b914b12caf5b4a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_17
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 5152
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b31ff2ba9ed44060841a778ae26d85d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_18
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 5152
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa209035dc4e041658b3e0e417bdebf0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_19
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 5152
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856eeb80f616949cc89dbcf29314203d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4416
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868008bd149e942dc86baecf53f4fa6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_21
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 4416
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8173983c76684e01b7066c08277fd46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_22
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 4416
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a976137eafbba4f18bb72cb61acd9068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_23
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 4416
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa5eeac26744443c8c498e875230147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_24
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 4416
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a789586f75f5042148612a681f9ccd51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_25
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 4416
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cfe4aef822644a99046c534d5caec1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_26
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 4416
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fc18db65a4444a89f2fa09490fd06b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_27
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 4416
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ac2ce6095964bd39edd68540c3d9d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_28
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 4416
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea98a450d04ee4b45a369dccaebafd44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_29
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 4416
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c309829dc62744e3cb71dfc5a1298430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3680
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45815be2e19d740ec8f219cdb6a13856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_31
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3680
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3e8bc0764c143ecb622bd806694310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_32
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3680
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfcffa08bdab44748b4b44e9df2f731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_33
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3680
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b46d6e987854c57a292597972eff87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_34
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3680
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713002e2768ab417196172e4b45dc744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_35
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 3680
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177c66d65dad74f80851f28016900f57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_36
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 3680
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c10a7744d984fb6adef64a684f4e8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_37
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 3680
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6971a8c35dba3415d9724e5f1d977492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_38
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 3680
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42539cf6651548c194f9554a19434f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_39
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 3680
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bc29f72bd5e4793b9a67d8f8b733d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2944
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0edd60ad99e884245879b3b976b51be0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_41
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2944
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6021aabe1828047fe94e6e4b1e73b586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_42
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2944
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddb6ac489a8a44c09e755da9b8b52b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_43
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2944
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8d81ea6216949af91ecc22a31f5aff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_44
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2944
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16f6d7e44e1849f886048db9dd6c049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_45
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2944
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0475f02f8d3d84138ab56d85ecdadd44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_46
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 2944
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87df91b00db4e4306bf9521451bfd4ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_47
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 2944
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1885f299e15c84ab3b48832f6181ee36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_48
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 2944
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6bbec6e10ee49568b4237460bada92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_49
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 2944
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83889b4c893d04197b0e9da4c1fd1acc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2208
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03d7d6d221974472a03df8302f4a6d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_51
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2208
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a93eb3a2834a4008afa2f68e279f3fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_52
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2208
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbbf27d3486943b7897a7abc136c549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_53
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2208
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a897a8ec63fd4647a565c577c0235b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_54
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2208
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045624e5c617d433094c3601f57e5f34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_55
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2208
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750804462e7544c91b8e6b949aefa362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_56
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 2208
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7edfe4d8e8b941689340deeb68c28cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_57
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 2208
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632348075773645f2850b99c14948256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_58
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 2208
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b4c5a184b1944e4bacfb54f8379c0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_59
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 2208
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1104114038e432da9161b01b868cd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1472
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487c2271e806246a1b50d1c98b1f9609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_61
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1472
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f8031affe6940458b279ab0dc888bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_62
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1472
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180f90c8e69db4915bfa10c753f05767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_63
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1472
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25f4d8a152aa4884979cde982a47c2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_64
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1472
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1752e56efc8c948eca9c802f2aa582c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_65
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1472
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d904d54333d44f158437c578d87aa20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_66
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 1472
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e267ba77ce6de4131b5c1048892637d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_67
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 1472
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97eb8fac381b7494fa0e8dd3a43668aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_68
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 1472
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc982b18f37ac45489849e8be2755bac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_69
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 1472
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea80b506d90545ef9d7bf31721eb592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33481e6fa6a3e41febf13ee2d707b2fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_71
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 736
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9158f1dfa9c47b3be9d6ff68da7b93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_72
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 736
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48af8124a7bc4fc089c4b5c51107780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_73
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 736
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175bec3f9799a49bd8a297ec7ac60376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_74
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 736
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80233dbfd50c5404ea7abcf3d46855f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_75
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 736
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef813665656a42b889fb4fa3973f7d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_76
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 736
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb93d4924fc79414ebb8cbd64c02ebcb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_77
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 736
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e3d84f5cf5e4167809aad979c5fb35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_78
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 736
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb74cf4a62ea7475eb5c548c2ee0d1db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_79
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 736
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7a89eb9e1354913b590ce733f5a7c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8315b2736496d4e62a9e3804f2b45d9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_81
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c3f61a671854994be9b122f4e608ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_82
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4dd9a2af580d47ccaecf9903c8efe83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_83
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1d4c4d7dffa471abb06d8f221de163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_84
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781f1ba7dd9af4edc90e971e4fb6fadb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_85
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 0
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677c78349e26d4ac4ac212c1b8fb8218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_86
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 0
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7026f0c8b6ec94397a58a2358c52dcae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_87
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 0
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc11ba3db636144d59c39d129c160ace
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_88
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 0
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7ee8e7fa28d427da471282294b0765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_UP_89
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 0
+        width: 800
+        height: 736
+      alignment: 9
+      pivot: {x: 0.69, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e118840cbf6483a8faf17f01450a73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 11f88760657e442bcbc1d19794995e6c
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

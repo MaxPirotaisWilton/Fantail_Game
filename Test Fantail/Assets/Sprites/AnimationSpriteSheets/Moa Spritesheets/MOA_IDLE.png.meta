@@ -1,0 +1,3039 @@
+fileFormatVersion: 2
+guid: b7d14312ec6af4740874feeed1a82363
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MOA_IDLE_0
+    21300002: MOA_IDLE_1
+    21300004: MOA_IDLE_2
+    21300006: MOA_IDLE_3
+    21300008: MOA_IDLE_4
+    21300010: MOA_IDLE_5
+    21300012: MOA_IDLE_6
+    21300014: MOA_IDLE_7
+    21300016: MOA_IDLE_8
+    21300018: MOA_IDLE_9
+    21300020: MOA_IDLE_10
+    21300022: MOA_IDLE_11
+    21300024: MOA_IDLE_12
+    21300026: MOA_IDLE_13
+    21300028: MOA_IDLE_14
+    21300030: MOA_IDLE_15
+    21300032: MOA_IDLE_16
+    21300034: MOA_IDLE_17
+    21300036: MOA_IDLE_18
+    21300038: MOA_IDLE_19
+    21300040: MOA_IDLE_20
+    21300042: MOA_IDLE_21
+    21300044: MOA_IDLE_22
+    21300046: MOA_IDLE_23
+    21300048: MOA_IDLE_24
+    21300050: MOA_IDLE_25
+    21300052: MOA_IDLE_26
+    21300054: MOA_IDLE_27
+    21300056: MOA_IDLE_28
+    21300058: MOA_IDLE_29
+    21300060: MOA_IDLE_30
+    21300062: MOA_IDLE_31
+    21300064: MOA_IDLE_32
+    21300066: MOA_IDLE_33
+    21300068: MOA_IDLE_34
+    21300070: MOA_IDLE_35
+    21300072: MOA_IDLE_36
+    21300074: MOA_IDLE_37
+    21300076: MOA_IDLE_38
+    21300078: MOA_IDLE_39
+    21300080: MOA_IDLE_40
+    21300082: MOA_IDLE_41
+    21300084: MOA_IDLE_42
+    21300086: MOA_IDLE_43
+    21300088: MOA_IDLE_44
+    21300090: MOA_IDLE_45
+    21300092: MOA_IDLE_46
+    21300094: MOA_IDLE_47
+    21300096: MOA_IDLE_48
+    21300098: MOA_IDLE_49
+    21300100: MOA_IDLE_50
+    21300102: MOA_IDLE_51
+    21300104: MOA_IDLE_52
+    21300106: MOA_IDLE_53
+    21300108: MOA_IDLE_54
+    21300110: MOA_IDLE_55
+    21300112: MOA_IDLE_56
+    21300114: MOA_IDLE_57
+    21300116: MOA_IDLE_58
+    21300118: MOA_IDLE_59
+    21300120: MOA_IDLE_60
+    21300122: MOA_IDLE_61
+    21300124: MOA_IDLE_62
+    21300126: MOA_IDLE_63
+    21300128: MOA_IDLE_64
+    21300130: MOA_IDLE_65
+    21300132: MOA_IDLE_66
+    21300134: MOA_IDLE_67
+    21300136: MOA_IDLE_68
+    21300138: MOA_IDLE_69
+    21300140: MOA_IDLE_70
+    21300142: MOA_IDLE_71
+    21300144: MOA_IDLE_72
+    21300146: MOA_IDLE_73
+    21300148: MOA_IDLE_74
+    21300150: MOA_IDLE_75
+    21300152: MOA_IDLE_76
+    21300154: MOA_IDLE_77
+    21300156: MOA_IDLE_78
+    21300158: MOA_IDLE_79
+    21300160: MOA_IDLE_80
+    21300162: MOA_IDLE_81
+    21300164: MOA_IDLE_82
+    21300166: MOA_IDLE_83
+    21300168: MOA_IDLE_84
+    21300170: MOA_IDLE_85
+    21300172: MOA_IDLE_86
+    21300174: MOA_IDLE_87
+    21300176: MOA_IDLE_88
+    21300178: MOA_IDLE_89
+    21300180: MOA_IDLE_90
+    21300182: MOA_IDLE_91
+    21300184: MOA_IDLE_92
+    21300186: MOA_IDLE_93
+    21300188: MOA_IDLE_94
+    21300190: MOA_IDLE_95
+    21300192: MOA_IDLE_96
+    21300194: MOA_IDLE_97
+    21300196: MOA_IDLE_98
+    21300198: MOA_IDLE_99
+    21300200: MOA_IDLE_100
+    21300202: MOA_IDLE_101
+    21300204: MOA_IDLE_102
+    21300206: MOA_IDLE_103
+    21300208: MOA_IDLE_104
+    21300210: MOA_IDLE_105
+    21300212: MOA_IDLE_106
+    21300214: MOA_IDLE_107
+    21300216: MOA_IDLE_108
+    21300218: MOA_IDLE_109
+    21300220: MOA_IDLE_110
+    21300222: MOA_IDLE_111
+    21300224: MOA_IDLE_112
+    21300226: MOA_IDLE_113
+    21300228: MOA_IDLE_114
+    21300230: MOA_IDLE_115
+    21300232: MOA_IDLE_116
+    21300234: MOA_IDLE_117
+    21300236: MOA_IDLE_118
+    21300238: MOA_IDLE_119
+    21300240: MOA_IDLE_120
+    21300242: MOA_IDLE_121
+    21300244: MOA_IDLE_122
+    21300246: MOA_IDLE_123
+    21300248: MOA_IDLE_124
+    21300250: MOA_IDLE_125
+    21300252: MOA_IDLE_126
+    21300254: MOA_IDLE_127
+    21300256: MOA_IDLE_128
+    21300258: MOA_IDLE_129
+    21300260: MOA_IDLE_130
+    21300262: MOA_IDLE_131
+    21300264: MOA_IDLE_132
+    21300266: MOA_IDLE_133
+    21300268: MOA_IDLE_134
+    21300270: MOA_IDLE_135
+    21300272: MOA_IDLE_136
+    21300274: MOA_IDLE_137
+    21300276: MOA_IDLE_138
+    21300278: MOA_IDLE_139
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MOA_IDLE_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5355
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d75e719d8624456e984ce40613a523a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_1
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 5355
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50477ae945aa4b2a8334ade596be594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_2
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 5355
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd154833dd49e42fa9425c59b625d8b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_3
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 5355
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15944fb64173048388c5b286e268cb53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_4
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 5355
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549605127fb854676b442027883901f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_5
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 5355
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ad144625207411db702b41d95e2c6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_6
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 5355
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0427edba67e34231b9afb50b0ab6efd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_7
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 5355
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cfad753a0894c7ca00f085bf39c3d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_8
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 5355
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9f5d2daad4541fba4af09d2b73fa42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_9
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 5355
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8cbed1aa9084e1f98b03a3eaff1359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_10
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 5355
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e787bdf4310d4a9d918abf424256f05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_11
+      rect:
+        serializedVersion: 2
+        x: 4752
+        y: 5355
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115413baf3f1149628ab25b402bfdfcc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_12
+      rect:
+        serializedVersion: 2
+        x: 5184
+        y: 5355
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ec2e2b25d554b64a052d66cb783b22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_13
+      rect:
+        serializedVersion: 2
+        x: 5616
+        y: 5355
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee508ddf353e45f3a6512e78830d1a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4760
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7556c634c539a420ab032d0820319db2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_15
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 4760
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3551d80e6204b3f83c8eae1da0a9d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_16
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 4760
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d4d9f1aedb64295aebb0ff1ae80301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_17
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 4760
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04bb3c21c5184821944abd7f9f0ff86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_18
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 4760
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0763b8a0adbc4d7d97355d7a7412c4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_19
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 4760
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626bb2f77933d4378b7929c88ee7ba46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_20
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 4760
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa3d14b21f504d529710a6a37758d87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_21
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 4760
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08710363cd1c4668a4fdb137a897901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_22
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 4760
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1951f101d74dc4f7c9d37ad4504c9d98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_23
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 4760
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697c7885743174be0b68ce0ab4f0a2f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_24
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 4760
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf158b04569334c5f8ad48033fe90d80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_25
+      rect:
+        serializedVersion: 2
+        x: 4752
+        y: 4760
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0ca51a47eb743ed9d5efd044324926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_26
+      rect:
+        serializedVersion: 2
+        x: 5184
+        y: 4760
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace29de944d4146a6a5cd1545d3575c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_27
+      rect:
+        serializedVersion: 2
+        x: 5616
+        y: 4760
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0c14f4f5c5a4b7d9b59c84884bed74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4165
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84e5465211294551bb5885732a683ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_29
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 4165
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc0ecb3ed2ee4ec0945143306d6b1c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_30
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 4165
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a8690a6e29d425889df2e347a7b465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_31
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 4165
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf6975f6027d472595b02e6d3782d9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_32
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 4165
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def46dd9877c44f59b75f001de58f3c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_33
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 4165
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e0f80b8bde04cc3acd0c289bb0c79c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_34
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 4165
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aaa694d39e91489688f9f7d3a2cfd8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_35
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 4165
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b21717fa25c4d3985a5c23bf980180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_36
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 4165
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0be0d377dee84c68ba83cc912060508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_37
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 4165
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b6cc240614a45efb3c44642fb8f58c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_38
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 4165
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a5d077ff64c4fe2958b0fbc366f510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_39
+      rect:
+        serializedVersion: 2
+        x: 4752
+        y: 4165
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d7d5d01e2c0434fb7464c53c37a864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_40
+      rect:
+        serializedVersion: 2
+        x: 5184
+        y: 4165
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d107b52b30b347609df49bed1a32710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_41
+      rect:
+        serializedVersion: 2
+        x: 5616
+        y: 4165
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171ac431fcbaa47708d876ec787f944c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3570
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4749cd7cd1a45d3a91fb537d8ecc5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_43
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 3570
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1291b5aedac43c4a49e1502cc48fd7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_44
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 3570
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a0f26b8cbfb471c9ec6d3cfcc21725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_45
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 3570
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51ee2e2679c444ec84483b699045467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_46
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 3570
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0db0975a7e34f9290fb1286bef48e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_47
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3570
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1214a4806fd0d4e48b807f1dc30cbcb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_48
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 3570
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1878ed5c3211d4f609e041e79449c431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_49
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 3570
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75613b8e4ccd422ea1c34bf3278eff0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_50
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 3570
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc921fb77d3844b9b291ab1f9927e00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_51
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 3570
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8401e6bc8264e98ac553009d262716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_52
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 3570
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4610fb57361bf495181a406d8bb56c20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_53
+      rect:
+        serializedVersion: 2
+        x: 4752
+        y: 3570
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4afcebaabdf44189f23956ec4fc063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_54
+      rect:
+        serializedVersion: 2
+        x: 5184
+        y: 3570
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f722826b3558042339a6e261c766f621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_55
+      rect:
+        serializedVersion: 2
+        x: 5616
+        y: 3570
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a472ca6b624242d9b9b8863be009c80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2975
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf128908e0ab4949a444744245967b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_57
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2975
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db32a071b6c494a249d880baf8ce7153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_58
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2975
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a08996bf5814492ada38c8938fde56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_59
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 2975
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cb086ff52394afcbfdaeb59f87f381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_60
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 2975
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8663ba866b1804ee395b8a52769c898e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_61
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2975
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85641efc1b044433197c50058f68dc31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_62
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 2975
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7543a5d2927a4846886c9d1fe2e033d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_63
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 2975
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a211ea384414a389b6320a0b0488e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_64
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 2975
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb93e8c3519b54baf98db63cd9ddf93c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_65
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 2975
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6480936f0bd354730b629a314775ee86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_66
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 2975
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f0608f98c75462eaa056d1880ced80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_67
+      rect:
+        serializedVersion: 2
+        x: 4752
+        y: 2975
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc25c3970c2f447e8ed7534b3ab8e1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_68
+      rect:
+        serializedVersion: 2
+        x: 5184
+        y: 2975
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2c7b913cf9341c781f3f8985c1df88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_69
+      rect:
+        serializedVersion: 2
+        x: 5616
+        y: 2975
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1638e65ae5e54912a9e7696dcd8f1f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2380
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d44472b196a74265ad7fb7a9c98ce7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_71
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2380
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631e56446043d4f6ca2e90de05d5874c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_72
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2380
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f92ec0ac3ad4082a1a0530dde789b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_73
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 2380
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e9e62ae6aef490a9b567ecb1ebf455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_74
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 2380
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9be1ae7b6574c2abcecd41f11e6524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_75
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2380
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68723fffdbce4076beae783c44682dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_76
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 2380
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a56de6010f4a451381b3cd753fd0108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_77
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 2380
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f133267d0ffaf4feda856367181f82c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_78
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 2380
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae90a2c6a4f494f9ab1010e03711be64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_79
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 2380
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc45bb12b0954979b3a957231cd512b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_80
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 2380
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787518d70aeb843cab7f3d0d5e28ae8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_81
+      rect:
+        serializedVersion: 2
+        x: 4752
+        y: 2380
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece4287b6cf884df681ffae36aeb3636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_82
+      rect:
+        serializedVersion: 2
+        x: 5184
+        y: 2380
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15ad801a506f4f68ae374505d7ba20a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_83
+      rect:
+        serializedVersion: 2
+        x: 5616
+        y: 2380
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be62a4b0156f9404fac5517b5117225b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1785
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de474fee3ed94177b602a657b1991c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_85
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1785
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7846c3b7379a4601891ff01a4257c2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_86
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1785
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ed4ad90cb294ef4b53f3485bf1ad55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_87
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1785
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a34f27864354a0f923a3f188ab3464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_88
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1785
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278c8bd10a30742e2b36e492cce46723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_89
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1785
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39974fe662ca446c3875116af1d05d37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_90
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 1785
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae4310895d41445f81c24292ab44f41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_91
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 1785
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfbaa97ea3244422875f09f6e986a1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_92
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 1785
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c792cc837b9464d44a6763c53268a5a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_93
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 1785
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210856721dfb94f778f703d646065ef7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_94
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 1785
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd9247a7c2744a9096d0e1862cfd441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_95
+      rect:
+        serializedVersion: 2
+        x: 4752
+        y: 1785
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c4e4fecabb54fe4be9c18edc55b28d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_96
+      rect:
+        serializedVersion: 2
+        x: 5184
+        y: 1785
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f16d0864c8c404890b05a57dafb1e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_97
+      rect:
+        serializedVersion: 2
+        x: 5616
+        y: 1785
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8433cca1ab8e4b72a3712cb6d8bbc4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1190
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8733e7b2098f84b7abcfb9e47233b9fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_99
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1190
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3c8f4ee5b4d4239a2903704a933b8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_100
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1190
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7acbbaa1d6d040ff977c58f9da75eec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_101
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1190
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4f45078da874367a341471dff02f24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_102
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1190
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dee362da34e14b79a7bbe31ede0055d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_103
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1190
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad25c026644c4dd89cf90a69d1abf6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_104
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 1190
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fffde4d8e6b46ba98a35fed4f7f5a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_105
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 1190
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77959a4a3f2a84cc5bc210f5ef80b6e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_106
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 1190
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de75590e54bec4af5b1739d282efd3ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_107
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 1190
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a63cda72f1e44e18880104c00093fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_108
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 1190
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8537db18dde3f4c12bd18da68acaf2fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_109
+      rect:
+        serializedVersion: 2
+        x: 4752
+        y: 1190
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b7ae0820991400b9e0912ae04671e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_110
+      rect:
+        serializedVersion: 2
+        x: 5184
+        y: 1190
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f38e7a77f22042d19e2d6e53a106618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_111
+      rect:
+        serializedVersion: 2
+        x: 5616
+        y: 1190
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f429ede5a08487c894a4777db7d1fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 595
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08618b3eae918484491f705e1616db74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_113
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 595
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04998044cda6e41a1bb4000916bf14c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_114
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 595
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e6b1b1d0f0449239fa1c9d2cbd794f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_115
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 595
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4163fafacbf4019aeac461b612d635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_116
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 595
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88eecef8fbfd4c46b4c21ebe094af1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_117
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 595
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db95298a844cb4d30b392c88158eabb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_118
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 595
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab7095e252d740ed8130b8897dbeea1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_119
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 595
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bac1c9e8df6a409097ac268284bd0f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_120
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 595
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca57d813f076f4a93ac5fa3b35894645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_121
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 595
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a4d0af58dfa40f78c209637e243682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_122
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 595
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd5e494af96f4cb5a4016c3be2a2424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_123
+      rect:
+        serializedVersion: 2
+        x: 4752
+        y: 595
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672c7010827ba4cdd8a2f25d9ced262f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_124
+      rect:
+        serializedVersion: 2
+        x: 5184
+        y: 595
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6c303f03bf84c7c9c1b37547b6f977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_125
+      rect:
+        serializedVersion: 2
+        x: 5616
+        y: 595
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170c44de9394547a1885414fa23bf505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae709ddfafdf4e50906ab03ccde56dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_127
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd2775c4be43452081f380434cc5acb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_128
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26029ff717894720b5bb4fcd5478251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_129
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 0
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c6afd026e0c45619f00f7caae24db3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_130
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 0
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffe1a044889f4b8a90e7689a46bd9f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_131
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32efae934917142b3b63580b3b1e8359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_132
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 0
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cd4baaaf5ba465f90857701d4125d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_133
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 0
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9e85198a837443e9eb236aa0ec8b75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_134
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 0
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f9f7e2feafe455ab8c88e5589c5ebf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_135
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 0
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c3bfae1a49f4b3fb48d2c2a87c653c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_136
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 0
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3eef570ae0b49ed92f91df72b9445d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_137
+      rect:
+        serializedVersion: 2
+        x: 4752
+        y: 0
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4144e366707124c08a359bbfaecdedb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_138
+      rect:
+        serializedVersion: 2
+        x: 5184
+        y: 0
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d01b3599a2bf4b7c9c81282bb24f9cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_139
+      rect:
+        serializedVersion: 2
+        x: 5616
+        y: 0
+        width: 432
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e80b9928f24842afba14e82a996904a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ce5024e4ce3a2419d8710c599450f155
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

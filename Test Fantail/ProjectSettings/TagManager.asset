@@ -17,9 +17,9 @@ TagManager:
   - GroundLayer
   - Player
   - water
-  - 
-  - 
-  - 
+  - BackGround
+  - Twig
+  - Camera Wall
   - 
   - 
   - 

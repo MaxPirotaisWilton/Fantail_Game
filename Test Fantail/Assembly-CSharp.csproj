@@ -61,13 +61,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\AnimationSounds.cs" />
     <Compile Include="Assets\Scripts\ArrowHeadScript.cs" />
     <Compile Include="Assets\Scripts\AudioManager.cs" />
     <Compile Include="Assets\Scripts\CameraFollow.cs" />
-    <Compile Include="Assets\Scripts\GrabbableScript.cs" />
     <Compile Include="Assets\Scripts\GrabItemScript.cs" />
     <Compile Include="Assets\Scripts\NewPlayerScript.cs" />
     <Compile Include="Assets\Scripts\OldPlayerScript.cs" />
+    <Compile Include="Assets\Scripts\ParalaxBackground.cs" />
     <Compile Include="Assets\Scripts\RaycastGround.cs" />
     <Compile Include="Assets\Scripts\Sound.cs" />
     <Compile Include="Assets\Scripts\VectorVisualizationScript.cs" />

@@ -1,0 +1,1989 @@
+fileFormatVersion: 2
+guid: 023b162f9a4554e5d962c5277e7790d9
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Up_Glide_0
+    21300002: Up_Glide_1
+    21300004: Up_Glide_2
+    21300006: Up_Glide_3
+    21300008: Up_Glide_4
+    21300010: Up_Glide_5
+    21300012: Up_Glide_6
+    21300014: Up_Glide_7
+    21300016: Up_Glide_8
+    21300018: Up_Glide_9
+    21300020: Up_Glide_10
+    21300022: Up_Glide_11
+    21300024: Up_Glide_12
+    21300026: Up_Glide_13
+    21300028: Up_Glide_14
+    21300030: Up_Glide_15
+    21300032: Up_Glide_16
+    21300034: Up_Glide_17
+    21300036: Up_Glide_18
+    21300038: Up_Glide_19
+    21300040: Up_Glide_20
+    21300042: Up_Glide_21
+    21300044: Up_Glide_22
+    21300046: Up_Glide_23
+    21300048: Up_Glide_24
+    21300050: Up_Glide_25
+    21300052: Up_Glide_26
+    21300054: Up_Glide_27
+    21300056: Up_Glide_28
+    21300058: Up_Glide_29
+    21300060: Up_Glide_30
+    21300062: Up_Glide_31
+    21300064: Up_Glide_32
+    21300066: Up_Glide_33
+    21300068: Up_Glide_34
+    21300070: Up_Glide_35
+    21300072: Up_Glide_36
+    21300074: Up_Glide_37
+    21300076: Up_Glide_38
+    21300078: Up_Glide_39
+    21300080: Up_Glide_40
+    21300082: Up_Glide_41
+    21300084: Up_Glide_42
+    21300086: Up_Glide_43
+    21300088: Up_Glide_44
+    21300090: Up_Glide_45
+    21300092: Up_Glide_46
+    21300094: Up_Glide_47
+    21300096: Up_Glide_48
+    21300098: Up_Glide_49
+    21300100: Up_Glide_50
+    21300102: Up_Glide_51
+    21300104: Up_Glide_52
+    21300106: Up_Glide_53
+    21300108: Up_Glide_54
+    21300110: Up_Glide_55
+    21300112: Up_Glide_56
+    21300114: Up_Glide_57
+    21300116: Up_Glide_58
+    21300118: Up_Glide_59
+    21300120: Up_Glide_60
+    21300122: Up_Glide_61
+    21300124: Up_Glide_62
+    21300126: Up_Glide_63
+    21300128: Up_Glide_64
+    21300130: Up_Glide_65
+    21300132: Up_Glide_66
+    21300134: Up_Glide_67
+    21300136: Up_Glide_68
+    21300138: Up_Glide_69
+    21300140: Up_Glide_70
+    21300142: Up_Glide_71
+    21300144: Up_Glide_72
+    21300146: Up_Glide_73
+    21300148: Up_Glide_74
+    21300150: Up_Glide_75
+    21300152: Up_Glide_76
+    21300154: Up_Glide_77
+    21300156: Up_Glide_78
+    21300158: Up_Glide_79
+    21300160: Up_Glide_80
+    21300162: Up_Glide_81
+    21300164: Up_Glide_82
+    21300166: Up_Glide_83
+    21300168: Up_Glide_84
+    21300170: Up_Glide_85
+    21300172: Up_Glide_86
+    21300174: Up_Glide_87
+    21300176: Up_Glide_88
+    21300178: Up_Glide_89
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Up_Glide_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6872
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377490fd3b2b741b68d84807095ce832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_1
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 6872
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a079520f376d94d35bc1528ddd4e7121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_2
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 6872
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632900967ab1f4f46b339c690e5194a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_3
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 6872
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf5bca5e59b34684905b4b912e27551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_4
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 6872
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef39332b407944fa8b80ae300eee9322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_5
+      rect:
+        serializedVersion: 2
+        x: 3735
+        y: 6872
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6575dbc5946f742fb9a7c6e618cb7593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_6
+      rect:
+        serializedVersion: 2
+        x: 4482
+        y: 6872
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6ae779092904eab962ac96322ce747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_7
+      rect:
+        serializedVersion: 2
+        x: 5229
+        y: 6872
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5465319b7110b4aa9a4f3858f7fb0214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_8
+      rect:
+        serializedVersion: 2
+        x: 5976
+        y: 6872
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3b75d9c14954e38aa60d20a78d44bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_9
+      rect:
+        serializedVersion: 2
+        x: 6723
+        y: 6872
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc19040d35c046b1885899a8b66f9c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6013
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623b0adea13984d549a2316021a62a3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_11
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 6013
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ee1fddce6a340bd8925799c96caf04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_12
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 6013
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9fe16d9a85e41d5adbffe89552558a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_13
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 6013
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3444f3852875d49d48f388babb5eabb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_14
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 6013
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efd535ecbbdf4f438f718952ca1ba6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_15
+      rect:
+        serializedVersion: 2
+        x: 3735
+        y: 6013
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e589e968c441f4d218c319819e29ec20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_16
+      rect:
+        serializedVersion: 2
+        x: 4482
+        y: 6013
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bd6e89116f045e18be8e95d9816895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_17
+      rect:
+        serializedVersion: 2
+        x: 5229
+        y: 6013
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8e5b859b5544725aabd4f13fe55288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_18
+      rect:
+        serializedVersion: 2
+        x: 5976
+        y: 6013
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea925cce3517e41eb8a2462c8299b8c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_19
+      rect:
+        serializedVersion: 2
+        x: 6723
+        y: 6013
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4228d857dbc6f4d0d93033c541773fd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5154
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8185da794099f4d3e801111b67ea345f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_21
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 5154
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45a5b820dc784f60a916324426a02e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_22
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 5154
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536d889359f36452d8bb6453ed26402e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_23
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 5154
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dedee432211144b7acf3be89cfe5ceb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_24
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 5154
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd3e351108ac4f0f979709308534ea9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_25
+      rect:
+        serializedVersion: 2
+        x: 3735
+        y: 5154
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f6af34be8a34daa8bc370b17c01469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_26
+      rect:
+        serializedVersion: 2
+        x: 4482
+        y: 5154
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a4b54410d0b48979516f6f39b09cd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_27
+      rect:
+        serializedVersion: 2
+        x: 5229
+        y: 5154
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77771621c78ec4c6398eb34259befc21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_28
+      rect:
+        serializedVersion: 2
+        x: 5976
+        y: 5154
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc7a53b07770453fa8bf2052b36eeda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_29
+      rect:
+        serializedVersion: 2
+        x: 6723
+        y: 5154
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56360561f7bc2419ca8845af42adbf99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4295
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550a935ac34d741719a3f78cf54f9d7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_31
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 4295
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79eceb844d25c405381cb672acc2ded8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_32
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 4295
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c648982a636a345f7ad3b035aba72c22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_33
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 4295
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d45f2731b7b4fe8a394fc09cfaa291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_34
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 4295
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732fb3669dae841d78aa87adf5542ffa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_35
+      rect:
+        serializedVersion: 2
+        x: 3735
+        y: 4295
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66c85ebb4a83467ca97418affa8afe7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_36
+      rect:
+        serializedVersion: 2
+        x: 4482
+        y: 4295
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cc7d6e6833a418697c24ea191be619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_37
+      rect:
+        serializedVersion: 2
+        x: 5229
+        y: 4295
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be10830217bb045499df3f33ccdbf0f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_38
+      rect:
+        serializedVersion: 2
+        x: 5976
+        y: 4295
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7da0f3428eea42759dcbe187270e8f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_39
+      rect:
+        serializedVersion: 2
+        x: 6723
+        y: 4295
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10de8273afe3a4cdba420ea9b877a39c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3436
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17500755cc78542fa808d0866ff9b923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_41
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 3436
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1daa87de08bd44c6f88040487a005f29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_42
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 3436
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574ad6b6c10df4d2a9b7c2f28376bad0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_43
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 3436
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe429d1c1772842f190b4aa8bb79553f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_44
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 3436
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc009af414674af6b684a95f6033908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_45
+      rect:
+        serializedVersion: 2
+        x: 3735
+        y: 3436
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fd2a27472a5409f9969bdb1b96e74b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_46
+      rect:
+        serializedVersion: 2
+        x: 4482
+        y: 3436
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5257fb38b07bc40c989b47caf3df2b1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_47
+      rect:
+        serializedVersion: 2
+        x: 5229
+        y: 3436
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb0de171cd6a4d048367ffe27dca438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_48
+      rect:
+        serializedVersion: 2
+        x: 5976
+        y: 3436
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b42075778b4943de901c683ca7a7918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_49
+      rect:
+        serializedVersion: 2
+        x: 6723
+        y: 3436
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe3e41fbd52b4156bbfdde0c4b5a812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2577
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196dabf893aac4d7baf26b4e1ac10d0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_51
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 2577
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11de1de676e8e45aab4a194b50b08ccb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_52
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 2577
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d03a618160546eeaea43e0960290d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_53
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 2577
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1ac36417f7b42c18cbf1ade9e91468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_54
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 2577
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b28857dafd3425480fd94f2d23c90d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_55
+      rect:
+        serializedVersion: 2
+        x: 3735
+        y: 2577
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e69c7a3fa74e4e8e8b07073bd30a724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_56
+      rect:
+        serializedVersion: 2
+        x: 4482
+        y: 2577
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa59f64d1748f447ab7a6fac3d5acd6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_57
+      rect:
+        serializedVersion: 2
+        x: 5229
+        y: 2577
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace8d63bc0c944d979ee3327e1e0e30e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_58
+      rect:
+        serializedVersion: 2
+        x: 5976
+        y: 2577
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd029e5274f04bc0916e015cd40128e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_59
+      rect:
+        serializedVersion: 2
+        x: 6723
+        y: 2577
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d727654a357f46e2825cee1c229bfb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1718
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b721e7b809c24596a00945a830af685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_61
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1718
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131cc548aa824436f9c88c866c63a8c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_62
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 1718
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf60e822c90464cf4953413a13721929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_63
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 1718
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58aa538d6812f433abbc545685596574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_64
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 1718
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee73f17b9195476bbaa8a2a0f3c8095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_65
+      rect:
+        serializedVersion: 2
+        x: 3735
+        y: 1718
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e969306f143416181e2d87f9adaa08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_66
+      rect:
+        serializedVersion: 2
+        x: 4482
+        y: 1718
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479b4665e47164aada70fd58f4b72eb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_67
+      rect:
+        serializedVersion: 2
+        x: 5229
+        y: 1718
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44674cffcb9b94692b344f0f6f3cb5ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_68
+      rect:
+        serializedVersion: 2
+        x: 5976
+        y: 1718
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abface3c81b2413c9440392f620ed8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_69
+      rect:
+        serializedVersion: 2
+        x: 6723
+        y: 1718
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd62780b31a534a009ba22cbae97cf63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 859
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef0c487b3bc041288fca168e1daafed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_71
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 859
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66f935d33c7b4d49ba5b0b8413a6595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_72
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 859
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c719275a33d9b4f38aa877f6d5b66592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_73
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 859
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860af90eba2d04c99be8c229b376b9c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_74
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 859
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7c4879f8ede4a9d8914028aa568db7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_75
+      rect:
+        serializedVersion: 2
+        x: 3735
+        y: 859
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa297d093235849baa3459cc5c82319c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_76
+      rect:
+        serializedVersion: 2
+        x: 4482
+        y: 859
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95be7d0c28e1440c803ad4205a49c0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_77
+      rect:
+        serializedVersion: 2
+        x: 5229
+        y: 859
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfb5ff06259049f8bb989acc7388820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_78
+      rect:
+        serializedVersion: 2
+        x: 5976
+        y: 859
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f42e5eaa538d40a2b757a4d8325b21f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_79
+      rect:
+        serializedVersion: 2
+        x: 6723
+        y: 859
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee7f774839d548b2865fbfbc611152f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507f1855317f64673bcaa8c4bd428948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_81
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 0
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91a093fb1da1437b96fea4ac3f2ad43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_82
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 0
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad638251b81243fe81c38c04827eb45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_83
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 0
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5142030551b96461aa85275016c97f56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_84
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 0
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d90f7088ccda4132950bef93c822090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_85
+      rect:
+        serializedVersion: 2
+        x: 3735
+        y: 0
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930e5b2feefd44c22b86fc21a7d297a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_86
+      rect:
+        serializedVersion: 2
+        x: 4482
+        y: 0
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b223178940f4f739ab815baaebd895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_87
+      rect:
+        serializedVersion: 2
+        x: 5229
+        y: 0
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fcd9aaa4e904d168da9e11acfcc30f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_88
+      rect:
+        serializedVersion: 2
+        x: 5976
+        y: 0
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3816655211f864d3b81ff5236cb1b79d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Glide_89
+      rect:
+        serializedVersion: 2
+        x: 6723
+        y: 0
+        width: 747
+        height: 859
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adf9f321ff654f94b0442ce735ea2a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 83b430b96ea4046d28c5483e1321e660
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,13 +1,11 @@
 ﻿<Properties StartupConfiguration="{9C5007FB-BDC8-6ABC-4CD5-5F8F5542B026}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GrabItemScript.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/NewPlayerScript.cs">
     <Files>
-      <File FileName="Assets/Scripts/NewPlayerScript.cs" Line="232" Column="1" />
-      <File FileName="Assets/Scripts/RaycastGround.cs" Line="16" Column="19" />
-      <File FileName="Assets/Scripts/ArrowHeadScript.cs" Line="13" Column="32" />
-      <File FileName="Assets/Scripts/VectorVisualizationScript.cs" Line="147" Column="15" />
-      <File FileName="Assets/Scripts/CameraFollow.cs" Line="30" Column="55" />
-      <File FileName="Assets/Scripts/GrabbableScript.cs" Line="25" Column="11" />
-      <File FileName="Assets/Scripts/GrabItemScript.cs" Line="33" Column="82" />
+      <File FileName="Assets/Scripts/NewPlayerScript.cs" Line="278" Column="42" />
+      <File FileName="Assets/Scripts/CameraFollow.cs" Line="76" Column="59" />
+      <File FileName="Assets/Scripts/AudioManager.cs" Line="8" Column="25" />
+      <File FileName="Assets/Scripts/Sound.cs" Line="12" Column="18" />
+      <File FileName="Assets/Scripts/AnimationSounds.cs" Line="27" Column="39" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,7 +13,7 @@
           <Node name="Test Fantail" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="GrabItemScript.cs" selected="True" />
+                <Node name="NewPlayerScript.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -25,7 +23,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3956a224-00f1-4d86-81e5-bdb93ca8297d" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6e0bb856-f7fb-4eb7-baf1-86c78d1831cb" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

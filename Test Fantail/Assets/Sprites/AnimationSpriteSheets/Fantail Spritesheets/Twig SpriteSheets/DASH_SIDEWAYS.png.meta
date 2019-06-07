@@ -1,0 +1,519 @@
+fileFormatVersion: 2
+guid: 28b338ce1eefe4903ba28b1ab5c2f712
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DASH_SIDEWAYS_0
+    21300002: DASH_SIDEWAYS_1
+    21300004: DASH_SIDEWAYS_2
+    21300006: DASH_SIDEWAYS_3
+    21300008: DASH_SIDEWAYS_4
+    21300010: DASH_SIDEWAYS_5
+    21300012: DASH_SIDEWAYS_6
+    21300014: DASH_SIDEWAYS_7
+    21300016: DASH_SIDEWAYS_8
+    21300018: DASH_SIDEWAYS_9
+    21300020: DASH_SIDEWAYS_10
+    21300022: DASH_SIDEWAYS_11
+    21300024: DASH_SIDEWAYS_12
+    21300026: DASH_SIDEWAYS_13
+    21300028: DASH_SIDEWAYS_14
+    21300030: DASH_SIDEWAYS_15
+    21300032: DASH_SIDEWAYS_16
+    21300034: DASH_SIDEWAYS_17
+    21300036: DASH_SIDEWAYS_18
+    21300038: DASH_SIDEWAYS_19
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DASH_SIDEWAYS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1302
+        width: 880
+        height: 434
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ed31bd08c734652bc44429d236d909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASH_SIDEWAYS_1
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1302
+        width: 880
+        height: 434
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6d19c4b68c24837b8a7a79c48085fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASH_SIDEWAYS_2
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1302
+        width: 880
+        height: 434
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80113e6c20dad4f57b3d6eb98145d68d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASH_SIDEWAYS_3
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 1302
+        width: 880
+        height: 434
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abe25138ae844cd98970a4170087593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASH_SIDEWAYS_4
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 1302
+        width: 880
+        height: 434
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccc78e65cac6481cbfdc4da225e6846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASH_SIDEWAYS_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 868
+        width: 880
+        height: 434
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519935757ce1e422bb08ecf3ecc01caa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASH_SIDEWAYS_6
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 868
+        width: 880
+        height: 434
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd75efb9d37048b181a4900337bbf04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASH_SIDEWAYS_7
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 868
+        width: 880
+        height: 434
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377763377ae63426d8bb6e9813fccfb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASH_SIDEWAYS_8
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 868
+        width: 880
+        height: 434
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2415d5ffb52964c6c887b99e7f5b2648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASH_SIDEWAYS_9
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 868
+        width: 880
+        height: 434
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5c204a1dbe64eb481ca263e204dc6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASH_SIDEWAYS_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 434
+        width: 880
+        height: 434
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4aab708d7b34e23ac1226768093c5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASH_SIDEWAYS_11
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 434
+        width: 880
+        height: 434
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb03308220f93480dbd3bf05bda862e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASH_SIDEWAYS_12
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 434
+        width: 880
+        height: 434
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de4f7065e5544d34be0e812a8130853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASH_SIDEWAYS_13
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 434
+        width: 880
+        height: 434
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84400686c3694f35a31fc4972d305e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASH_SIDEWAYS_14
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 434
+        width: 880
+        height: 434
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb66ee7900314884888c1dabc8490d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASH_SIDEWAYS_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 880
+        height: 434
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6ecf13cbea64e89ab629428bea2239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASH_SIDEWAYS_16
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 0
+        width: 880
+        height: 434
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fbb063e6c434181b0a150b1636f9ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASH_SIDEWAYS_17
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 0
+        width: 880
+        height: 434
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3bfc6e1a55146b8b1a63360182d9c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASH_SIDEWAYS_18
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 0
+        width: 880
+        height: 434
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff57315636f44f9381a6d6590e728b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DASH_SIDEWAYS_19
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 0
+        width: 880
+        height: 434
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de2e7e379dc44ac68ed1bea2ef27295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 276dfb6ff7d3d44c9b02575297bc4bd0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

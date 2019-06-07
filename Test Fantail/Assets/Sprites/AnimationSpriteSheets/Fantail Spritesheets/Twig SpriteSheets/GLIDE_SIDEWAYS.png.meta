@@ -1,0 +1,5811 @@
+fileFormatVersion: 2
+guid: c104aea97c074491e854b5cd4cdad035
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GLIDE_SIDEWAYS_0
+    21300002: GLIDE_SIDEWAYS_1
+    21300004: GLIDE_SIDEWAYS_2
+    21300006: GLIDE_SIDEWAYS_3
+    21300008: GLIDE_SIDEWAYS_4
+    21300010: GLIDE_SIDEWAYS_5
+    21300012: GLIDE_SIDEWAYS_6
+    21300014: GLIDE_SIDEWAYS_7
+    21300016: GLIDE_SIDEWAYS_8
+    21300018: GLIDE_SIDEWAYS_9
+    21300020: GLIDE_SIDEWAYS_10
+    21300022: GLIDE_SIDEWAYS_11
+    21300024: GLIDE_SIDEWAYS_12
+    21300026: GLIDE_SIDEWAYS_13
+    21300028: GLIDE_SIDEWAYS_14
+    21300030: GLIDE_SIDEWAYS_15
+    21300032: GLIDE_SIDEWAYS_16
+    21300034: GLIDE_SIDEWAYS_17
+    21300036: GLIDE_SIDEWAYS_18
+    21300038: GLIDE_SIDEWAYS_19
+    21300040: GLIDE_SIDEWAYS_20
+    21300042: GLIDE_SIDEWAYS_21
+    21300044: GLIDE_SIDEWAYS_22
+    21300046: GLIDE_SIDEWAYS_23
+    21300048: GLIDE_SIDEWAYS_24
+    21300050: GLIDE_SIDEWAYS_25
+    21300052: GLIDE_SIDEWAYS_26
+    21300054: GLIDE_SIDEWAYS_27
+    21300056: GLIDE_SIDEWAYS_28
+    21300058: GLIDE_SIDEWAYS_29
+    21300060: GLIDE_SIDEWAYS_30
+    21300062: GLIDE_SIDEWAYS_31
+    21300064: GLIDE_SIDEWAYS_32
+    21300066: GLIDE_SIDEWAYS_33
+    21300068: GLIDE_SIDEWAYS_34
+    21300070: GLIDE_SIDEWAYS_35
+    21300072: GLIDE_SIDEWAYS_36
+    21300074: GLIDE_SIDEWAYS_37
+    21300076: GLIDE_SIDEWAYS_38
+    21300078: GLIDE_SIDEWAYS_39
+    21300080: GLIDE_SIDEWAYS_40
+    21300082: GLIDE_SIDEWAYS_41
+    21300084: GLIDE_SIDEWAYS_42
+    21300086: GLIDE_SIDEWAYS_43
+    21300088: GLIDE_SIDEWAYS_44
+    21300090: GLIDE_SIDEWAYS_45
+    21300092: GLIDE_SIDEWAYS_46
+    21300094: GLIDE_SIDEWAYS_47
+    21300096: GLIDE_SIDEWAYS_48
+    21300098: GLIDE_SIDEWAYS_49
+    21300100: GLIDE_SIDEWAYS_50
+    21300102: GLIDE_SIDEWAYS_51
+    21300104: GLIDE_SIDEWAYS_52
+    21300106: GLIDE_SIDEWAYS_53
+    21300108: GLIDE_SIDEWAYS_54
+    21300110: GLIDE_SIDEWAYS_55
+    21300112: GLIDE_SIDEWAYS_56
+    21300114: GLIDE_SIDEWAYS_57
+    21300116: GLIDE_SIDEWAYS_58
+    21300118: GLIDE_SIDEWAYS_59
+    21300120: GLIDE_SIDEWAYS_60
+    21300122: GLIDE_SIDEWAYS_61
+    21300124: GLIDE_SIDEWAYS_62
+    21300126: GLIDE_SIDEWAYS_63
+    21300128: GLIDE_SIDEWAYS_64
+    21300130: GLIDE_SIDEWAYS_65
+    21300132: GLIDE_SIDEWAYS_66
+    21300134: GLIDE_SIDEWAYS_67
+    21300136: GLIDE_SIDEWAYS_68
+    21300138: GLIDE_SIDEWAYS_69
+    21300140: GLIDE_SIDEWAYS_70
+    21300142: GLIDE_SIDEWAYS_71
+    21300144: GLIDE_SIDEWAYS_72
+    21300146: GLIDE_SIDEWAYS_73
+    21300148: GLIDE_SIDEWAYS_74
+    21300150: GLIDE_SIDEWAYS_75
+    21300152: GLIDE_SIDEWAYS_76
+    21300154: GLIDE_SIDEWAYS_77
+    21300156: GLIDE_SIDEWAYS_78
+    21300158: GLIDE_SIDEWAYS_79
+    21300160: GLIDE_SIDEWAYS_80
+    21300162: GLIDE_SIDEWAYS_81
+    21300164: GLIDE_SIDEWAYS_82
+    21300166: GLIDE_SIDEWAYS_83
+    21300168: GLIDE_SIDEWAYS_84
+    21300170: GLIDE_SIDEWAYS_85
+    21300172: GLIDE_SIDEWAYS_86
+    21300174: GLIDE_SIDEWAYS_87
+    21300176: GLIDE_SIDEWAYS_88
+    21300178: GLIDE_SIDEWAYS_89
+    21300180: GLIDE_SIDEWAYS_90
+    21300182: GLIDE_SIDEWAYS_91
+    21300184: GLIDE_SIDEWAYS_92
+    21300186: GLIDE_SIDEWAYS_93
+    21300188: GLIDE_SIDEWAYS_94
+    21300190: GLIDE_SIDEWAYS_95
+    21300192: GLIDE_SIDEWAYS_96
+    21300194: GLIDE_SIDEWAYS_97
+    21300196: GLIDE_SIDEWAYS_98
+    21300198: GLIDE_SIDEWAYS_99
+    21300200: GLIDE_SIDEWAYS_100
+    21300202: GLIDE_SIDEWAYS_101
+    21300204: GLIDE_SIDEWAYS_102
+    21300206: GLIDE_SIDEWAYS_103
+    21300208: GLIDE_SIDEWAYS_104
+    21300210: GLIDE_SIDEWAYS_105
+    21300212: GLIDE_SIDEWAYS_106
+    21300214: GLIDE_SIDEWAYS_107
+    21300216: GLIDE_SIDEWAYS_108
+    21300218: GLIDE_SIDEWAYS_109
+    21300220: GLIDE_SIDEWAYS_110
+    21300222: GLIDE_SIDEWAYS_111
+    21300224: GLIDE_SIDEWAYS_112
+    21300226: GLIDE_SIDEWAYS_113
+    21300228: GLIDE_SIDEWAYS_114
+    21300230: GLIDE_SIDEWAYS_115
+    21300232: GLIDE_SIDEWAYS_116
+    21300234: GLIDE_SIDEWAYS_117
+    21300236: GLIDE_SIDEWAYS_118
+    21300238: GLIDE_SIDEWAYS_119
+    21300240: GLIDE_SIDEWAYS_120
+    21300242: GLIDE_SIDEWAYS_121
+    21300244: GLIDE_SIDEWAYS_122
+    21300246: GLIDE_SIDEWAYS_123
+    21300248: GLIDE_SIDEWAYS_124
+    21300250: GLIDE_SIDEWAYS_125
+    21300252: GLIDE_SIDEWAYS_126
+    21300254: GLIDE_SIDEWAYS_127
+    21300256: GLIDE_SIDEWAYS_128
+    21300258: GLIDE_SIDEWAYS_129
+    21300260: GLIDE_SIDEWAYS_130
+    21300262: GLIDE_SIDEWAYS_131
+    21300264: GLIDE_SIDEWAYS_132
+    21300266: GLIDE_SIDEWAYS_133
+    21300268: GLIDE_SIDEWAYS_134
+    21300270: GLIDE_SIDEWAYS_135
+    21300272: GLIDE_SIDEWAYS_136
+    21300274: GLIDE_SIDEWAYS_137
+    21300276: GLIDE_SIDEWAYS_138
+    21300278: GLIDE_SIDEWAYS_139
+    21300280: GLIDE_SIDEWAYS_140
+    21300282: GLIDE_SIDEWAYS_141
+    21300284: GLIDE_SIDEWAYS_142
+    21300286: GLIDE_SIDEWAYS_143
+    21300288: GLIDE_SIDEWAYS_144
+    21300290: GLIDE_SIDEWAYS_145
+    21300292: GLIDE_SIDEWAYS_146
+    21300294: GLIDE_SIDEWAYS_147
+    21300296: GLIDE_SIDEWAYS_148
+    21300298: GLIDE_SIDEWAYS_149
+    21300300: GLIDE_SIDEWAYS_150
+    21300302: GLIDE_SIDEWAYS_151
+    21300304: GLIDE_SIDEWAYS_152
+    21300306: GLIDE_SIDEWAYS_153
+    21300308: GLIDE_SIDEWAYS_154
+    21300310: GLIDE_SIDEWAYS_155
+    21300312: GLIDE_SIDEWAYS_156
+    21300314: GLIDE_SIDEWAYS_157
+    21300316: GLIDE_SIDEWAYS_158
+    21300318: GLIDE_SIDEWAYS_159
+    21300320: GLIDE_SIDEWAYS_160
+    21300322: GLIDE_SIDEWAYS_161
+    21300324: GLIDE_SIDEWAYS_162
+    21300326: GLIDE_SIDEWAYS_163
+    21300328: GLIDE_SIDEWAYS_164
+    21300330: GLIDE_SIDEWAYS_165
+    21300332: GLIDE_SIDEWAYS_166
+    21300334: GLIDE_SIDEWAYS_167
+    21300336: GLIDE_SIDEWAYS_168
+    21300338: GLIDE_SIDEWAYS_169
+    21300340: GLIDE_SIDEWAYS_170
+    21300342: GLIDE_SIDEWAYS_171
+    21300344: GLIDE_SIDEWAYS_172
+    21300346: GLIDE_SIDEWAYS_173
+    21300348: GLIDE_SIDEWAYS_174
+    21300350: GLIDE_SIDEWAYS_175
+    21300352: GLIDE_SIDEWAYS_176
+    21300354: GLIDE_SIDEWAYS_177
+    21300356: GLIDE_SIDEWAYS_178
+    21300358: GLIDE_SIDEWAYS_179
+    21300360: GLIDE_SIDEWAYS_180
+    21300362: GLIDE_SIDEWAYS_181
+    21300364: GLIDE_SIDEWAYS_182
+    21300366: GLIDE_SIDEWAYS_183
+    21300368: GLIDE_SIDEWAYS_184
+    21300370: GLIDE_SIDEWAYS_185
+    21300372: GLIDE_SIDEWAYS_186
+    21300374: GLIDE_SIDEWAYS_187
+    21300376: GLIDE_SIDEWAYS_188
+    21300378: GLIDE_SIDEWAYS_189
+    21300380: GLIDE_SIDEWAYS_190
+    21300382: GLIDE_SIDEWAYS_191
+    21300384: GLIDE_SIDEWAYS_192
+    21300386: GLIDE_SIDEWAYS_193
+    21300388: GLIDE_SIDEWAYS_194
+    21300390: GLIDE_SIDEWAYS_195
+    21300392: GLIDE_SIDEWAYS_196
+    21300394: GLIDE_SIDEWAYS_197
+    21300396: GLIDE_SIDEWAYS_198
+    21300398: GLIDE_SIDEWAYS_199
+    21300400: GLIDE_SIDEWAYS_200
+    21300402: GLIDE_SIDEWAYS_201
+    21300404: GLIDE_SIDEWAYS_202
+    21300406: GLIDE_SIDEWAYS_203
+    21300408: GLIDE_SIDEWAYS_204
+    21300410: GLIDE_SIDEWAYS_205
+    21300412: GLIDE_SIDEWAYS_206
+    21300414: GLIDE_SIDEWAYS_207
+    21300416: GLIDE_SIDEWAYS_208
+    21300418: GLIDE_SIDEWAYS_209
+    21300420: GLIDE_SIDEWAYS_210
+    21300422: GLIDE_SIDEWAYS_211
+    21300424: GLIDE_SIDEWAYS_212
+    21300426: GLIDE_SIDEWAYS_213
+    21300428: GLIDE_SIDEWAYS_214
+    21300430: GLIDE_SIDEWAYS_215
+    21300432: GLIDE_SIDEWAYS_216
+    21300434: GLIDE_SIDEWAYS_217
+    21300436: GLIDE_SIDEWAYS_218
+    21300438: GLIDE_SIDEWAYS_219
+    21300440: GLIDE_SIDEWAYS_220
+    21300442: GLIDE_SIDEWAYS_221
+    21300444: GLIDE_SIDEWAYS_222
+    21300446: GLIDE_SIDEWAYS_223
+    21300448: GLIDE_SIDEWAYS_224
+    21300450: GLIDE_SIDEWAYS_225
+    21300452: GLIDE_SIDEWAYS_226
+    21300454: GLIDE_SIDEWAYS_227
+    21300456: GLIDE_SIDEWAYS_228
+    21300458: GLIDE_SIDEWAYS_229
+    21300460: GLIDE_SIDEWAYS_230
+    21300462: GLIDE_SIDEWAYS_231
+    21300464: GLIDE_SIDEWAYS_232
+    21300466: GLIDE_SIDEWAYS_233
+    21300468: GLIDE_SIDEWAYS_234
+    21300470: GLIDE_SIDEWAYS_235
+    21300472: GLIDE_SIDEWAYS_236
+    21300474: GLIDE_SIDEWAYS_237
+    21300476: GLIDE_SIDEWAYS_238
+    21300478: GLIDE_SIDEWAYS_239
+    21300480: GLIDE_SIDEWAYS_240
+    21300482: GLIDE_SIDEWAYS_241
+    21300484: GLIDE_SIDEWAYS_242
+    21300486: GLIDE_SIDEWAYS_243
+    21300488: GLIDE_SIDEWAYS_244
+    21300490: GLIDE_SIDEWAYS_245
+    21300492: GLIDE_SIDEWAYS_246
+    21300494: GLIDE_SIDEWAYS_247
+    21300496: GLIDE_SIDEWAYS_248
+    21300498: GLIDE_SIDEWAYS_249
+    21300500: GLIDE_SIDEWAYS_250
+    21300502: GLIDE_SIDEWAYS_251
+    21300504: GLIDE_SIDEWAYS_252
+    21300506: GLIDE_SIDEWAYS_253
+    21300508: GLIDE_SIDEWAYS_254
+    21300510: GLIDE_SIDEWAYS_255
+    21300512: GLIDE_SIDEWAYS_256
+    21300514: GLIDE_SIDEWAYS_257
+    21300516: GLIDE_SIDEWAYS_258
+    21300518: GLIDE_SIDEWAYS_259
+    21300520: GLIDE_SIDEWAYS_260
+    21300522: GLIDE_SIDEWAYS_261
+    21300524: GLIDE_SIDEWAYS_262
+    21300526: GLIDE_SIDEWAYS_263
+    21300528: GLIDE_SIDEWAYS_264
+    21300530: GLIDE_SIDEWAYS_265
+    21300532: GLIDE_SIDEWAYS_266
+    21300534: GLIDE_SIDEWAYS_267
+    21300536: GLIDE_SIDEWAYS_268
+    21300538: GLIDE_SIDEWAYS_269
+    21300540: GLIDE_SIDEWAYS_270
+    21300542: GLIDE_SIDEWAYS_271
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4515
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8ee93db69e84379adfe522f8aaaf38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_1
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 4515
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c268d62a9aa3450abfbed412ac02619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_2
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 4515
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd5929a8980347a7a771c1768b1ff81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_3
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 4515
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a676556e172944a05a0e3b14e430165b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_4
+      rect:
+        serializedVersion: 2
+        x: 3484
+        y: 4515
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd47ade1d672476d82449c006854531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_5
+      rect:
+        serializedVersion: 2
+        x: 4355
+        y: 4515
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c829eac67887f4899a2d8f57cfa5bbaa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_6
+      rect:
+        serializedVersion: 2
+        x: 5226
+        y: 4515
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed452b90f3a764bd8863133fd5a19d49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_7
+      rect:
+        serializedVersion: 2
+        x: 6097
+        y: 4515
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cf2258151ef4d66ae929c69b940122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_8
+      rect:
+        serializedVersion: 2
+        x: 6968
+        y: 4515
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd40ccdfb4a7e4b0d99149949dd34395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_9
+      rect:
+        serializedVersion: 2
+        x: 7839
+        y: 4515
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1589780c00e574ddd8fb3b0686b3f25b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_10
+      rect:
+        serializedVersion: 2
+        x: 8710
+        y: 4515
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57faf6dd0d7b34212867ddd34e4ed4b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_11
+      rect:
+        serializedVersion: 2
+        x: 9581
+        y: 4515
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b113db4c0f10c48d492b191d61b992a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_12
+      rect:
+        serializedVersion: 2
+        x: 10452
+        y: 4515
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635c1f6da7ba34e7c88e969e78cfdac5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_13
+      rect:
+        serializedVersion: 2
+        x: 11323
+        y: 4515
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c626b403c7cce4ce1a1ce3e70af60bf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_14
+      rect:
+        serializedVersion: 2
+        x: 12194
+        y: 4515
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ae24fe6a0164ed18f72ffb285e2dbb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_15
+      rect:
+        serializedVersion: 2
+        x: 13065
+        y: 4515
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13ae2406f7064283829d01cb5c8704e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_16
+      rect:
+        serializedVersion: 2
+        x: 13936
+        y: 4515
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f4cfac7fa74498a8a279002b73d032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4214
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856c8c4bafaee42d6affe3b5221720dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_18
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 4214
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e561dc8b3bf5b49b08e4d7f53aaef3c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_19
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 4214
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b21a3ffa7da94c7897cde018969c99b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_20
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 4214
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0765582ed534fb385be76574b21d46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_21
+      rect:
+        serializedVersion: 2
+        x: 3484
+        y: 4214
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380cd00bcac0d4b559f61b59f45ab3ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_22
+      rect:
+        serializedVersion: 2
+        x: 4355
+        y: 4214
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021070dfe789f437c8560d01b4fa66b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_23
+      rect:
+        serializedVersion: 2
+        x: 5226
+        y: 4214
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b77045b6781d4b7cbbf2886ca2577a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_24
+      rect:
+        serializedVersion: 2
+        x: 6097
+        y: 4214
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9a5a07e18804c21887edaf1b177c45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_25
+      rect:
+        serializedVersion: 2
+        x: 6968
+        y: 4214
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e82f3710cb7e4e3986e740077b23c15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_26
+      rect:
+        serializedVersion: 2
+        x: 7839
+        y: 4214
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3342436c495449e8b1b6a88d40345bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_27
+      rect:
+        serializedVersion: 2
+        x: 8710
+        y: 4214
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0fc66943aad4777a9e17ba64bd03e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_28
+      rect:
+        serializedVersion: 2
+        x: 9581
+        y: 4214
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c753d7a687a5a4ff4ae6491ae3c2ad58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_29
+      rect:
+        serializedVersion: 2
+        x: 10452
+        y: 4214
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2198b38a1717c494199d08883fe7ff7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_30
+      rect:
+        serializedVersion: 2
+        x: 11323
+        y: 4214
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d61454dca2474c0bac032f9cd2f71c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_31
+      rect:
+        serializedVersion: 2
+        x: 12194
+        y: 4214
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8df9346bd7814ef4b0cb635d5904c66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_32
+      rect:
+        serializedVersion: 2
+        x: 13065
+        y: 4214
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e493c6c28ee94cc0b561d12f6c167ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_33
+      rect:
+        serializedVersion: 2
+        x: 13936
+        y: 4214
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f9d4130d53b4b108b9b563f2b0d50b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3913
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db3f281f519f4ed4b149cb805c29a26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_35
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 3913
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e8cd5ca3c8f45998417e85e677c03e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_36
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 3913
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48ff780dd6674eee9926640bfa7f1da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_37
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 3913
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355db7196caec4ce9ad09d107006e501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_38
+      rect:
+        serializedVersion: 2
+        x: 3484
+        y: 3913
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b757754a75e29479193056ecfb6453e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_39
+      rect:
+        serializedVersion: 2
+        x: 4355
+        y: 3913
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5273911f7b0460582adb90ef0e77fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_40
+      rect:
+        serializedVersion: 2
+        x: 5226
+        y: 3913
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163e619ac16274a75b8c1834bae44118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_41
+      rect:
+        serializedVersion: 2
+        x: 6097
+        y: 3913
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e207a3810cb5a4e18986ff6d505fb53b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_42
+      rect:
+        serializedVersion: 2
+        x: 6968
+        y: 3913
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cf45aeb958c4a20ac5707058aa0420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_43
+      rect:
+        serializedVersion: 2
+        x: 7839
+        y: 3913
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3922b03ef5b446c816d316446a827d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_44
+      rect:
+        serializedVersion: 2
+        x: 8710
+        y: 3913
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb691c61842c041dc9d7ac08bcbc5e85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_45
+      rect:
+        serializedVersion: 2
+        x: 9581
+        y: 3913
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed252ec736d0e46cfaa50e9d0da8c354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_46
+      rect:
+        serializedVersion: 2
+        x: 10452
+        y: 3913
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438b6c13e68b4495fad6b13e4e1034a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_47
+      rect:
+        serializedVersion: 2
+        x: 11323
+        y: 3913
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7b1858ac35d45acba43b262bc4d2f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_48
+      rect:
+        serializedVersion: 2
+        x: 12194
+        y: 3913
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5292d5e6931bb4173b80e9d52385089e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_49
+      rect:
+        serializedVersion: 2
+        x: 13065
+        y: 3913
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24d1d02507cb4a09b8a52b9b150e469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_50
+      rect:
+        serializedVersion: 2
+        x: 13936
+        y: 3913
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f91cfa25ecd45ef901c20b8c57c738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3612
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3377bbb8eef64053a3746c6be81a526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_52
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 3612
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748228836b0854d4595d802f049d8d76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_53
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 3612
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0840fbe1a72d24b9bb03a5a0e4731793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_54
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 3612
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602a2d2f721b449a3948d9b1ab5e01b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_55
+      rect:
+        serializedVersion: 2
+        x: 3484
+        y: 3612
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfa29a42dcef4daa97067d46caaeb63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_56
+      rect:
+        serializedVersion: 2
+        x: 4355
+        y: 3612
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783bdc087257a4bf8860b3474e131193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_57
+      rect:
+        serializedVersion: 2
+        x: 5226
+        y: 3612
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0709c1fccea4214b9da733fd20e887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_58
+      rect:
+        serializedVersion: 2
+        x: 6097
+        y: 3612
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5f1341fb3c1401fbff725beed8cfe9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_59
+      rect:
+        serializedVersion: 2
+        x: 6968
+        y: 3612
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b781c3b8fd396437a899556dfb573401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_60
+      rect:
+        serializedVersion: 2
+        x: 7839
+        y: 3612
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5bf80fa990b4d129488ec76c0e5b9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_61
+      rect:
+        serializedVersion: 2
+        x: 8710
+        y: 3612
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a35659cf89734b19acf09b5f86a32e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_62
+      rect:
+        serializedVersion: 2
+        x: 9581
+        y: 3612
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ddf3cfa43aa42cbadd700814c2b14a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_63
+      rect:
+        serializedVersion: 2
+        x: 10452
+        y: 3612
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915b9dc5b40cb4b0395a8825cef70fc0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_64
+      rect:
+        serializedVersion: 2
+        x: 11323
+        y: 3612
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0d88b0d82b0487c9b9b1b61051f55d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_65
+      rect:
+        serializedVersion: 2
+        x: 12194
+        y: 3612
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ae5949f84ba4570a09a573a7b49e44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_66
+      rect:
+        serializedVersion: 2
+        x: 13065
+        y: 3612
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9841ea284dff343ecb714943b84c49ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_67
+      rect:
+        serializedVersion: 2
+        x: 13936
+        y: 3612
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9fa2319d4244462b226c357d25670c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3311
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4998cea3cf94745c5b6f98075641cc40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_69
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 3311
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf73ddee6cf34c318e92e8310f3c466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_70
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 3311
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b236852ed45e24dfcacbe927d72e5fc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_71
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 3311
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956559aceb24347b2983764a6c16ca33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_72
+      rect:
+        serializedVersion: 2
+        x: 3484
+        y: 3311
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94834239f4fc64fdb9bce87abc9dc92e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_73
+      rect:
+        serializedVersion: 2
+        x: 4355
+        y: 3311
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ec68b81854a4188b7ce81ff59ff001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_74
+      rect:
+        serializedVersion: 2
+        x: 5226
+        y: 3311
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4584bd774ff943429235fec21904f6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_75
+      rect:
+        serializedVersion: 2
+        x: 6097
+        y: 3311
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce4760fbc86f4faaa4d9dca74e32848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_76
+      rect:
+        serializedVersion: 2
+        x: 6968
+        y: 3311
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3206e5b26237547be881ab783f65f2f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_77
+      rect:
+        serializedVersion: 2
+        x: 7839
+        y: 3311
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d41e1eaa6e2480fb604e64fa06880c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_78
+      rect:
+        serializedVersion: 2
+        x: 8710
+        y: 3311
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f3f5eea79e642629a10a53d2bd35b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_79
+      rect:
+        serializedVersion: 2
+        x: 9581
+        y: 3311
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62eca0d170e7644beb306b93c0485fc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_80
+      rect:
+        serializedVersion: 2
+        x: 10452
+        y: 3311
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96677a2894fcb447a8ea979e39c920ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_81
+      rect:
+        serializedVersion: 2
+        x: 11323
+        y: 3311
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c548f13495846849ce98a66199865e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_82
+      rect:
+        serializedVersion: 2
+        x: 12194
+        y: 3311
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6630f6345d93b4bdfb67e1e2d0b58f0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_83
+      rect:
+        serializedVersion: 2
+        x: 13065
+        y: 3311
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84373204be4564a4781cdeda994e57f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_84
+      rect:
+        serializedVersion: 2
+        x: 13936
+        y: 3311
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8526ee4e87b134c41b7b3b06f64193fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3010
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710f831506e404aabadd994ea70c830f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_86
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 3010
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3189d0f23c64fbaba0d871121fcebb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_87
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 3010
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95800ba6b0b7493da98d2df03479b7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_88
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 3010
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc2f2e84b6574655b44f400e36577a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_89
+      rect:
+        serializedVersion: 2
+        x: 3484
+        y: 3010
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2d6b3e8efc94f8c94240bb41ad8c07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_90
+      rect:
+        serializedVersion: 2
+        x: 4355
+        y: 3010
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a1aa01b24b045d6afe1b827fee1053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_91
+      rect:
+        serializedVersion: 2
+        x: 5226
+        y: 3010
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d224650928ce24fe098b5df524778c86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_92
+      rect:
+        serializedVersion: 2
+        x: 6097
+        y: 3010
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd295c5af4b474ee292930f131ec0c1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_93
+      rect:
+        serializedVersion: 2
+        x: 6968
+        y: 3010
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220853fd2553f47acaa2fd96925d46f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_94
+      rect:
+        serializedVersion: 2
+        x: 7839
+        y: 3010
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8632b6a69d342e0b25511f0e0ea2cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_95
+      rect:
+        serializedVersion: 2
+        x: 8710
+        y: 3010
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e8d299a802b460b9f9c2b9ed64debf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_96
+      rect:
+        serializedVersion: 2
+        x: 9581
+        y: 3010
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968b5d30d187e45be9807feee52a5cfd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_97
+      rect:
+        serializedVersion: 2
+        x: 10452
+        y: 3010
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8975d738066452b86daa8bf58de54c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_98
+      rect:
+        serializedVersion: 2
+        x: 11323
+        y: 3010
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3dda9e16c064f2f8182ad45522e272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_99
+      rect:
+        serializedVersion: 2
+        x: 12194
+        y: 3010
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7d0aa788a2d423aa4291b6619b6cc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_100
+      rect:
+        serializedVersion: 2
+        x: 13065
+        y: 3010
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3634e811723b4a02a3a06670c38da06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_101
+      rect:
+        serializedVersion: 2
+        x: 13936
+        y: 3010
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff56e14cb4804b44a1bc9c5069bfa01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2709
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49363125dc3864aca8e2c9dd74dd63c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_103
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 2709
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5eb4c4dfe164c5d9c0e9536e976fa0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_104
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 2709
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc46841563e284ecc9e5bc3bc73a3a57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_105
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 2709
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801586ce88c114212b485e8c4b4f1489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_106
+      rect:
+        serializedVersion: 2
+        x: 3484
+        y: 2709
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8f7b4221c1945b4a6c9a9adade7873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_107
+      rect:
+        serializedVersion: 2
+        x: 4355
+        y: 2709
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214e50172b6ee4f89ba518add01936bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_108
+      rect:
+        serializedVersion: 2
+        x: 5226
+        y: 2709
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b3582d521cd4c059de4eeb8a76ea2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_109
+      rect:
+        serializedVersion: 2
+        x: 6097
+        y: 2709
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa521434e9a04d08ab433fdb2a1f76a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_110
+      rect:
+        serializedVersion: 2
+        x: 6968
+        y: 2709
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed26697f71b50466d97c3a3300d0bce7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_111
+      rect:
+        serializedVersion: 2
+        x: 7839
+        y: 2709
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b072e841ffe4341847999dea2581a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_112
+      rect:
+        serializedVersion: 2
+        x: 8710
+        y: 2709
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01ef7ba3763f451ebda213569102ac5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_113
+      rect:
+        serializedVersion: 2
+        x: 9581
+        y: 2709
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733d0033adbbd409484bf813cd72c4ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_114
+      rect:
+        serializedVersion: 2
+        x: 10452
+        y: 2709
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea28a874e62c406091d7c61e7b97e13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_115
+      rect:
+        serializedVersion: 2
+        x: 11323
+        y: 2709
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4631c7e9414c84f87b629b6033ca1066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_116
+      rect:
+        serializedVersion: 2
+        x: 12194
+        y: 2709
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ccf8f654628474a8d1fcc76e8ea592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_117
+      rect:
+        serializedVersion: 2
+        x: 13065
+        y: 2709
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5292e5f9f861744cbad9c2f0ad98c7ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_118
+      rect:
+        serializedVersion: 2
+        x: 13936
+        y: 2709
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f721f9d1f6394a88b44e0390afb26ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2408
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680e0914b8c5e417d98198d506d478af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_120
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 2408
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea7ac0819af74cecb0bed8bb0c67280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_121
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 2408
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4572cbce73329453ab9c918a3a38ac04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_122
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 2408
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9229b951a4844eb9e76bfad9847956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_123
+      rect:
+        serializedVersion: 2
+        x: 3484
+        y: 2408
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be265ab7650f94b2d97c1cd79aefe296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_124
+      rect:
+        serializedVersion: 2
+        x: 4355
+        y: 2408
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324297c0b70134dc9929b7984777601f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_125
+      rect:
+        serializedVersion: 2
+        x: 5226
+        y: 2408
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0470ff7cfaabd467b9fc590598001609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_126
+      rect:
+        serializedVersion: 2
+        x: 6097
+        y: 2408
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9223df47b19de4e109c47ea8eb325ca7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_127
+      rect:
+        serializedVersion: 2
+        x: 6968
+        y: 2408
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06468fd9ec50c4875aab36b9b6238acd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_128
+      rect:
+        serializedVersion: 2
+        x: 7839
+        y: 2408
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117cf96bcf85f4141bf9c15ddd5bcea4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_129
+      rect:
+        serializedVersion: 2
+        x: 8710
+        y: 2408
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0c05a644e174acd8ca1212d7cb312a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_130
+      rect:
+        serializedVersion: 2
+        x: 9581
+        y: 2408
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72428a8b49a94897bef482ef1712714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_131
+      rect:
+        serializedVersion: 2
+        x: 10452
+        y: 2408
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496837e219e5842c0a79d6c803e62395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_132
+      rect:
+        serializedVersion: 2
+        x: 11323
+        y: 2408
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ced9345de0945d5a2fdead57f5384e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_133
+      rect:
+        serializedVersion: 2
+        x: 12194
+        y: 2408
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bee57fd640e54a68ad90c09c69ba2ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_134
+      rect:
+        serializedVersion: 2
+        x: 13065
+        y: 2408
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9a598e3d9c74902aeb2bd59de5b91f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_135
+      rect:
+        serializedVersion: 2
+        x: 13936
+        y: 2408
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8f2f582ba824d5e87686add3f99e07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2107
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cd2010807654a4d9b977a740f0f9dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_137
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 2107
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f5c20db119547d4bc584b8fb16999d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_138
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 2107
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b10bb52dc564ac3b15006241cc19f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_139
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 2107
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d62d1de166243d8950289114bf2c84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_140
+      rect:
+        serializedVersion: 2
+        x: 3484
+        y: 2107
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942041c86f44e4ec38a18ee7db4d4731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_141
+      rect:
+        serializedVersion: 2
+        x: 4355
+        y: 2107
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1097fa337ebed466a9d3efd30087e187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_142
+      rect:
+        serializedVersion: 2
+        x: 5226
+        y: 2107
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788c82255c1794c489ce87c5c70754ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_143
+      rect:
+        serializedVersion: 2
+        x: 6097
+        y: 2107
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2b4e25464ba42f5820ce131b02c43a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_144
+      rect:
+        serializedVersion: 2
+        x: 6968
+        y: 2107
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d30a21800c4b4b8b810b522c2d0e859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_145
+      rect:
+        serializedVersion: 2
+        x: 7839
+        y: 2107
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082772349978d49c891299d082228a6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_146
+      rect:
+        serializedVersion: 2
+        x: 8710
+        y: 2107
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e19129c5d9d4a9e8284e281c6ba2fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_147
+      rect:
+        serializedVersion: 2
+        x: 9581
+        y: 2107
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66364016ce6d4504b904027522b0fd7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_148
+      rect:
+        serializedVersion: 2
+        x: 10452
+        y: 2107
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7855b1c321e0540b5ad6db7c7facda5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_149
+      rect:
+        serializedVersion: 2
+        x: 11323
+        y: 2107
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8cd246acb4141ed89a4ea47a716a1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_150
+      rect:
+        serializedVersion: 2
+        x: 12194
+        y: 2107
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6fa0a3ae99046f482690cedeb406b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_151
+      rect:
+        serializedVersion: 2
+        x: 13065
+        y: 2107
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d31ef9c8d0a94feb8d427abad1e10db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_152
+      rect:
+        serializedVersion: 2
+        x: 13936
+        y: 2107
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2996a2874da6641cc9703ac007336981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_153
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1806
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1f2306b4ff84b2da836afdf43103bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_154
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1806
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3854fa4ebff954eafbdfff26bd8e3836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_155
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 1806
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17fce7b5a4f547bb940b43f8d06e530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_156
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 1806
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44905e8e16224b7cbd2de7007d2232f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_157
+      rect:
+        serializedVersion: 2
+        x: 3484
+        y: 1806
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2e3c9e0c9c64f5ca0c6e0d20fe7cf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_158
+      rect:
+        serializedVersion: 2
+        x: 4355
+        y: 1806
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df87014b9d2646a98ee1cfd390d957f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_159
+      rect:
+        serializedVersion: 2
+        x: 5226
+        y: 1806
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09796ff0c57e44b50b8b4ae2ceeb737d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_160
+      rect:
+        serializedVersion: 2
+        x: 6097
+        y: 1806
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a03a98359e6b47eca5cef4a378cc5d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_161
+      rect:
+        serializedVersion: 2
+        x: 6968
+        y: 1806
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f05f46c6264948ffa5c7c68ef60c30a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_162
+      rect:
+        serializedVersion: 2
+        x: 7839
+        y: 1806
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4bc902e789af4653b810f0bc788b592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_163
+      rect:
+        serializedVersion: 2
+        x: 8710
+        y: 1806
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c3fc0131d1141459a5598a8c803a46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_164
+      rect:
+        serializedVersion: 2
+        x: 9581
+        y: 1806
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82376bc06d6f4fbe97fa25af5ba5884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_165
+      rect:
+        serializedVersion: 2
+        x: 10452
+        y: 1806
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4904c1ca84d14085a1d6105d98ddb70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_166
+      rect:
+        serializedVersion: 2
+        x: 11323
+        y: 1806
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28df1f9e63b3d49a7881a0896b87c723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_167
+      rect:
+        serializedVersion: 2
+        x: 12194
+        y: 1806
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54b9c47bbdaa42fdbb20fa77bb1bac5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_168
+      rect:
+        serializedVersion: 2
+        x: 13065
+        y: 1806
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96bc009a133e44e2288bd9caaca68245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_169
+      rect:
+        serializedVersion: 2
+        x: 13936
+        y: 1806
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5dfc16307c44d06a24c75716b7f3f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1505
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c63e50a58d924481b49002f06a8edde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_171
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1505
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d35ccde8a904c32927e44b80bc1579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_172
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 1505
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faaa2a09f72194077b5b3d3aa2f6677f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_173
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 1505
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf7c0bf6a72b49c483e55107c296895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_174
+      rect:
+        serializedVersion: 2
+        x: 3484
+        y: 1505
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a371446bf9aaf4842bfb49647c4f4919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_175
+      rect:
+        serializedVersion: 2
+        x: 4355
+        y: 1505
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d95a064e9b84f06b92cac56452ef08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_176
+      rect:
+        serializedVersion: 2
+        x: 5226
+        y: 1505
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa3c967ee173476cac7e9dced2c8c02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_177
+      rect:
+        serializedVersion: 2
+        x: 6097
+        y: 1505
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf3e042d6b4846da9777c27221d517a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_178
+      rect:
+        serializedVersion: 2
+        x: 6968
+        y: 1505
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301b3b7df989d4160845cbd672846100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_179
+      rect:
+        serializedVersion: 2
+        x: 7839
+        y: 1505
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e99757d75bf345c68d710f380964379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_180
+      rect:
+        serializedVersion: 2
+        x: 8710
+        y: 1505
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54132c0a228c4e2d8a4a7640608843d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_181
+      rect:
+        serializedVersion: 2
+        x: 9581
+        y: 1505
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5e76ade1d614aaf915c841893367e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_182
+      rect:
+        serializedVersion: 2
+        x: 10452
+        y: 1505
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4012ce3535ba840cf9bd59b9a16b1a38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_183
+      rect:
+        serializedVersion: 2
+        x: 11323
+        y: 1505
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5d76baac4aa44e79c992dd9e154eee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_184
+      rect:
+        serializedVersion: 2
+        x: 12194
+        y: 1505
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81975489ff242407d949708472d881f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_185
+      rect:
+        serializedVersion: 2
+        x: 13065
+        y: 1505
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51166cf75cc74d6aabd619ce4d9ae3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_186
+      rect:
+        serializedVersion: 2
+        x: 13936
+        y: 1505
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336e93736945249b19b7dfa496de956e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_187
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1204
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe902899ea2f14e6d83c66ce02b772b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_188
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1204
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb35bfa747d9e42759fa3abee588f95e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_189
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 1204
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df462ddb7e6e45229e591fa4a14624f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_190
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 1204
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9606ae7c0267c421cbb59510c3d539bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_191
+      rect:
+        serializedVersion: 2
+        x: 3484
+        y: 1204
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a141dfc6d96d648cf8324516b9a55529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_192
+      rect:
+        serializedVersion: 2
+        x: 4355
+        y: 1204
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4377efe6bb5a42b286e5a40fe8aee92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_193
+      rect:
+        serializedVersion: 2
+        x: 5226
+        y: 1204
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d3d23d4d87a4d76aedd39af627ab88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_194
+      rect:
+        serializedVersion: 2
+        x: 6097
+        y: 1204
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed9f526205c54fa0a10df808b9b7b14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_195
+      rect:
+        serializedVersion: 2
+        x: 6968
+        y: 1204
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bf4e54e2c6a4f3ebe3e9bd5e246ccf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_196
+      rect:
+        serializedVersion: 2
+        x: 7839
+        y: 1204
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d915c181ad104bfa8190b170d387796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_197
+      rect:
+        serializedVersion: 2
+        x: 8710
+        y: 1204
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc443fb5ed494936a1686a89d39550d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_198
+      rect:
+        serializedVersion: 2
+        x: 9581
+        y: 1204
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45dcc65f9df0465f8403e6748ac0fd7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_199
+      rect:
+        serializedVersion: 2
+        x: 10452
+        y: 1204
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516d2dc4e546d4196b226593229162ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_200
+      rect:
+        serializedVersion: 2
+        x: 11323
+        y: 1204
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ecc49ddad954b97a01e2e0bb6e432a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_201
+      rect:
+        serializedVersion: 2
+        x: 12194
+        y: 1204
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc34f423a35b4f52b0f4841be6941bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_202
+      rect:
+        serializedVersion: 2
+        x: 13065
+        y: 1204
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cba5944750b4035afc978e5391ff99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_203
+      rect:
+        serializedVersion: 2
+        x: 13936
+        y: 1204
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251c61cea2ba6491f8b6c6952008b4a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_204
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 903
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20eb75dcd30be42d1aa54e57f56a7e60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_205
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 903
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644e67c370677497bbe75eeba2805dda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_206
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 903
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057c386119f7047708340f39a536a5f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_207
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 903
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa25c0cffe3da4134a36f88592f4134a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_208
+      rect:
+        serializedVersion: 2
+        x: 3484
+        y: 903
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51f621b0dc404341834318a94982fa4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_209
+      rect:
+        serializedVersion: 2
+        x: 4355
+        y: 903
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d48e7fb38f349c085b65c2c7e36816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_210
+      rect:
+        serializedVersion: 2
+        x: 5226
+        y: 903
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b887e4138864f7a981a53c3b15eba6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_211
+      rect:
+        serializedVersion: 2
+        x: 6097
+        y: 903
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4a95c77d63d4e4aaf80a02edf9b465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_212
+      rect:
+        serializedVersion: 2
+        x: 6968
+        y: 903
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ceb5777c21742fe94355280ac3f171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_213
+      rect:
+        serializedVersion: 2
+        x: 7839
+        y: 903
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33b0018a5a2342f687471730e30c67e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_214
+      rect:
+        serializedVersion: 2
+        x: 8710
+        y: 903
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2204aa707dc6147349c828a82eff342b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_215
+      rect:
+        serializedVersion: 2
+        x: 9581
+        y: 903
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6741c663be3a04551a09aa830f560c13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_216
+      rect:
+        serializedVersion: 2
+        x: 10452
+        y: 903
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb18f3c4d0012469c91a1d29a002b34e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_217
+      rect:
+        serializedVersion: 2
+        x: 11323
+        y: 903
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f2800336b884c989adf3abcdae31a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_218
+      rect:
+        serializedVersion: 2
+        x: 12194
+        y: 903
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db70c8b295cd24cd2a9df8420e9b942d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_219
+      rect:
+        serializedVersion: 2
+        x: 13065
+        y: 903
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b32edcf3b7e240ed91e3355341709e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_220
+      rect:
+        serializedVersion: 2
+        x: 13936
+        y: 903
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e5f39e06a00486593afb373b63a8d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_221
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 602
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e781f3d36101f480a9ffc6965935261f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_222
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 602
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d53aa162b104f9ca6c07d7491e0b2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_223
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 602
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d55eeca673147a2968f2ae43cf167e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_224
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 602
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b427239d91d4ded884bbea12e7121f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_225
+      rect:
+        serializedVersion: 2
+        x: 3484
+        y: 602
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecea3e306bd746f1adc077feb6c2cb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_226
+      rect:
+        serializedVersion: 2
+        x: 4355
+        y: 602
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fae886523314e86978b29079258afb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_227
+      rect:
+        serializedVersion: 2
+        x: 5226
+        y: 602
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd47a197fdf984fe1af576ac0a6df90e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_228
+      rect:
+        serializedVersion: 2
+        x: 6097
+        y: 602
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98af5ca08a8a4793b3376d1e64113bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_229
+      rect:
+        serializedVersion: 2
+        x: 6968
+        y: 602
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d4b78447f294f0f8631380c1c64eb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_230
+      rect:
+        serializedVersion: 2
+        x: 7839
+        y: 602
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e58b19fc6b9460dba728c63434be1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_231
+      rect:
+        serializedVersion: 2
+        x: 8710
+        y: 602
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807ab89ced617440984a689972678f62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_232
+      rect:
+        serializedVersion: 2
+        x: 9581
+        y: 602
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ea4761026244141b87b42fe961c764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_233
+      rect:
+        serializedVersion: 2
+        x: 10452
+        y: 602
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc659097c1b014219b8e246c753a63e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_234
+      rect:
+        serializedVersion: 2
+        x: 11323
+        y: 602
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18937f890449b44ecb98e808e40745ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_235
+      rect:
+        serializedVersion: 2
+        x: 12194
+        y: 602
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadc8bf3879074c548f11127d1835a73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_236
+      rect:
+        serializedVersion: 2
+        x: 13065
+        y: 602
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd0ccebd96774dc2a328c4eb54d9124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_237
+      rect:
+        serializedVersion: 2
+        x: 13936
+        y: 602
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4e14372375645f1bd40a5c5bd30901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_238
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 301
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e029266fc95407980ced41e8111e8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_239
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 301
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbb0885f9ac349a78008742825ef63f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_240
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 301
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2419af960f94c3aac39b007d111cd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_241
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 301
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d075e633efd4b85979e9df1021faf3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_242
+      rect:
+        serializedVersion: 2
+        x: 3484
+        y: 301
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee745e1ccb7874f339be3622d21007f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_243
+      rect:
+        serializedVersion: 2
+        x: 4355
+        y: 301
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989157f4394b14a8a812bb239ba76451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_244
+      rect:
+        serializedVersion: 2
+        x: 5226
+        y: 301
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc373680d7e3b482c84c65bffc025dca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_245
+      rect:
+        serializedVersion: 2
+        x: 6097
+        y: 301
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48cca54a686c437791eb8b4d320c640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_246
+      rect:
+        serializedVersion: 2
+        x: 6968
+        y: 301
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df14b5e51bacc4b9181f25b4ca67b416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_247
+      rect:
+        serializedVersion: 2
+        x: 7839
+        y: 301
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c767ed5183445648605e260254e6c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_248
+      rect:
+        serializedVersion: 2
+        x: 8710
+        y: 301
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f450f35004db34416aabb3662a4eb3fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_249
+      rect:
+        serializedVersion: 2
+        x: 9581
+        y: 301
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5a7ebae7055432789703e353afab30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_250
+      rect:
+        serializedVersion: 2
+        x: 10452
+        y: 301
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e72ab2d6c734c7e9dec97416181620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_251
+      rect:
+        serializedVersion: 2
+        x: 11323
+        y: 301
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2b373c2b6db4dd0aa85282236b5cef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_252
+      rect:
+        serializedVersion: 2
+        x: 12194
+        y: 301
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efea62063a264db6ad7a410a9196e4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_253
+      rect:
+        serializedVersion: 2
+        x: 13065
+        y: 301
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d442885caaed147f59e016268481bf90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_254
+      rect:
+        serializedVersion: 2
+        x: 13936
+        y: 301
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebdac89c8ce94a45a951199593271b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_255
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377bb7e056e374e1fa923fd11a83de3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_256
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 0
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb1b954cf2df445f84800bf37295c95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_257
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 0
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040b112bb578a445399dac9e37ead0f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_258
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 0
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cf2b1ef73ef42ea87338344aebac16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_259
+      rect:
+        serializedVersion: 2
+        x: 3484
+        y: 0
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e210dd5fd5a4613bba129485365e70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_260
+      rect:
+        serializedVersion: 2
+        x: 4355
+        y: 0
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3d16a52b12a4731bfbb3d57739b198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_261
+      rect:
+        serializedVersion: 2
+        x: 5226
+        y: 0
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12effcdec07ce407d9490e828b283562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_262
+      rect:
+        serializedVersion: 2
+        x: 6097
+        y: 0
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1bd66ef0f6746c3b69163724edf110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_263
+      rect:
+        serializedVersion: 2
+        x: 6968
+        y: 0
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc51afa4a67fa4e338b07ec79e61d2fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_264
+      rect:
+        serializedVersion: 2
+        x: 7839
+        y: 0
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab83c0265dcd440faec54f35c3bfdd2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_265
+      rect:
+        serializedVersion: 2
+        x: 8710
+        y: 0
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da88dfc88ee3143fa82d7e536269bbbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_266
+      rect:
+        serializedVersion: 2
+        x: 9581
+        y: 0
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b887302d8ec5542beac3fca807844a31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_267
+      rect:
+        serializedVersion: 2
+        x: 10452
+        y: 0
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b590a0aac196c4178b7a711fcb37af40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_268
+      rect:
+        serializedVersion: 2
+        x: 11323
+        y: 0
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1de5c89267f94f2eb30a6789a8178cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_269
+      rect:
+        serializedVersion: 2
+        x: 12194
+        y: 0
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321f6357b5b29486da1127ad52e30352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_270
+      rect:
+        serializedVersion: 2
+        x: 13065
+        y: 0
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6915c40d2af6a445ab748e7901a4ddd6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_SIDEWAYS_271
+      rect:
+        serializedVersion: 2
+        x: 13936
+        y: 0
+        width: 871
+        height: 301
+      alignment: 9
+      pivot: {x: 0.62, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0fbd292984c4528b90b6f5e5ec52c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 718c2cb960430446db1f4f06ed0d80f6
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

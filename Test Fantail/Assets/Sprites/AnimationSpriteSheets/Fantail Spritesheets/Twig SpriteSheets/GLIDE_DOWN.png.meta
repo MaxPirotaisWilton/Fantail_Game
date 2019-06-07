@@ -1,0 +1,1044 @@
+fileFormatVersion: 2
+guid: 8d122a336753d44ab98e5cf5423765bf
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GLIDE_DOWN_0
+    21300002: GLIDE_DOWN_1
+    21300004: GLIDE_DOWN_2
+    21300006: GLIDE_DOWN_3
+    21300008: GLIDE_DOWN_4
+    21300010: GLIDE_DOWN_5
+    21300012: GLIDE_DOWN_6
+    21300014: GLIDE_DOWN_7
+    21300016: GLIDE_DOWN_8
+    21300018: GLIDE_DOWN_9
+    21300020: GLIDE_DOWN_10
+    21300022: GLIDE_DOWN_11
+    21300024: GLIDE_DOWN_12
+    21300026: GLIDE_DOWN_13
+    21300028: GLIDE_DOWN_14
+    21300030: GLIDE_DOWN_15
+    21300032: GLIDE_DOWN_16
+    21300034: GLIDE_DOWN_17
+    21300036: GLIDE_DOWN_18
+    21300038: GLIDE_DOWN_19
+    21300040: GLIDE_DOWN_20
+    21300042: GLIDE_DOWN_21
+    21300044: GLIDE_DOWN_22
+    21300046: GLIDE_DOWN_23
+    21300048: GLIDE_DOWN_24
+    21300050: GLIDE_DOWN_25
+    21300052: GLIDE_DOWN_26
+    21300054: GLIDE_DOWN_27
+    21300056: GLIDE_DOWN_28
+    21300058: GLIDE_DOWN_29
+    21300060: GLIDE_DOWN_30
+    21300062: GLIDE_DOWN_31
+    21300064: GLIDE_DOWN_32
+    21300066: GLIDE_DOWN_33
+    21300068: GLIDE_DOWN_34
+    21300070: GLIDE_DOWN_35
+    21300072: GLIDE_DOWN_36
+    21300074: GLIDE_DOWN_37
+    21300076: GLIDE_DOWN_38
+    21300078: GLIDE_DOWN_39
+    21300080: GLIDE_DOWN_40
+    21300082: GLIDE_DOWN_41
+    21300084: GLIDE_DOWN_42
+    21300086: GLIDE_DOWN_43
+    21300088: GLIDE_DOWN_44
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GLIDE_DOWN_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2076
+        width: 832
+        height: 519
+      alignment: 9
+      pivot: {x: 0.71, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d630a02de17da4bc2b00fa687b3c8e11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_DOWN_1
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 2076
+        width: 832
+        height: 519
+      alignment: 9
+      pivot: {x: 0.71, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e940b21a506466ca7b35009b9feba6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_DOWN_2
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 2076
+        width: 832
+        height: 519
+      alignment: 9
+      pivot: {x: 0.71, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06c7eb2e2a7b4ec997d8c0ef6631577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_DOWN_3
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 2076
+        width: 832
+        height: 519
+      alignment: 9
+      pivot: {x: 0.71, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e212279d69dc420ab35621cc8e6ff19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_DOWN_4
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 2076
+        width: 832
+        height: 519
+      alignment: 9
+      pivot: {x: 0.71, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1f97a66f2a7411286fd2815b897665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_DOWN_5
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 2076
+        width: 832
+        height: 519
+      alignment: 9
+      pivot: {x: 0.71, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9affdece9cfa456d93818ee776fb401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_DOWN_6
+      rect:
+        serializedVersion: 2
+        x: 4992
+        y: 2076
+        width: 832
+        height: 519
+      alignment: 9
+      pivot: {x: 0.71, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416a842c4a66d4a8296078a8df70bde5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_DOWN_7
+      rect:
+        serializedVersion: 2
+        x: 5824
+        y: 2076
+        width: 832
+        height: 519
+      alignment: 9
+      pivot: {x: 0.71, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598fb21531d8245db8591594bf4ab522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_DOWN_8
+      rect:
+        serializedVersion: 2
+        x: 6656
+        y: 2076
+        width: 832
+        height: 519
+      alignment: 9
+      pivot: {x: 0.71, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9564cd35dd34e6f97feacd677a596b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_DOWN_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1557
+        width: 832
+        height: 519
+      alignment: 9
+      pivot: {x: 0.71, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3064cc662b9944449c4a6d1c6e4abad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_DOWN_10
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1557
+        width: 832
+        height: 519
+      alignment: 9
+      pivot: {x: 0.71, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61144b59da78346fdbf678d61b17a0c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_DOWN_11
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1557
+        width: 832
+        height: 519
+      alignment: 9
+      pivot: {x: 0.71, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb09c010b20f4639ab4ea46cc19e2db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_DOWN_12
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 1557
+        width: 832
+        height: 519
+      alignment: 9
+      pivot: {x: 0.71, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71325e27c717041af94d919743700a0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_DOWN_13
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1557
+        width: 832
+        height: 519
+      alignment: 9
+      pivot: {x: 0.71, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09309cbd6469c4080a3cc13cc0f38a24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_DOWN_14
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 1557
+        width: 832
+        height: 519
+      alignment: 9
+      pivot: {x: 0.71, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0d4a856827d48ca8e0f05e088c0c35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_DOWN_15
+      rect:
+        serializedVersion: 2
+        x: 4992
+        y: 1557
+        width: 832
+        height: 519
+      alignment: 9
+      pivot: {x: 0.71, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0432e837c887440b4b268f822ee52d10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_DOWN_16
+      rect:
+        serializedVersion: 2
+        x: 5824
+        y: 1557
+        width: 832
+        height: 519
+      alignment: 9
+      pivot: {x: 0.71, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982876ef97e03442da6f59414b998796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_DOWN_17
+      rect:
+        serializedVersion: 2
+        x: 6656
+        y: 1557
+        width: 832
+        height: 519
+      alignment: 9
+      pivot: {x: 0.71, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a99fdf1a20e474e8614dddc29acf5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_DOWN_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1038
+        width: 832
+        height: 519
+      alignment: 9
+      pivot: {x: 0.71, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b56d0da76c64408d94b32b80c47dc21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_DOWN_19
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1038
+        width: 832
+        height: 519
+      alignment: 9
+      pivot: {x: 0.71, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c77d618a2964897bc4fb2af7d27907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_DOWN_20
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1038
+        width: 832
+        height: 519
+      alignment: 9
+      pivot: {x: 0.71, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2608a7082a3043ac80d457bf0226d51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_DOWN_21
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 1038
+        width: 832
+        height: 519
+      alignment: 9
+      pivot: {x: 0.71, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d8591a27ef3464fa9f53666d47fd3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_DOWN_22
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1038
+        width: 832
+        height: 519
+      alignment: 9
+      pivot: {x: 0.71, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceec6b7b0096643c59823e7dbd7e7b41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_DOWN_23
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 1038
+        width: 832
+        height: 519
+      alignment: 9
+      pivot: {x: 0.71, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2145c5bcb5324222a9c4c448ddcd984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_DOWN_24
+      rect:
+        serializedVersion: 2
+        x: 4992
+        y: 1038
+        width: 832
+        height: 519
+      alignment: 9
+      pivot: {x: 0.71, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bd574afa04948d4a73a35255b222f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_DOWN_25
+      rect:
+        serializedVersion: 2
+        x: 5824
+        y: 1038
+        width: 832
+        height: 519
+      alignment: 9
+      pivot: {x: 0.71, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c748d1667e7d149a5a030c15fd5859f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_DOWN_26
+      rect:
+        serializedVersion: 2
+        x: 6656
+        y: 1038
+        width: 832
+        height: 519
+      alignment: 9
+      pivot: {x: 0.71, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef3eb3b3529840759d5f1fb5943736f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_DOWN_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 519
+        width: 832
+        height: 519
+      alignment: 9
+      pivot: {x: 0.71, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829e8e6fffefc4c88b9c27cbf25776ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_DOWN_28
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 519
+        width: 832
+        height: 519
+      alignment: 9
+      pivot: {x: 0.71, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537cf93accd754fe5a4f81fabf17175b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_DOWN_29
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 519
+        width: 832
+        height: 519
+      alignment: 9
+      pivot: {x: 0.71, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe61ebc31c984903adc9ffb03126c3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_DOWN_30
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 519
+        width: 832
+        height: 519
+      alignment: 9
+      pivot: {x: 0.71, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbba979f719074b7dbb95b01ecd9899e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_DOWN_31
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 519
+        width: 832
+        height: 519
+      alignment: 9
+      pivot: {x: 0.71, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55aca454dee484abe8535824dec2f9fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_DOWN_32
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 519
+        width: 832
+        height: 519
+      alignment: 9
+      pivot: {x: 0.71, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330dbcffa9176448bbb9553728e57c75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_DOWN_33
+      rect:
+        serializedVersion: 2
+        x: 4992
+        y: 519
+        width: 832
+        height: 519
+      alignment: 9
+      pivot: {x: 0.71, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f62ecd6444ea444c8007dd29667f79b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_DOWN_34
+      rect:
+        serializedVersion: 2
+        x: 5824
+        y: 519
+        width: 832
+        height: 519
+      alignment: 9
+      pivot: {x: 0.71, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad7c80bd43f84e85b3cd069ce6e83cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_DOWN_35
+      rect:
+        serializedVersion: 2
+        x: 6656
+        y: 519
+        width: 832
+        height: 519
+      alignment: 9
+      pivot: {x: 0.71, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372aab393de2c4004a35bbe7b4f6d502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_DOWN_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 832
+        height: 519
+      alignment: 9
+      pivot: {x: 0.71, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3f84117242940e69239367892b1843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_DOWN_37
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 0
+        width: 832
+        height: 519
+      alignment: 9
+      pivot: {x: 0.71, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa7686a261dd4879a31db31c354e543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_DOWN_38
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 832
+        height: 519
+      alignment: 9
+      pivot: {x: 0.71, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612782b3a7b3247918b5cdea8fd441b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_DOWN_39
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 0
+        width: 832
+        height: 519
+      alignment: 9
+      pivot: {x: 0.71, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953c539150dbf4f4682313006830f37e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_DOWN_40
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 0
+        width: 832
+        height: 519
+      alignment: 9
+      pivot: {x: 0.71, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5145f621c5e4548b1a9f12b905669b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_DOWN_41
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 0
+        width: 832
+        height: 519
+      alignment: 9
+      pivot: {x: 0.71, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d38c4bb968734e01bf7ac6329da26b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_DOWN_42
+      rect:
+        serializedVersion: 2
+        x: 4992
+        y: 0
+        width: 832
+        height: 519
+      alignment: 9
+      pivot: {x: 0.71, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd69c042dc80e40ff97a7d4891ff6bb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_DOWN_43
+      rect:
+        serializedVersion: 2
+        x: 5824
+        y: 0
+        width: 832
+        height: 519
+      alignment: 9
+      pivot: {x: 0.71, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739fde60681a341978ca4e0ada8a6133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GLIDE_DOWN_44
+      rect:
+        serializedVersion: 2
+        x: 6656
+        y: 0
+        width: 832
+        height: 519
+      alignment: 9
+      pivot: {x: 0.71, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f573d280f675d41ccbb7c27c4d8fb876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ca5ee7637158f42158273282a1f665a0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

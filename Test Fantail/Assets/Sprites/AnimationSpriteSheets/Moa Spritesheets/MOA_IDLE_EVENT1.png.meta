@@ -1,0 +1,3299 @@
+fileFormatVersion: 2
+guid: 45fda89536f97426b81e3a0a15b45e7c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MOA_IDLE_EVENT1_0
+    21300002: MOA_IDLE_EVENT1_1
+    21300004: MOA_IDLE_EVENT1_2
+    21300006: MOA_IDLE_EVENT1_3
+    21300008: MOA_IDLE_EVENT1_4
+    21300010: MOA_IDLE_EVENT1_5
+    21300012: MOA_IDLE_EVENT1_6
+    21300014: MOA_IDLE_EVENT1_7
+    21300016: MOA_IDLE_EVENT1_8
+    21300018: MOA_IDLE_EVENT1_9
+    21300020: MOA_IDLE_EVENT1_10
+    21300022: MOA_IDLE_EVENT1_11
+    21300024: MOA_IDLE_EVENT1_12
+    21300026: MOA_IDLE_EVENT1_13
+    21300028: MOA_IDLE_EVENT1_14
+    21300030: MOA_IDLE_EVENT1_15
+    21300032: MOA_IDLE_EVENT1_16
+    21300034: MOA_IDLE_EVENT1_17
+    21300036: MOA_IDLE_EVENT1_18
+    21300038: MOA_IDLE_EVENT1_19
+    21300040: MOA_IDLE_EVENT1_20
+    21300042: MOA_IDLE_EVENT1_21
+    21300044: MOA_IDLE_EVENT1_22
+    21300046: MOA_IDLE_EVENT1_23
+    21300048: MOA_IDLE_EVENT1_24
+    21300050: MOA_IDLE_EVENT1_25
+    21300052: MOA_IDLE_EVENT1_26
+    21300054: MOA_IDLE_EVENT1_27
+    21300056: MOA_IDLE_EVENT1_28
+    21300058: MOA_IDLE_EVENT1_29
+    21300060: MOA_IDLE_EVENT1_30
+    21300062: MOA_IDLE_EVENT1_31
+    21300064: MOA_IDLE_EVENT1_32
+    21300066: MOA_IDLE_EVENT1_33
+    21300068: MOA_IDLE_EVENT1_34
+    21300070: MOA_IDLE_EVENT1_35
+    21300072: MOA_IDLE_EVENT1_36
+    21300074: MOA_IDLE_EVENT1_37
+    21300076: MOA_IDLE_EVENT1_38
+    21300078: MOA_IDLE_EVENT1_39
+    21300080: MOA_IDLE_EVENT1_40
+    21300082: MOA_IDLE_EVENT1_41
+    21300084: MOA_IDLE_EVENT1_42
+    21300086: MOA_IDLE_EVENT1_43
+    21300088: MOA_IDLE_EVENT1_44
+    21300090: MOA_IDLE_EVENT1_45
+    21300092: MOA_IDLE_EVENT1_46
+    21300094: MOA_IDLE_EVENT1_47
+    21300096: MOA_IDLE_EVENT1_48
+    21300098: MOA_IDLE_EVENT1_49
+    21300100: MOA_IDLE_EVENT1_50
+    21300102: MOA_IDLE_EVENT1_51
+    21300104: MOA_IDLE_EVENT1_52
+    21300106: MOA_IDLE_EVENT1_53
+    21300108: MOA_IDLE_EVENT1_54
+    21300110: MOA_IDLE_EVENT1_55
+    21300112: MOA_IDLE_EVENT1_56
+    21300114: MOA_IDLE_EVENT1_57
+    21300116: MOA_IDLE_EVENT1_58
+    21300118: MOA_IDLE_EVENT1_59
+    21300120: MOA_IDLE_EVENT1_60
+    21300122: MOA_IDLE_EVENT1_61
+    21300124: MOA_IDLE_EVENT1_62
+    21300126: MOA_IDLE_EVENT1_63
+    21300128: MOA_IDLE_EVENT1_64
+    21300130: MOA_IDLE_EVENT1_65
+    21300132: MOA_IDLE_EVENT1_66
+    21300134: MOA_IDLE_EVENT1_67
+    21300136: MOA_IDLE_EVENT1_68
+    21300138: MOA_IDLE_EVENT1_69
+    21300140: MOA_IDLE_EVENT1_70
+    21300142: MOA_IDLE_EVENT1_71
+    21300144: MOA_IDLE_EVENT1_72
+    21300146: MOA_IDLE_EVENT1_73
+    21300148: MOA_IDLE_EVENT1_74
+    21300150: MOA_IDLE_EVENT1_75
+    21300152: MOA_IDLE_EVENT1_76
+    21300154: MOA_IDLE_EVENT1_77
+    21300156: MOA_IDLE_EVENT1_78
+    21300158: MOA_IDLE_EVENT1_79
+    21300160: MOA_IDLE_EVENT1_80
+    21300162: MOA_IDLE_EVENT1_81
+    21300164: MOA_IDLE_EVENT1_82
+    21300166: MOA_IDLE_EVENT1_83
+    21300168: MOA_IDLE_EVENT1_84
+    21300170: MOA_IDLE_EVENT1_85
+    21300172: MOA_IDLE_EVENT1_86
+    21300174: MOA_IDLE_EVENT1_87
+    21300176: MOA_IDLE_EVENT1_88
+    21300178: MOA_IDLE_EVENT1_89
+    21300180: MOA_IDLE_EVENT1_90
+    21300182: MOA_IDLE_EVENT1_91
+    21300184: MOA_IDLE_EVENT1_92
+    21300186: MOA_IDLE_EVENT1_93
+    21300188: MOA_IDLE_EVENT1_94
+    21300190: MOA_IDLE_EVENT1_95
+    21300192: MOA_IDLE_EVENT1_96
+    21300194: MOA_IDLE_EVENT1_97
+    21300196: MOA_IDLE_EVENT1_98
+    21300198: MOA_IDLE_EVENT1_99
+    21300200: MOA_IDLE_EVENT1_100
+    21300202: MOA_IDLE_EVENT1_101
+    21300204: MOA_IDLE_EVENT1_102
+    21300206: MOA_IDLE_EVENT1_103
+    21300208: MOA_IDLE_EVENT1_104
+    21300210: MOA_IDLE_EVENT1_105
+    21300212: MOA_IDLE_EVENT1_106
+    21300214: MOA_IDLE_EVENT1_107
+    21300216: MOA_IDLE_EVENT1_108
+    21300218: MOA_IDLE_EVENT1_109
+    21300220: MOA_IDLE_EVENT1_110
+    21300222: MOA_IDLE_EVENT1_111
+    21300224: MOA_IDLE_EVENT1_112
+    21300226: MOA_IDLE_EVENT1_113
+    21300228: MOA_IDLE_EVENT1_114
+    21300230: MOA_IDLE_EVENT1_115
+    21300232: MOA_IDLE_EVENT1_116
+    21300234: MOA_IDLE_EVENT1_117
+    21300236: MOA_IDLE_EVENT1_118
+    21300238: MOA_IDLE_EVENT1_119
+    21300240: MOA_IDLE_EVENT1_120
+    21300242: MOA_IDLE_EVENT1_121
+    21300244: MOA_IDLE_EVENT1_122
+    21300246: MOA_IDLE_EVENT1_123
+    21300248: MOA_IDLE_EVENT1_124
+    21300250: MOA_IDLE_EVENT1_125
+    21300252: MOA_IDLE_EVENT1_126
+    21300254: MOA_IDLE_EVENT1_127
+    21300256: MOA_IDLE_EVENT1_128
+    21300258: MOA_IDLE_EVENT1_129
+    21300260: MOA_IDLE_EVENT1_130
+    21300262: MOA_IDLE_EVENT1_131
+    21300264: MOA_IDLE_EVENT1_132
+    21300266: MOA_IDLE_EVENT1_133
+    21300268: MOA_IDLE_EVENT1_134
+    21300270: MOA_IDLE_EVENT1_135
+    21300272: MOA_IDLE_EVENT1_136
+    21300274: MOA_IDLE_EVENT1_137
+    21300276: MOA_IDLE_EVENT1_138
+    21300278: MOA_IDLE_EVENT1_139
+    21300280: MOA_IDLE_EVENT1_140
+    21300282: MOA_IDLE_EVENT1_141
+    21300284: MOA_IDLE_EVENT1_142
+    21300286: MOA_IDLE_EVENT1_143
+    21300288: MOA_IDLE_EVENT1_144
+    21300290: MOA_IDLE_EVENT1_145
+    21300292: MOA_IDLE_EVENT1_146
+    21300294: MOA_IDLE_EVENT1_147
+    21300296: MOA_IDLE_EVENT1_148
+    21300298: MOA_IDLE_EVENT1_149
+    21300300: MOA_IDLE_EVENT1_150
+    21300302: MOA_IDLE_EVENT1_151
+    21300304: MOA_IDLE_EVENT1_152
+    21300306: MOA_IDLE_EVENT1_153
+    21300308: MOA_IDLE_EVENT1_154
+    21300310: MOA_IDLE_EVENT1_155
+    21300312: MOA_IDLE_EVENT1_156
+    21300314: MOA_IDLE_EVENT1_157
+    21300316: MOA_IDLE_EVENT1_158
+    21300318: MOA_IDLE_EVENT1_159
+    21300320: MOA_IDLE_EVENT1_160
+    21300322: MOA_IDLE_EVENT1_161
+    21300324: MOA_IDLE_EVENT1_162
+    21300326: MOA_IDLE_EVENT1_163
+    21300328: MOA_IDLE_EVENT1_164
+    21300330: MOA_IDLE_EVENT1_165
+    21300332: MOA_IDLE_EVENT1_166
+    21300334: MOA_IDLE_EVENT1_167
+    21300336: MOA_IDLE_EVENT1_168
+    21300338: MOA_IDLE_EVENT1_169
+    21300340: MOA_IDLE_EVENT1_170
+    21300342: MOA_IDLE_EVENT1_171
+    21300344: MOA_IDLE_EVENT1_172
+    21300346: MOA_IDLE_EVENT1_173
+    21300348: MOA_IDLE_EVENT1_174
+    21300350: MOA_IDLE_EVENT1_175
+    21300352: MOA_IDLE_EVENT1_176
+    21300354: MOA_IDLE_EVENT1_177
+    21300356: MOA_IDLE_EVENT1_178
+    21300358: MOA_IDLE_EVENT1_179
+    21300360: MOA_IDLE_EVENT1_180
+    21300362: MOA_IDLE_EVENT1_181
+    21300364: MOA_IDLE_EVENT1_182
+    21300366: MOA_IDLE_EVENT1_183
+    21300368: MOA_IDLE_EVENT1_184
+    21300370: MOA_IDLE_EVENT1_185
+    21300372: MOA_IDLE_EVENT1_186
+    21300374: MOA_IDLE_EVENT1_187
+    21300376: MOA_IDLE_EVENT1_188
+    21300378: MOA_IDLE_EVENT1_189
+    21300380: MOA_IDLE_EVENT1_190
+    21300382: MOA_IDLE_EVENT1_191
+    21300384: MOA_IDLE_EVENT1_192
+    21300386: MOA_IDLE_EVENT1_193
+    21300388: MOA_IDLE_EVENT1_194
+    21300390: MOA_IDLE_EVENT1_195
+    21300392: MOA_IDLE_EVENT1_196
+    21300394: MOA_IDLE_EVENT1_197
+    21300396: MOA_IDLE_EVENT1_198
+    21300398: MOA_IDLE_EVENT1_199
+    21300400: MOA_IDLE_EVENT1_200
+    21300402: MOA_IDLE_EVENT1_201
+    21300404: MOA_IDLE_EVENT1_202
+    21300406: MOA_IDLE_EVENT1_203
+    21300408: MOA_IDLE_EVENT1_204
+    21300410: MOA_IDLE_EVENT1_205
+    21300412: MOA_IDLE_EVENT1_206
+    21300414: MOA_IDLE_EVENT1_207
+    21300416: MOA_IDLE_EVENT1_208
+    21300418: MOA_IDLE_EVENT1_209
+    21300420: MOA_IDLE_EVENT1_210
+    21300422: MOA_IDLE_EVENT1_211
+    21300424: MOA_IDLE_EVENT1_212
+    21300426: MOA_IDLE_EVENT1_213
+    21300428: MOA_IDLE_EVENT1_214
+    21300430: MOA_IDLE_EVENT1_215
+    21300432: MOA_IDLE_EVENT1_216
+    21300434: MOA_IDLE_EVENT1_217
+    21300436: MOA_IDLE_EVENT1_218
+    21300438: MOA_IDLE_EVENT1_219
+    21300440: MOA_IDLE_EVENT1_220
+    21300442: MOA_IDLE_EVENT1_221
+    21300444: MOA_IDLE_EVENT1_222
+    21300446: MOA_IDLE_EVENT1_223
+    21300448: MOA_IDLE_EVENT1_224
+    21300450: MOA_IDLE_EVENT1_225
+    21300452: MOA_IDLE_EVENT1_226
+    21300454: MOA_IDLE_EVENT1_227
+    21300456: MOA_IDLE_EVENT1_228
+    21300458: MOA_IDLE_EVENT1_229
+    21300460: MOA_IDLE_EVENT1_230
+    21300462: MOA_IDLE_EVENT1_231
+    21300464: MOA_IDLE_EVENT1_232
+    21300466: MOA_IDLE_EVENT1_233
+    21300468: MOA_IDLE_EVENT1_234
+    21300470: MOA_IDLE_EVENT1_235
+    21300472: MOA_IDLE_EVENT1_236
+    21300474: MOA_IDLE_EVENT1_237
+    21300476: MOA_IDLE_EVENT1_238
+    21300478: MOA_IDLE_EVENT1_239
+    21300480: MOA_IDLE_EVENT1_240
+    21300482: MOA_IDLE_EVENT1_241
+    21300484: MOA_IDLE_EVENT1_242
+    21300486: MOA_IDLE_EVENT1_243
+    21300488: MOA_IDLE_EVENT1_244
+    21300490: MOA_IDLE_EVENT1_245
+    21300492: MOA_IDLE_EVENT1_246
+    21300494: MOA_IDLE_EVENT1_247
+    21300496: MOA_IDLE_EVENT1_248
+    21300498: MOA_IDLE_EVENT1_249
+    21300500: MOA_IDLE_EVENT1_250
+    21300502: MOA_IDLE_EVENT1_251
+    21300504: MOA_IDLE_EVENT1_252
+    21300506: MOA_IDLE_EVENT1_253
+    21300508: MOA_IDLE_EVENT1_254
+    21300510: MOA_IDLE_EVENT1_255
+    21300512: MOA_IDLE_EVENT1_256
+    21300514: MOA_IDLE_EVENT1_257
+    21300516: MOA_IDLE_EVENT1_258
+    21300518: MOA_IDLE_EVENT1_259
+    21300520: MOA_IDLE_EVENT1_260
+    21300522: MOA_IDLE_EVENT1_261
+    21300524: MOA_IDLE_EVENT1_262
+    21300526: MOA_IDLE_EVENT1_263
+    21300528: MOA_IDLE_EVENT1_264
+    21300530: MOA_IDLE_EVENT1_265
+    21300532: MOA_IDLE_EVENT1_266
+    21300534: MOA_IDLE_EVENT1_267
+    21300536: MOA_IDLE_EVENT1_268
+    21300538: MOA_IDLE_EVENT1_269
+    21300540: MOA_IDLE_EVENT1_270
+    21300542: MOA_IDLE_EVENT1_271
+    21300544: MOA_IDLE_EVENT1_272
+    21300546: MOA_IDLE_EVENT1_273
+    21300548: MOA_IDLE_EVENT1_274
+    21300550: MOA_IDLE_EVENT1_275
+    21300552: MOA_IDLE_EVENT1_276
+    21300554: MOA_IDLE_EVENT1_277
+    21300556: MOA_IDLE_EVENT1_278
+    21300558: MOA_IDLE_EVENT1_279
+    21300560: MOA_IDLE_EVENT1_280
+    21300562: MOA_IDLE_EVENT1_281
+    21300564: MOA_IDLE_EVENT1_282
+    21300566: MOA_IDLE_EVENT1_283
+    21300568: MOA_IDLE_EVENT1_284
+    21300570: MOA_IDLE_EVENT1_285
+    21300572: MOA_IDLE_EVENT1_286
+    21300574: MOA_IDLE_EVENT1_287
+    21300576: MOA_IDLE_EVENT1_288
+    21300578: MOA_IDLE_EVENT1_289
+    21300580: MOA_IDLE_EVENT1_290
+    21300582: MOA_IDLE_EVENT1_291
+    21300584: MOA_IDLE_EVENT1_292
+    21300586: MOA_IDLE_EVENT1_293
+    21300588: MOA_IDLE_EVENT1_294
+    21300590: MOA_IDLE_EVENT1_295
+    21300592: MOA_IDLE_EVENT1_296
+    21300594: MOA_IDLE_EVENT1_297
+    21300596: MOA_IDLE_EVENT1_298
+    21300598: MOA_IDLE_EVENT1_299
+    21300600: MOA_IDLE_EVENT1_300
+    21300602: MOA_IDLE_EVENT1_301
+    21300604: MOA_IDLE_EVENT1_302
+    21300606: MOA_IDLE_EVENT1_303
+    21300608: MOA_IDLE_EVENT1_304
+    21300610: MOA_IDLE_EVENT1_305
+    21300612: MOA_IDLE_EVENT1_306
+    21300614: MOA_IDLE_EVENT1_307
+    21300616: MOA_IDLE_EVENT1_308
+    21300618: MOA_IDLE_EVENT1_309
+    21300620: MOA_IDLE_EVENT1_310
+    21300622: MOA_IDLE_EVENT1_311
+    21300624: MOA_IDLE_EVENT1_312
+    21300626: MOA_IDLE_EVENT1_313
+    21300628: MOA_IDLE_EVENT1_314
+    21300630: MOA_IDLE_EVENT1_315
+    21300632: MOA_IDLE_EVENT1_316
+    21300634: MOA_IDLE_EVENT1_317
+    21300636: MOA_IDLE_EVENT1_318
+    21300638: MOA_IDLE_EVENT1_319
+    21300640: MOA_IDLE_EVENT1_320
+    21300642: MOA_IDLE_EVENT1_321
+    21300644: MOA_IDLE_EVENT1_322
+    21300646: MOA_IDLE_EVENT1_323
+    21300648: MOA_IDLE_EVENT1_324
+    21300650: MOA_IDLE_EVENT1_325
+    21300652: MOA_IDLE_EVENT1_326
+    21300654: MOA_IDLE_EVENT1_327
+    21300656: MOA_IDLE_EVENT1_328
+    21300658: MOA_IDLE_EVENT1_329
+    21300660: MOA_IDLE_EVENT1_330
+    21300662: MOA_IDLE_EVENT1_331
+    21300664: MOA_IDLE_EVENT1_332
+    21300666: MOA_IDLE_EVENT1_333
+    21300668: MOA_IDLE_EVENT1_334
+    21300670: MOA_IDLE_EVENT1_335
+    21300672: MOA_IDLE_EVENT1_336
+    21300674: MOA_IDLE_EVENT1_337
+    21300676: MOA_IDLE_EVENT1_338
+    21300678: MOA_IDLE_EVENT1_339
+    21300680: MOA_IDLE_EVENT1_340
+    21300682: MOA_IDLE_EVENT1_341
+    21300684: MOA_IDLE_EVENT1_342
+    21300686: MOA_IDLE_EVENT1_343
+    21300688: MOA_IDLE_EVENT1_344
+    21300690: MOA_IDLE_EVENT1_345
+    21300692: MOA_IDLE_EVENT1_346
+    21300694: MOA_IDLE_EVENT1_347
+    21300696: MOA_IDLE_EVENT1_348
+    21300698: MOA_IDLE_EVENT1_349
+    21300700: MOA_IDLE_EVENT1_350
+    21300702: MOA_IDLE_EVENT1_351
+    21300704: MOA_IDLE_EVENT1_352
+    21300706: MOA_IDLE_EVENT1_353
+    21300708: MOA_IDLE_EVENT1_354
+    21300710: MOA_IDLE_EVENT1_355
+    21300712: MOA_IDLE_EVENT1_356
+    21300714: MOA_IDLE_EVENT1_357
+    21300716: MOA_IDLE_EVENT1_358
+    21300718: MOA_IDLE_EVENT1_359
+    21300720: MOA_IDLE_EVENT1_360
+    21300722: MOA_IDLE_EVENT1_361
+    21300724: MOA_IDLE_EVENT1_362
+    21300726: MOA_IDLE_EVENT1_363
+    21300728: MOA_IDLE_EVENT1_364
+    21300730: MOA_IDLE_EVENT1_365
+    21300732: MOA_IDLE_EVENT1_366
+    21300734: MOA_IDLE_EVENT1_367
+    21300736: MOA_IDLE_EVENT1_368
+    21300738: MOA_IDLE_EVENT1_369
+    21300740: MOA_IDLE_EVENT1_370
+    21300742: MOA_IDLE_EVENT1_371
+    21300744: MOA_IDLE_EVENT1_372
+    21300746: MOA_IDLE_EVENT1_373
+    21300748: MOA_IDLE_EVENT1_374
+    21300750: MOA_IDLE_EVENT1_375
+    21300752: MOA_IDLE_EVENT1_376
+    21300754: MOA_IDLE_EVENT1_377
+    21300756: MOA_IDLE_EVENT1_378
+    21300758: MOA_IDLE_EVENT1_379
+    21300760: MOA_IDLE_EVENT1_380
+    21300762: MOA_IDLE_EVENT1_381
+    21300764: MOA_IDLE_EVENT1_382
+    21300766: MOA_IDLE_EVENT1_383
+    21300768: MOA_IDLE_EVENT1_384
+    21300770: MOA_IDLE_EVENT1_385
+    21300772: MOA_IDLE_EVENT1_386
+    21300774: MOA_IDLE_EVENT1_387
+    21300776: MOA_IDLE_EVENT1_388
+    21300778: MOA_IDLE_EVENT1_389
+    21300780: MOA_IDLE_EVENT1_390
+    21300782: MOA_IDLE_EVENT1_391
+    21300784: MOA_IDLE_EVENT1_392
+    21300786: MOA_IDLE_EVENT1_393
+    21300788: MOA_IDLE_EVENT1_394
+    21300790: MOA_IDLE_EVENT1_395
+    21300792: MOA_IDLE_EVENT1_396
+    21300794: MOA_IDLE_EVENT1_397
+    21300796: MOA_IDLE_EVENT1_398
+    21300798: MOA_IDLE_EVENT1_399
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10818
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b9db889fd3648948f3646b740a13c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_1
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 10818
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b241eebd8eafb4d85a7eb5d7757ec9ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_2
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 10818
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df039aa7c7c6044b5887026fb40f4aa7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_3
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 10818
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b090aeaf8b84b448c297a9c2b47ef4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_4
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 10818
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1742ea2cd2c4d068aeb8c44a34a69a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_5
+      rect:
+        serializedVersion: 2
+        x: 4210
+        y: 10818
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b129c7180ed4ddeaac186e57f35d51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_6
+      rect:
+        serializedVersion: 2
+        x: 5052
+        y: 10818
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea60a75a2c7542888a1d27ce93f6e2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_7
+      rect:
+        serializedVersion: 2
+        x: 5894
+        y: 10818
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074ba484ce85443419ab20a4a4998fd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_8
+      rect:
+        serializedVersion: 2
+        x: 6736
+        y: 10818
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8303568c17a3462f9baa4304a834213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_9
+      rect:
+        serializedVersion: 2
+        x: 7578
+        y: 10818
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75f1c8d40de743469d9818af9092b3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_10
+      rect:
+        serializedVersion: 2
+        x: 8420
+        y: 10818
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27df0eb5daa748cb9ca6ad264e7748e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_11
+      rect:
+        serializedVersion: 2
+        x: 9262
+        y: 10818
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4b7da6df1c440048c8b5cc26e87e67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_12
+      rect:
+        serializedVersion: 2
+        x: 10104
+        y: 10818
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231c90c4c730149859e0431db8421394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_13
+      rect:
+        serializedVersion: 2
+        x: 10946
+        y: 10818
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b667cc023b4a4017b0eccfaa1ce691d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9616
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84be3064633d45f09b6ee78d84d8d72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_15
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 9616
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6cd59af8564463eba4d86b9ce853d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_16
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 9616
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3096abb7deb6f47b699e5b8b2e505d01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_17
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 9616
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ea0667b39a94f9796ad0cefee312f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_18
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 9616
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1267f9157609b4aafbe7d9329a81b458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_19
+      rect:
+        serializedVersion: 2
+        x: 4210
+        y: 9616
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b2d71b030454ab2a89bc1f19d86ece
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_20
+      rect:
+        serializedVersion: 2
+        x: 5052
+        y: 9616
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9245a2dc19a3f46bdb37aa23f8ee5678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_21
+      rect:
+        serializedVersion: 2
+        x: 5894
+        y: 9616
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12212be60d41540a58a35379f69f6ed4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_22
+      rect:
+        serializedVersion: 2
+        x: 6736
+        y: 9616
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf83c5805f5243c6b08172b24b48dda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_23
+      rect:
+        serializedVersion: 2
+        x: 7578
+        y: 9616
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a95c70389b2409e875de05a58fd331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_24
+      rect:
+        serializedVersion: 2
+        x: 8420
+        y: 9616
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac4b6c8525354edb8d6d3df6069424d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_25
+      rect:
+        serializedVersion: 2
+        x: 9262
+        y: 9616
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6468c260c70b44a9699e3c33c7129b9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_26
+      rect:
+        serializedVersion: 2
+        x: 10104
+        y: 9616
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b006f1cb9504e0dbddf0db333267cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_27
+      rect:
+        serializedVersion: 2
+        x: 10946
+        y: 9616
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4ea9f1a838e4fd1b749b291d6f3465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8414
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d890c6bd4d144b7bb8fc68c7ed66bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_29
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 8414
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbb0275460cf4409b3700f9850e59c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_30
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 8414
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c788c086b59e468a95abdaec88ecd61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_31
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 8414
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65a041afb9544b76a04b619c694336b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_32
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 8414
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44c93848461f4bcf936b26ca89133a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_33
+      rect:
+        serializedVersion: 2
+        x: 4210
+        y: 8414
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b065679b1309747af8fea42a657e419b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_34
+      rect:
+        serializedVersion: 2
+        x: 5052
+        y: 8414
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f257c5971a0450685500879171118f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_35
+      rect:
+        serializedVersion: 2
+        x: 5894
+        y: 8414
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8eeabca20394c02bbc38922e2a0b4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_36
+      rect:
+        serializedVersion: 2
+        x: 6736
+        y: 8414
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb0d2a41125b496c947b33bff564443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_37
+      rect:
+        serializedVersion: 2
+        x: 7578
+        y: 8414
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54327f31ff7be4d0c85990c1a536530c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_38
+      rect:
+        serializedVersion: 2
+        x: 8420
+        y: 8414
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09d1e006a4b64cdc8ef2c70f0459716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_39
+      rect:
+        serializedVersion: 2
+        x: 9262
+        y: 8414
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3011bc9ddf5ba4de7a7033f87b6b9544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_40
+      rect:
+        serializedVersion: 2
+        x: 10104
+        y: 8414
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5345615ecc57440d6bbfcadf63a742b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_41
+      rect:
+        serializedVersion: 2
+        x: 10946
+        y: 8414
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89be43c54296f41978f57dbb088f48ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7212
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb2ce70bea5a49fb974fa98a4c8e611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_43
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 7212
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128430672b58f463abb4fe7a53248cb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_44
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 7212
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b4a0a1c6d0146c28708331bb612d9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_45
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 7212
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9411e6abb704220ba933921c0060fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_46
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 7212
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54b9806f16274098b90c03080a61200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_47
+      rect:
+        serializedVersion: 2
+        x: 4210
+        y: 7212
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936a74bc712564292aa220789b153ea8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_48
+      rect:
+        serializedVersion: 2
+        x: 5052
+        y: 7212
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4a8270a8f774d8bb2ebaaf947c85a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_49
+      rect:
+        serializedVersion: 2
+        x: 5894
+        y: 7212
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b069eaebfeb4c458eb2f90f50bd6de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_50
+      rect:
+        serializedVersion: 2
+        x: 6736
+        y: 7212
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944c37a9d126f4601abb9f3669da07c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_51
+      rect:
+        serializedVersion: 2
+        x: 7578
+        y: 7212
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27283bb13bd24fc982251c2fd9134f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_52
+      rect:
+        serializedVersion: 2
+        x: 8420
+        y: 7212
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa629f1e94f8410a9b9afea38fbeedd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_53
+      rect:
+        serializedVersion: 2
+        x: 9262
+        y: 7212
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb320f37dff945b5a4eac915934261b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_54
+      rect:
+        serializedVersion: 2
+        x: 10104
+        y: 7212
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c68b9813d59b4a0f9a0ea55cb4fd354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_55
+      rect:
+        serializedVersion: 2
+        x: 10946
+        y: 7212
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b433a1355404c59ad6924d836d7897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6010
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c49934068d748f68ac5262209cc5ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_57
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 6010
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b079c530c6271464ea192929e7098aea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_58
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 6010
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bd1478c4eb14e06b5c16e8046f34c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_59
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 6010
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c349343e64994f769c49c15a5abe6fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_60
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 6010
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15e83976ee314b0498bee9ec7358ab5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_61
+      rect:
+        serializedVersion: 2
+        x: 4210
+        y: 6010
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0c359ff87a44aa49e6b6eb624475a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_62
+      rect:
+        serializedVersion: 2
+        x: 5052
+        y: 6010
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f516f24b35943c1a736120b69b290c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_63
+      rect:
+        serializedVersion: 2
+        x: 5894
+        y: 6010
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb524bcb3d2d4f87ad1aa84837702c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_64
+      rect:
+        serializedVersion: 2
+        x: 6736
+        y: 6010
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4beb6d764c36549f289eea9940d1f14f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_65
+      rect:
+        serializedVersion: 2
+        x: 7578
+        y: 6010
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aef4464790c94d72b8e9138afaf2940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_66
+      rect:
+        serializedVersion: 2
+        x: 8420
+        y: 6010
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba73208b0e634b079aeca9793f69bb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_67
+      rect:
+        serializedVersion: 2
+        x: 9262
+        y: 6010
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c90ab45391704543a147846a7d7e307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_68
+      rect:
+        serializedVersion: 2
+        x: 10104
+        y: 6010
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735e78d37e9bc49c18f62710ee2d24d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_69
+      rect:
+        serializedVersion: 2
+        x: 10946
+        y: 6010
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e772f32fe860486a83cacc7f778e631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4808
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca63a86661b54f279d3352afd969699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_71
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 4808
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7979aad620040c099f341d0dde2d22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_72
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 4808
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2099b788673fa48e0b8c6286bbf61a39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_73
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 4808
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd099582611824e73be935aca4322ddb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_74
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 4808
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6223fe18536ef4b759648729f725d645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_75
+      rect:
+        serializedVersion: 2
+        x: 4210
+        y: 4808
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cad540d24e1c43deb7352d85272d48f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_76
+      rect:
+        serializedVersion: 2
+        x: 5052
+        y: 4808
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9845430e170412e9ea269eb7066401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_77
+      rect:
+        serializedVersion: 2
+        x: 5894
+        y: 4808
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a34bdb8559714d5484d5c1e70577768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_78
+      rect:
+        serializedVersion: 2
+        x: 6736
+        y: 4808
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68a992c0067c4654ba8b8379e0a917d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_79
+      rect:
+        serializedVersion: 2
+        x: 7578
+        y: 4808
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88eed5ed52a3745c889ae82b2546aa13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_80
+      rect:
+        serializedVersion: 2
+        x: 8420
+        y: 4808
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09e4dc72bff9432e9bb0e344f186523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_81
+      rect:
+        serializedVersion: 2
+        x: 9262
+        y: 4808
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8141828131f1c40b8a019f3a22fb0735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_82
+      rect:
+        serializedVersion: 2
+        x: 10104
+        y: 4808
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404cb4dc8ff384f25ae5f99303255c6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_83
+      rect:
+        serializedVersion: 2
+        x: 10946
+        y: 4808
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea462998527b48569e046f99ff6d682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3606
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220fcd342524c4057bb7130e6908201a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_85
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 3606
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787bb4a3c1c1d475c9c7380c1f3c9874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_86
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 3606
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c368f035a44734befa1188ab59c44552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_87
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 3606
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bee44de32b31429e90147f5be06b1aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_88
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 3606
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347f772ea3c67495d8c90e00d8db7c47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_89
+      rect:
+        serializedVersion: 2
+        x: 4210
+        y: 3606
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe9b7ac9f5bb41daac4db89d8f8a238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_90
+      rect:
+        serializedVersion: 2
+        x: 5052
+        y: 3606
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43c9340ae83c4808bfb5310c3a39722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_91
+      rect:
+        serializedVersion: 2
+        x: 5894
+        y: 3606
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32729665a9ae41629aa0be821f31d47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_92
+      rect:
+        serializedVersion: 2
+        x: 6736
+        y: 3606
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7640ee4a03a7472d97d65cf8e341853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_93
+      rect:
+        serializedVersion: 2
+        x: 7578
+        y: 3606
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592959c500c124e268436c4aa048f59a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_94
+      rect:
+        serializedVersion: 2
+        x: 8420
+        y: 3606
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00ff0ca8107f46db9dcab4661e7b454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_95
+      rect:
+        serializedVersion: 2
+        x: 9262
+        y: 3606
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94421e81af7974e888d38787b26eadc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_96
+      rect:
+        serializedVersion: 2
+        x: 10104
+        y: 3606
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48167348183ea4616a1b0ea259c27ac5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_97
+      rect:
+        serializedVersion: 2
+        x: 10946
+        y: 3606
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b699cc3d2684880a189b5228d250ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2404
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233407962882845b3806bd02e4fb62f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_99
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 2404
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a698ff83cd191466685e6a1d872c0390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_100
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 2404
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8820b5099e5c442996c099526e30fe2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_101
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 2404
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ad1d8281d7e4e93b1766afea6e089c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_102
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 2404
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a9f73beb73c49ddae080049805c542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_103
+      rect:
+        serializedVersion: 2
+        x: 4210
+        y: 2404
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f076387fbcae4d419a94e8c449ca7ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_104
+      rect:
+        serializedVersion: 2
+        x: 5052
+        y: 2404
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedbfce4dd2454a0d952a1148218e82d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_105
+      rect:
+        serializedVersion: 2
+        x: 5894
+        y: 2404
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5be9577af1e246e791a33055e7301a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_106
+      rect:
+        serializedVersion: 2
+        x: 6736
+        y: 2404
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42cd03bd1c7c40ca85acca5cfdc56ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_107
+      rect:
+        serializedVersion: 2
+        x: 7578
+        y: 2404
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e18de4b737784ed2b4cb94a2cb30c30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_108
+      rect:
+        serializedVersion: 2
+        x: 8420
+        y: 2404
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850c020bc9da445209c6aa14a368944a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_109
+      rect:
+        serializedVersion: 2
+        x: 9262
+        y: 2404
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d02996bbe6334c4c8aed8f1d25ff059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_110
+      rect:
+        serializedVersion: 2
+        x: 10104
+        y: 2404
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de030236e61aa441888a5e1ec10d0036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_111
+      rect:
+        serializedVersion: 2
+        x: 10946
+        y: 2404
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1ab9f82acc4469a936ff9a2bed7d57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1202
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d80615dd92740afbf5ec5712d85298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_113
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1202
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110faed2fd5b64863ba4cb3713100aa7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_114
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1202
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc33364ca6364a11b46272a1e5c384f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_115
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 1202
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0e756aa1d67464e921754196d67524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_116
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 1202
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d51e14994e849838c1d5c3b971ae5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_117
+      rect:
+        serializedVersion: 2
+        x: 4210
+        y: 1202
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4ce407709e44672b9a263e06a7de36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_118
+      rect:
+        serializedVersion: 2
+        x: 5052
+        y: 1202
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a70a889a88bf4927adf835d75c4b3b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_119
+      rect:
+        serializedVersion: 2
+        x: 5894
+        y: 1202
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78b2d8b9690d4e5d9c4d381ebf8de52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_120
+      rect:
+        serializedVersion: 2
+        x: 6736
+        y: 1202
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a302d69eb42947e6ba19a83f47a6876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_121
+      rect:
+        serializedVersion: 2
+        x: 7578
+        y: 1202
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df7dc199ef3a4f45b58721b70d1e2ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_122
+      rect:
+        serializedVersion: 2
+        x: 8420
+        y: 1202
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da95f7fcd4ab1466f9c0d3e0294c06e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_123
+      rect:
+        serializedVersion: 2
+        x: 9262
+        y: 1202
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7594f4e3d6542a2bb283e7ee65d2c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_124
+      rect:
+        serializedVersion: 2
+        x: 10104
+        y: 1202
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d91fe5445ec4197ad13fafaaaf8841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_125
+      rect:
+        serializedVersion: 2
+        x: 10946
+        y: 1202
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a8bee3e35f24878918fce5e71bdc9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94fe9d62337c45f4b585626174b3646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_127
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 0
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f5e37c921484b9f9fd6a7c2c83fa4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_128
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 0
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fdad35a61e04820aff46b8f94e5363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_129
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 0
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bebe16d8d2c470b8109343b1c090e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_130
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 0
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78b7d9138b684113bafd5ac70f47779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_131
+      rect:
+        serializedVersion: 2
+        x: 4210
+        y: 0
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be3509652dee4efa83edc7cd97249e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_132
+      rect:
+        serializedVersion: 2
+        x: 5052
+        y: 0
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383950dce5b50435da84a0692257f47b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_133
+      rect:
+        serializedVersion: 2
+        x: 5894
+        y: 0
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fa355c40ff2452684586aca50ddbe3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_134
+      rect:
+        serializedVersion: 2
+        x: 6736
+        y: 0
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a37b82cd11d4283bd2591ea8521811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_135
+      rect:
+        serializedVersion: 2
+        x: 7578
+        y: 0
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3011508ad044ef4817a36af25a7f21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_136
+      rect:
+        serializedVersion: 2
+        x: 8420
+        y: 0
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f341914e54de49b7bd91ee0dcc36f67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_137
+      rect:
+        serializedVersion: 2
+        x: 9262
+        y: 0
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d817fb7d67647cc936ca1c17f15222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_138
+      rect:
+        serializedVersion: 2
+        x: 10104
+        y: 0
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8aa40439df84141b64fb7be3237a5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOA_IDLE_EVENT1_139
+      rect:
+        serializedVersion: 2
+        x: 10946
+        y: 0
+        width: 842.8571
+        height: 1202
+      alignment: 9
+      pivot: {x: 0.4017195, y: 100000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1daf63a5ec3a54d4696fb6824bf1288f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 519f83b3a8f7749dbaa83d3d93f80a9f
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

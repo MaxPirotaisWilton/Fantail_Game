@@ -1,0 +1,855 @@
+fileFormatVersion: 2
+guid: 7906a80176e824c88b0014d68cd23e71
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SIDE_TO_DOWN_TRANSITION_0
+    21300002: SIDE_TO_DOWN_TRANSITION_1
+    21300004: SIDE_TO_DOWN_TRANSITION_2
+    21300006: SIDE_TO_DOWN_TRANSITION_3
+    21300008: SIDE_TO_DOWN_TRANSITION_4
+    21300010: SIDE_TO_DOWN_TRANSITION_5
+    21300012: SIDE_TO_DOWN_TRANSITION_6
+    21300014: SIDE_TO_DOWN_TRANSITION_7
+    21300016: SIDE_TO_DOWN_TRANSITION_8
+    21300018: SIDE_TO_DOWN_TRANSITION_9
+    21300020: SIDE_TO_DOWN_TRANSITION_10
+    21300022: SIDE_TO_DOWN_TRANSITION_11
+    21300024: SIDE_TO_DOWN_TRANSITION_12
+    21300026: SIDE_TO_DOWN_TRANSITION_13
+    21300028: SIDE_TO_DOWN_TRANSITION_14
+    21300030: SIDE_TO_DOWN_TRANSITION_15
+    21300032: SIDE_TO_DOWN_TRANSITION_16
+    21300034: SIDE_TO_DOWN_TRANSITION_17
+    21300036: SIDE_TO_DOWN_TRANSITION_18
+    21300038: SIDE_TO_DOWN_TRANSITION_19
+    21300040: SIDE_TO_DOWN_TRANSITION_20
+    21300042: SIDE_TO_DOWN_TRANSITION_21
+    21300044: SIDE_TO_DOWN_TRANSITION_22
+    21300046: SIDE_TO_DOWN_TRANSITION_23
+    21300048: SIDE_TO_DOWN_TRANSITION_24
+    21300050: SIDE_TO_DOWN_TRANSITION_25
+    21300052: SIDE_TO_DOWN_TRANSITION_26
+    21300054: SIDE_TO_DOWN_TRANSITION_27
+    21300056: SIDE_TO_DOWN_TRANSITION_28
+    21300058: SIDE_TO_DOWN_TRANSITION_29
+    21300060: SIDE_TO_DOWN_TRANSITION_30
+    21300062: SIDE_TO_DOWN_TRANSITION_31
+    21300064: SIDE_TO_DOWN_TRANSITION_32
+    21300066: SIDE_TO_DOWN_TRANSITION_33
+    21300068: SIDE_TO_DOWN_TRANSITION_34
+    21300070: SIDE_TO_DOWN_TRANSITION_35
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SIDE_TO_DOWN_TRANSITION_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3840
+        width: 988
+        height: 768
+      alignment: 9
+      pivot: {x: 0.64, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ee8fe24e5b24217bb8a946fdaaa4aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE_TO_DOWN_TRANSITION_1
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 3840
+        width: 988
+        height: 768
+      alignment: 9
+      pivot: {x: 0.64, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a1eaee9afec4586b76d34448398ef3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE_TO_DOWN_TRANSITION_2
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 3840
+        width: 988
+        height: 768
+      alignment: 9
+      pivot: {x: 0.64, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b77f54581f7f40a8b3b02d857faa37d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE_TO_DOWN_TRANSITION_3
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 3840
+        width: 988
+        height: 768
+      alignment: 9
+      pivot: {x: 0.64, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f907b95edb2d14be99c3b38c4e930f78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE_TO_DOWN_TRANSITION_4
+      rect:
+        serializedVersion: 2
+        x: 3952
+        y: 3840
+        width: 988
+        height: 768
+      alignment: 9
+      pivot: {x: 0.64, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec98a53f95384b509672f472fb5952c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE_TO_DOWN_TRANSITION_5
+      rect:
+        serializedVersion: 2
+        x: 4940
+        y: 3840
+        width: 988
+        height: 768
+      alignment: 9
+      pivot: {x: 0.64, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c0ca58974794178b4d74879c3fac64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE_TO_DOWN_TRANSITION_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 988
+        height: 768
+      alignment: 9
+      pivot: {x: 0.64, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7af288b721e4775ba556301fdb3991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE_TO_DOWN_TRANSITION_7
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 3072
+        width: 988
+        height: 768
+      alignment: 9
+      pivot: {x: 0.64, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6394783754a24c20830e92a285ba5ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE_TO_DOWN_TRANSITION_8
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 3072
+        width: 988
+        height: 768
+      alignment: 9
+      pivot: {x: 0.64, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797a74127bd614b06980ead775e1ebf7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE_TO_DOWN_TRANSITION_9
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 3072
+        width: 988
+        height: 768
+      alignment: 9
+      pivot: {x: 0.64, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf299ed98207f46e5af94728e9b10ba6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE_TO_DOWN_TRANSITION_10
+      rect:
+        serializedVersion: 2
+        x: 3952
+        y: 3072
+        width: 988
+        height: 768
+      alignment: 9
+      pivot: {x: 0.64, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf399752b0b94a2ab9f29bbac9b7665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE_TO_DOWN_TRANSITION_11
+      rect:
+        serializedVersion: 2
+        x: 4940
+        y: 3072
+        width: 988
+        height: 768
+      alignment: 9
+      pivot: {x: 0.64, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2466921dfbde460fafef5facbc1050f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE_TO_DOWN_TRANSITION_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2304
+        width: 988
+        height: 768
+      alignment: 9
+      pivot: {x: 0.64, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041cb980569cf4a4da2c033b00ba51a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE_TO_DOWN_TRANSITION_13
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 2304
+        width: 988
+        height: 768
+      alignment: 9
+      pivot: {x: 0.645, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c38cff45f6b44bbbcd039b10c37d6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE_TO_DOWN_TRANSITION_14
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 2304
+        width: 988
+        height: 768
+      alignment: 9
+      pivot: {x: 0.65, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8743885a4fc7d4b4084d223343255846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE_TO_DOWN_TRANSITION_15
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 2304
+        width: 988
+        height: 768
+      alignment: 9
+      pivot: {x: 0.655, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cee82c1a6084b0fb3b4029aa2350b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE_TO_DOWN_TRANSITION_16
+      rect:
+        serializedVersion: 2
+        x: 3952
+        y: 2304
+        width: 988
+        height: 768
+      alignment: 9
+      pivot: {x: 0.66, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2ae186e7aee44d6a602fe964677429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE_TO_DOWN_TRANSITION_17
+      rect:
+        serializedVersion: 2
+        x: 4940
+        y: 2304
+        width: 988
+        height: 768
+      alignment: 9
+      pivot: {x: 0.665, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d408edd492043b5a3a97c168b14184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE_TO_DOWN_TRANSITION_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 988
+        height: 768
+      alignment: 9
+      pivot: {x: 0.67, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b744bf1edf6be43d2ad128237d64cae9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE_TO_DOWN_TRANSITION_19
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1536
+        width: 988
+        height: 768
+      alignment: 9
+      pivot: {x: 0.675, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9540b1915df14315bd5e09838705b0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE_TO_DOWN_TRANSITION_20
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 1536
+        width: 988
+        height: 768
+      alignment: 9
+      pivot: {x: 0.68, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e5ef161b08c408093a9a206b5ff313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE_TO_DOWN_TRANSITION_21
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 1536
+        width: 988
+        height: 768
+      alignment: 9
+      pivot: {x: 0.685, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689508f1f04f64b2c818477a126f7d97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE_TO_DOWN_TRANSITION_22
+      rect:
+        serializedVersion: 2
+        x: 3952
+        y: 1536
+        width: 988
+        height: 768
+      alignment: 9
+      pivot: {x: 0.69, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f427369dac1c548fba62e66780675134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE_TO_DOWN_TRANSITION_23
+      rect:
+        serializedVersion: 2
+        x: 4940
+        y: 1536
+        width: 988
+        height: 768
+      alignment: 9
+      pivot: {x: 0.695, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d893b85a6448b4b83bf049b36c310d00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE_TO_DOWN_TRANSITION_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 988
+        height: 768
+      alignment: 9
+      pivot: {x: 0.7, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f103fc407d094409b20fed6f955a21e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE_TO_DOWN_TRANSITION_25
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 768
+        width: 988
+        height: 768
+      alignment: 9
+      pivot: {x: 0.705, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e212bcb68804465996692cc57d1c3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE_TO_DOWN_TRANSITION_26
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 768
+        width: 988
+        height: 768
+      alignment: 9
+      pivot: {x: 0.715, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa132df61dec14e5a9bb6bb8d5451bbc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE_TO_DOWN_TRANSITION_27
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 768
+        width: 988
+        height: 768
+      alignment: 9
+      pivot: {x: 0.72, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8293fc728fc848948086dc55aa5830d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE_TO_DOWN_TRANSITION_28
+      rect:
+        serializedVersion: 2
+        x: 3952
+        y: 768
+        width: 988
+        height: 768
+      alignment: 9
+      pivot: {x: 0.725, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f75ac01c863a42888ef3842bf414c9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE_TO_DOWN_TRANSITION_29
+      rect:
+        serializedVersion: 2
+        x: 4940
+        y: 768
+        width: 988
+        height: 768
+      alignment: 9
+      pivot: {x: 0.73, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac15f2a2da7a42f3940d3d9cd0a63d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE_TO_DOWN_TRANSITION_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 988
+        height: 768
+      alignment: 9
+      pivot: {x: 0.735, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc1b162d4a384e8fb9c3b4a0f703c39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE_TO_DOWN_TRANSITION_31
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 0
+        width: 988
+        height: 768
+      alignment: 9
+      pivot: {x: 0.74, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eecfb430a7c546238c3662b6fdc8380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE_TO_DOWN_TRANSITION_32
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 0
+        width: 988
+        height: 768
+      alignment: 9
+      pivot: {x: 0.745, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f82db54371f4d1ea21c8b185e620b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE_TO_DOWN_TRANSITION_33
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 0
+        width: 988
+        height: 768
+      alignment: 9
+      pivot: {x: 0.75, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff6e90df82bb4f68a340af6664912d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE_TO_DOWN_TRANSITION_34
+      rect:
+        serializedVersion: 2
+        x: 3952
+        y: 0
+        width: 988
+        height: 768
+      alignment: 9
+      pivot: {x: 0.755, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86440abdf5bd4ba89cd0c95244d8bcd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDE_TO_DOWN_TRANSITION_35
+      rect:
+        serializedVersion: 2
+        x: 4940
+        y: 0
+        width: 988
+        height: 768
+      alignment: 9
+      pivot: {x: 0.76, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46de3fb1e51a4502a67faeafaeac32b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 10595673c76ca41498307876d990cac0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

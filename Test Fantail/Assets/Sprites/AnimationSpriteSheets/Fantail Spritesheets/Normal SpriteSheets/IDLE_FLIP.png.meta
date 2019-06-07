@@ -1,0 +1,3375 @@
+fileFormatVersion: 2
+guid: cf94d8d98174f4b598b901f3abdf1cfd
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: IDLE_FLIP_0
+    21300002: IDLE_FLIP_1
+    21300004: IDLE_FLIP_2
+    21300006: IDLE_FLIP_3
+    21300008: IDLE_FLIP_4
+    21300010: IDLE_FLIP_5
+    21300012: IDLE_FLIP_6
+    21300014: IDLE_FLIP_7
+    21300016: IDLE_FLIP_8
+    21300018: IDLE_FLIP_9
+    21300020: IDLE_FLIP_10
+    21300022: IDLE_FLIP_11
+    21300024: IDLE_FLIP_12
+    21300026: IDLE_FLIP_13
+    21300028: IDLE_FLIP_14
+    21300030: IDLE_FLIP_15
+    21300032: IDLE_FLIP_16
+    21300034: IDLE_FLIP_17
+    21300036: IDLE_FLIP_18
+    21300038: IDLE_FLIP_19
+    21300040: IDLE_FLIP_20
+    21300042: IDLE_FLIP_21
+    21300044: IDLE_FLIP_22
+    21300046: IDLE_FLIP_23
+    21300048: IDLE_FLIP_24
+    21300050: IDLE_FLIP_25
+    21300052: IDLE_FLIP_26
+    21300054: IDLE_FLIP_27
+    21300056: IDLE_FLIP_28
+    21300058: IDLE_FLIP_29
+    21300060: IDLE_FLIP_30
+    21300062: IDLE_FLIP_31
+    21300064: IDLE_FLIP_32
+    21300066: IDLE_FLIP_33
+    21300068: IDLE_FLIP_34
+    21300070: IDLE_FLIP_35
+    21300072: IDLE_FLIP_36
+    21300074: IDLE_FLIP_37
+    21300076: IDLE_FLIP_38
+    21300078: IDLE_FLIP_39
+    21300080: IDLE_FLIP_40
+    21300082: IDLE_FLIP_41
+    21300084: IDLE_FLIP_42
+    21300086: IDLE_FLIP_43
+    21300088: IDLE_FLIP_44
+    21300090: IDLE_FLIP_45
+    21300092: IDLE_FLIP_46
+    21300094: IDLE_FLIP_47
+    21300096: IDLE_FLIP_48
+    21300098: IDLE_FLIP_49
+    21300100: IDLE_FLIP_50
+    21300102: IDLE_FLIP_51
+    21300104: IDLE_FLIP_52
+    21300106: IDLE_FLIP_53
+    21300108: IDLE_FLIP_54
+    21300110: IDLE_FLIP_55
+    21300112: IDLE_FLIP_56
+    21300114: IDLE_FLIP_57
+    21300116: IDLE_FLIP_58
+    21300118: IDLE_FLIP_59
+    21300120: IDLE_FLIP_60
+    21300122: IDLE_FLIP_61
+    21300124: IDLE_FLIP_62
+    21300126: IDLE_FLIP_63
+    21300128: IDLE_FLIP_64
+    21300130: IDLE_FLIP_65
+    21300132: IDLE_FLIP_66
+    21300134: IDLE_FLIP_67
+    21300136: IDLE_FLIP_68
+    21300138: IDLE_FLIP_69
+    21300140: IDLE_FLIP_70
+    21300142: IDLE_FLIP_71
+    21300144: IDLE_FLIP_72
+    21300146: IDLE_FLIP_73
+    21300148: IDLE_FLIP_74
+    21300150: IDLE_FLIP_75
+    21300152: IDLE_FLIP_76
+    21300154: IDLE_FLIP_77
+    21300156: IDLE_FLIP_78
+    21300158: IDLE_FLIP_79
+    21300160: IDLE_FLIP_80
+    21300162: IDLE_FLIP_81
+    21300164: IDLE_FLIP_82
+    21300166: IDLE_FLIP_83
+    21300168: IDLE_FLIP_84
+    21300170: IDLE_FLIP_85
+    21300172: IDLE_FLIP_86
+    21300174: IDLE_FLIP_87
+    21300176: IDLE_FLIP_88
+    21300178: IDLE_FLIP_89
+    21300180: IDLE_FLIP_90
+    21300182: IDLE_FLIP_91
+    21300184: IDLE_FLIP_92
+    21300186: IDLE_FLIP_93
+    21300188: IDLE_FLIP_94
+    21300190: IDLE_FLIP_95
+    21300192: IDLE_FLIP_96
+    21300194: IDLE_FLIP_97
+    21300196: IDLE_FLIP_98
+    21300198: IDLE_FLIP_99
+    21300200: IDLE_FLIP_100
+    21300202: IDLE_FLIP_101
+    21300204: IDLE_FLIP_102
+    21300206: IDLE_FLIP_103
+    21300208: IDLE_FLIP_104
+    21300210: IDLE_FLIP_105
+    21300212: IDLE_FLIP_106
+    21300214: IDLE_FLIP_107
+    21300216: IDLE_FLIP_108
+    21300218: IDLE_FLIP_109
+    21300220: IDLE_FLIP_110
+    21300222: IDLE_FLIP_111
+    21300224: IDLE_FLIP_112
+    21300226: IDLE_FLIP_113
+    21300228: IDLE_FLIP_114
+    21300230: IDLE_FLIP_115
+    21300232: IDLE_FLIP_116
+    21300234: IDLE_FLIP_117
+    21300236: IDLE_FLIP_118
+    21300238: IDLE_FLIP_119
+    21300240: IDLE_FLIP_120
+    21300242: IDLE_FLIP_121
+    21300244: IDLE_FLIP_122
+    21300246: IDLE_FLIP_123
+    21300248: IDLE_FLIP_124
+    21300250: IDLE_FLIP_125
+    21300252: IDLE_FLIP_126
+    21300254: IDLE_FLIP_127
+    21300256: IDLE_FLIP_128
+    21300258: IDLE_FLIP_129
+    21300260: IDLE_FLIP_130
+    21300262: IDLE_FLIP_131
+    21300264: IDLE_FLIP_132
+    21300266: IDLE_FLIP_133
+    21300268: IDLE_FLIP_134
+    21300270: IDLE_FLIP_135
+    21300272: IDLE_FLIP_136
+    21300274: IDLE_FLIP_137
+    21300276: IDLE_FLIP_138
+    21300278: IDLE_FLIP_139
+    21300280: IDLE_FLIP_140
+    21300282: IDLE_FLIP_141
+    21300284: IDLE_FLIP_142
+    21300286: IDLE_FLIP_143
+    21300288: IDLE_FLIP_144
+    21300290: IDLE_FLIP_145
+    21300292: IDLE_FLIP_146
+    21300294: IDLE_FLIP_147
+    21300296: IDLE_FLIP_148
+    21300298: IDLE_FLIP_149
+    21300300: IDLE_FLIP_150
+    21300302: IDLE_FLIP_151
+    21300304: IDLE_FLIP_152
+    21300306: IDLE_FLIP_153
+    21300308: IDLE_FLIP_154
+    21300310: IDLE_FLIP_155
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IDLE_FLIP_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6556
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3f5ac86f62e4b009af164951d6e7d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_1
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 6556
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957ed6448755b4764b0c583ad3c2853b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_2
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 6556
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cded97743ce7243a8bbc7dc7bfcb1584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_3
+      rect:
+        serializedVersion: 2
+        x: 3054
+        y: 6556
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25905a263cb5449af8d39329b1160534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_4
+      rect:
+        serializedVersion: 2
+        x: 4072
+        y: 6556
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fac6f65f1bc4d9aa9bf73d942c6567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_5
+      rect:
+        serializedVersion: 2
+        x: 5090
+        y: 6556
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054cf4a62fd0a4bad9276b905f120478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_6
+      rect:
+        serializedVersion: 2
+        x: 6108
+        y: 6556
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0616021ded4642a9814a4cd00103235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_7
+      rect:
+        serializedVersion: 2
+        x: 7126
+        y: 6556
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78dad3eb5929d4c18a37d765ded7a363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_8
+      rect:
+        serializedVersion: 2
+        x: 8144
+        y: 6556
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfacded158e904334880052ef731c054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_9
+      rect:
+        serializedVersion: 2
+        x: 9162
+        y: 6556
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de1d4c3623ce4c55b105d2c56e5d182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_10
+      rect:
+        serializedVersion: 2
+        x: 10180
+        y: 6556
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0326914bf1fa84985ac678a4bd053abd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_11
+      rect:
+        serializedVersion: 2
+        x: 11198
+        y: 6556
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd9ffbcddeec43a49f0ca3c8b007a8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_12
+      rect:
+        serializedVersion: 2
+        x: 12216
+        y: 6556
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63f777045b954528bee1aa4a6d4d5e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5960
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aac4919cd13844d3ada3a590fdd6458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_14
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 5960
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a30bde28fa654b7ab465f1d6ef78697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_15
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 5960
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585d1d8bbbd574441950eb5e03379f53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_16
+      rect:
+        serializedVersion: 2
+        x: 3054
+        y: 5960
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf2f71142a2a440cb4d2b8918af8678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_17
+      rect:
+        serializedVersion: 2
+        x: 4072
+        y: 5960
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253147e34ed4b4d7fb12b64d7fb7d98b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_18
+      rect:
+        serializedVersion: 2
+        x: 5090
+        y: 5960
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000edc22658e14caeb24a624894ff460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_19
+      rect:
+        serializedVersion: 2
+        x: 6108
+        y: 5960
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48df930c250b4faeaa077980e415ad0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_20
+      rect:
+        serializedVersion: 2
+        x: 7126
+        y: 5960
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a709eb3688b43ddb58936e62d81ae4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_21
+      rect:
+        serializedVersion: 2
+        x: 8144
+        y: 5960
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff148b6ce233476785521979b688597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_22
+      rect:
+        serializedVersion: 2
+        x: 9162
+        y: 5960
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd7d9906610e41e598d89ce01cd931e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_23
+      rect:
+        serializedVersion: 2
+        x: 10180
+        y: 5960
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4687af08c93764193979995f9ec2b646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_24
+      rect:
+        serializedVersion: 2
+        x: 11198
+        y: 5960
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6294ef161788043cfbbe1303f74cbeda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_25
+      rect:
+        serializedVersion: 2
+        x: 12216
+        y: 5960
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ee71f962d4d47c1a00bcd19eed42b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5364
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6544c36f4af4c41f3ad07d1a5ef2b20e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_27
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 5364
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5483c3706894090aa8ed0c0fd1999a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_28
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 5364
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bba3a53e9134eec947335463fee14e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_29
+      rect:
+        serializedVersion: 2
+        x: 3054
+        y: 5364
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7fa899845a84a32aae273bd2310e1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_30
+      rect:
+        serializedVersion: 2
+        x: 4072
+        y: 5364
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5162b0ef48b4ce1a052622de7c17a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_31
+      rect:
+        serializedVersion: 2
+        x: 5090
+        y: 5364
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5321cdceb6c4032bd75c7e75c5cbba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_32
+      rect:
+        serializedVersion: 2
+        x: 6108
+        y: 5364
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf8a2b44dc17411baf0017ddf3b1550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_33
+      rect:
+        serializedVersion: 2
+        x: 7126
+        y: 5364
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85f8395422ab4d8082c07ac74ab7f34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_34
+      rect:
+        serializedVersion: 2
+        x: 8144
+        y: 5364
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cb0b745178342a3b38857ef1a30d7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_35
+      rect:
+        serializedVersion: 2
+        x: 9162
+        y: 5364
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e771ac93b7b545b7bc0683eb0d61afd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_36
+      rect:
+        serializedVersion: 2
+        x: 10180
+        y: 5364
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e719a5cdc3a942cfadbc5a48d585d8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_37
+      rect:
+        serializedVersion: 2
+        x: 11198
+        y: 5364
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d0b2d93b6c34904abd32540b8408a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_38
+      rect:
+        serializedVersion: 2
+        x: 12216
+        y: 5364
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7cfb0777b0a4877947509b9474eb7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4768
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e8900acbb654bd196deda7364ee8d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_40
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 4768
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d43dbfedeb74499b9755c3a9e475ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_41
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 4768
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b970a527b37eb4cfe8e153aced4cfa15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_42
+      rect:
+        serializedVersion: 2
+        x: 3054
+        y: 4768
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138f84702520c4f34aaed34755bae354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_43
+      rect:
+        serializedVersion: 2
+        x: 4072
+        y: 4768
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd38f4b3ea5d486db3f56c10778f2c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_44
+      rect:
+        serializedVersion: 2
+        x: 5090
+        y: 4768
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22646b3feac804e3e9ea35e1beb9e2a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_45
+      rect:
+        serializedVersion: 2
+        x: 6108
+        y: 4768
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96dd5084da02846f68b7553eacc5ddcc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_46
+      rect:
+        serializedVersion: 2
+        x: 7126
+        y: 4768
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18054de5cbd4d4a9daaa459ad36b3b48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_47
+      rect:
+        serializedVersion: 2
+        x: 8144
+        y: 4768
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a32e823b5024162b17c75d5869c979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_48
+      rect:
+        serializedVersion: 2
+        x: 9162
+        y: 4768
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82a505d20c924b80bd37a2e84081ed3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_49
+      rect:
+        serializedVersion: 2
+        x: 10180
+        y: 4768
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1491a0df874444ea2e9ae7a4aef091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_50
+      rect:
+        serializedVersion: 2
+        x: 11198
+        y: 4768
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a812a3380aec460d9471457764499a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_51
+      rect:
+        serializedVersion: 2
+        x: 12216
+        y: 4768
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa2d5c849b72456bac458d12545b701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4172
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3681506b62e794fd6ad25f651310ab21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_53
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 4172
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3572b97938044bf38d5ffcc263ce613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_54
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 4172
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ab1f40f16804bffa3fe04eb78a7ea9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_55
+      rect:
+        serializedVersion: 2
+        x: 3054
+        y: 4172
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e62e48f755f4c8eabdfb1c7796a139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_56
+      rect:
+        serializedVersion: 2
+        x: 4072
+        y: 4172
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6162bae78b6f4b308b7cd32f5d728f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_57
+      rect:
+        serializedVersion: 2
+        x: 5090
+        y: 4172
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a885f5b3fb7451aae870cd1b8abce7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_58
+      rect:
+        serializedVersion: 2
+        x: 6108
+        y: 4172
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfbb9b8642ad40749f777d7e4ddf241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_59
+      rect:
+        serializedVersion: 2
+        x: 7126
+        y: 4172
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497e6c6443f5d4b1a948cdb204c61ec0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_60
+      rect:
+        serializedVersion: 2
+        x: 8144
+        y: 4172
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c431aff2ccc61404f86706bf6604a72a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_61
+      rect:
+        serializedVersion: 2
+        x: 9162
+        y: 4172
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7d63f639f984e2abc95e751f6e4c3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_62
+      rect:
+        serializedVersion: 2
+        x: 10180
+        y: 4172
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebb6f80d9ada4a03895ab3201c4857c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_63
+      rect:
+        serializedVersion: 2
+        x: 11198
+        y: 4172
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cec420a69764c10956c8e6fc784fa3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_64
+      rect:
+        serializedVersion: 2
+        x: 12216
+        y: 4172
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32606ae483b604324b05274659f9bda0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3576
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b822cc31f2a040d4835f399b4032703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_66
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 3576
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153402bb964574891bea266cdf1cbb23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_67
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 3576
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfabb5ebea2a4034a917be9808e15d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_68
+      rect:
+        serializedVersion: 2
+        x: 3054
+        y: 3576
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af968dcd87ac64872bf04ceba51baaf8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_69
+      rect:
+        serializedVersion: 2
+        x: 4072
+        y: 3576
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c11815c7d79481c9e007d8afce4cf3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_70
+      rect:
+        serializedVersion: 2
+        x: 5090
+        y: 3576
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4600a1a6ccdd4739af914877c55e7ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_71
+      rect:
+        serializedVersion: 2
+        x: 6108
+        y: 3576
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce219c3fe49d4b5b864d52418a424e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_72
+      rect:
+        serializedVersion: 2
+        x: 7126
+        y: 3576
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0a2ad5580e649fa9c244cd72868207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_73
+      rect:
+        serializedVersion: 2
+        x: 8144
+        y: 3576
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4b11b0356ee4c7a818f22593b2cad7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_74
+      rect:
+        serializedVersion: 2
+        x: 9162
+        y: 3576
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0110f7aca0714c73b9b71f4033cad50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_75
+      rect:
+        serializedVersion: 2
+        x: 10180
+        y: 3576
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d25f80d6d90f406a98170ab01cff671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_76
+      rect:
+        serializedVersion: 2
+        x: 11198
+        y: 3576
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e4c74cd18134eb2886f80ce78c5839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_77
+      rect:
+        serializedVersion: 2
+        x: 12216
+        y: 3576
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e7a6f6710334ecaa3bcae6921fc6f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2980
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00b1548797ed43048c448bb5638e554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_79
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 2980
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1baa5d2c1f104e5da5868a226c7a963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_80
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 2980
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b369b7cdfd835458aa166dea6a7c5f84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_81
+      rect:
+        serializedVersion: 2
+        x: 3054
+        y: 2980
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8048905a18ad496aa577adbc49b87ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_82
+      rect:
+        serializedVersion: 2
+        x: 4072
+        y: 2980
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd221560aa794d87afb9cc15604f372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_83
+      rect:
+        serializedVersion: 2
+        x: 5090
+        y: 2980
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0744c018f6b45e18aa360f795db49f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_84
+      rect:
+        serializedVersion: 2
+        x: 6108
+        y: 2980
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5164db6ce0e87421fa2164e72b2fd9cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_85
+      rect:
+        serializedVersion: 2
+        x: 7126
+        y: 2980
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974b3f2a1904b4095be0c89046c977e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_86
+      rect:
+        serializedVersion: 2
+        x: 8144
+        y: 2980
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f587ad8151c7249048e3fd5e16062233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_87
+      rect:
+        serializedVersion: 2
+        x: 9162
+        y: 2980
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9564c0b40356b4d618af7a1962eb386c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_88
+      rect:
+        serializedVersion: 2
+        x: 10180
+        y: 2980
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9f0a31a3c08499e830026cfba9d6f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_89
+      rect:
+        serializedVersion: 2
+        x: 11198
+        y: 2980
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a660dba48054900ae162dafadfb800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_90
+      rect:
+        serializedVersion: 2
+        x: 12216
+        y: 2980
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47b8b4dd7ca147ae961899d172cf642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2384
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9740416988c5a4cc0a3b44de93b57436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_92
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 2384
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e92748e13864bea80ab915677b7187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_93
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 2384
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c186a961417b475fa5a92a900ad6e49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_94
+      rect:
+        serializedVersion: 2
+        x: 3054
+        y: 2384
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913b1a1325fdd4a1b804a85d7ed079b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_95
+      rect:
+        serializedVersion: 2
+        x: 4072
+        y: 2384
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb9c41c02c5f4cebbccd7041443a899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_96
+      rect:
+        serializedVersion: 2
+        x: 5090
+        y: 2384
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac007366c9444540aabfef5e14bc5d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_97
+      rect:
+        serializedVersion: 2
+        x: 6108
+        y: 2384
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24e8d008e6ab4c149ef671da6e2a9f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_98
+      rect:
+        serializedVersion: 2
+        x: 7126
+        y: 2384
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50160e84b3bf844ad819c540b31d64bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_99
+      rect:
+        serializedVersion: 2
+        x: 8144
+        y: 2384
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366590ffbdc19433083c68459946178b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_100
+      rect:
+        serializedVersion: 2
+        x: 9162
+        y: 2384
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b68cf57d9a04eb68d44b7997033853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_101
+      rect:
+        serializedVersion: 2
+        x: 10180
+        y: 2384
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272e35c8a624a4ccaa9aecbec39a86c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_102
+      rect:
+        serializedVersion: 2
+        x: 11198
+        y: 2384
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4826c4150b393481eb5da647424646c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_103
+      rect:
+        serializedVersion: 2
+        x: 12216
+        y: 2384
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b0f17295d3444d0a4a52956dad53f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1788
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38011b9fc5dc54ce0be60c055f5103a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_105
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1788
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cccb2240e9f4303af22bb3aa5fa7ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_106
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 1788
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308da750911214a7898a377f1e3010bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_107
+      rect:
+        serializedVersion: 2
+        x: 3054
+        y: 1788
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf434a359def4ee9a5b1dae5830affd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_108
+      rect:
+        serializedVersion: 2
+        x: 4072
+        y: 1788
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae31965008f14fd28c09bd99bcb4ce8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_109
+      rect:
+        serializedVersion: 2
+        x: 5090
+        y: 1788
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e32be5dac474a0a83b650fc448fc23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_110
+      rect:
+        serializedVersion: 2
+        x: 6108
+        y: 1788
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436366948998a4e82bf597c9a5385894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_111
+      rect:
+        serializedVersion: 2
+        x: 7126
+        y: 1788
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44288cf0378ef42ed928524f5405a608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_112
+      rect:
+        serializedVersion: 2
+        x: 8144
+        y: 1788
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6da67729c0e4a9fac1843099e8aa3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_113
+      rect:
+        serializedVersion: 2
+        x: 9162
+        y: 1788
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e89f9b20ac148b2968b96c1e8dc28d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_114
+      rect:
+        serializedVersion: 2
+        x: 10180
+        y: 1788
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146e5a7b769b84cbe84730f5cc6db1fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_115
+      rect:
+        serializedVersion: 2
+        x: 11198
+        y: 1788
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77cf677a828654a50984447cc20f491c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_116
+      rect:
+        serializedVersion: 2
+        x: 12216
+        y: 1788
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42171f0b8da264e2eaf82f75564bb84c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1192
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d547fd43310714286b5dab6843121f6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_118
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1192
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20004dfdbf19a4a6aabc74203855a8f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_119
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 1192
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d580a8ce9440416f8a77556b4f10449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_120
+      rect:
+        serializedVersion: 2
+        x: 3054
+        y: 1192
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefc007c1e8fb4fc5984823a3d7862b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_121
+      rect:
+        serializedVersion: 2
+        x: 4072
+        y: 1192
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bfac202ec4e40e28efe43eac9a3736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_122
+      rect:
+        serializedVersion: 2
+        x: 5090
+        y: 1192
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59645782a4164e56aa84be4863856d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_123
+      rect:
+        serializedVersion: 2
+        x: 6108
+        y: 1192
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e83692add3249b4a7372b4804c360c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_124
+      rect:
+        serializedVersion: 2
+        x: 7126
+        y: 1192
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e616bcd333491483081f1a100b87a3e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_125
+      rect:
+        serializedVersion: 2
+        x: 8144
+        y: 1192
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c0ab39857a14ba2ad9c2f2ed3790b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_126
+      rect:
+        serializedVersion: 2
+        x: 9162
+        y: 1192
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d775048b7a6d407b9c2c4a8c613f48a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_127
+      rect:
+        serializedVersion: 2
+        x: 10180
+        y: 1192
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb9300571e5c4cd8bf4c1c21ef81ab0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_128
+      rect:
+        serializedVersion: 2
+        x: 11198
+        y: 1192
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd529beabecf45d794bdb735e815efd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_129
+      rect:
+        serializedVersion: 2
+        x: 12216
+        y: 1192
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db94a415927b43c8ae751a1ac8d5212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 596
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57a447cbc07648efb3c63aadad80eaa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_131
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 596
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3798f9273e5614f8697a757d4237aa5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_132
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 596
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a488d4d095184ea3b63858b5149029d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_133
+      rect:
+        serializedVersion: 2
+        x: 3054
+        y: 596
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a323398eb3d8044f6a48de193f5711ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_134
+      rect:
+        serializedVersion: 2
+        x: 4072
+        y: 596
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff331b62cd6f54efca462af80c2b7f0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_135
+      rect:
+        serializedVersion: 2
+        x: 5090
+        y: 596
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350afd59a044b4f8380f3a479a4f8e05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_136
+      rect:
+        serializedVersion: 2
+        x: 6108
+        y: 596
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c808a91c1f84e0daf1c9ce5e874d52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_137
+      rect:
+        serializedVersion: 2
+        x: 7126
+        y: 596
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8106637f7e6e14c0d9b5857a767d9eaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_138
+      rect:
+        serializedVersion: 2
+        x: 8144
+        y: 596
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b704094b30cb6447c8c881a8be948837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_139
+      rect:
+        serializedVersion: 2
+        x: 9162
+        y: 596
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2708e3070ea774c3bae4b9924b682ccb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_140
+      rect:
+        serializedVersion: 2
+        x: 10180
+        y: 596
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2846c0c1eb4c3428ab82c49c7618cd9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_141
+      rect:
+        serializedVersion: 2
+        x: 11198
+        y: 596
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc058849a3214d78928befa67535bab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_142
+      rect:
+        serializedVersion: 2
+        x: 12216
+        y: 596
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84c36223a43a419d87ddb64ec9a5741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcd370ac522a4d54b648669b2a88bf7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_144
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 0
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95010f39094ba40ae93e6f6723599e7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_145
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 0
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d47172915ec4ff48d1968ff1b59308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_146
+      rect:
+        serializedVersion: 2
+        x: 3054
+        y: 0
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d99f064a28154842977d950a167ae50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_147
+      rect:
+        serializedVersion: 2
+        x: 4072
+        y: 0
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c783dd145d0b349c58a280997e9b5956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_148
+      rect:
+        serializedVersion: 2
+        x: 5090
+        y: 0
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914bdcdf559ae48de8e2d6c7da8387f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_149
+      rect:
+        serializedVersion: 2
+        x: 6108
+        y: 0
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb010f26e689247138b6df3316b01310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_150
+      rect:
+        serializedVersion: 2
+        x: 7126
+        y: 0
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90a47e2494da4af6b659a6a54bad32c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_151
+      rect:
+        serializedVersion: 2
+        x: 8144
+        y: 0
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbeaa99e35e3948a0b7d5cec51ab654b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_152
+      rect:
+        serializedVersion: 2
+        x: 9162
+        y: 0
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865ac07b8a9a74589adc44b39b3fc9e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_153
+      rect:
+        serializedVersion: 2
+        x: 10180
+        y: 0
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747258475345b42c787a81e6221a0e32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_154
+      rect:
+        serializedVersion: 2
+        x: 11198
+        y: 0
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6f7c434a306415eb05b198493986b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_FLIP_155
+      rect:
+        serializedVersion: 2
+        x: 12216
+        y: 0
+        width: 1018
+        height: 596
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc21e0d0aedc4af7979c0bb7eff2925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a0f514b184ef54b9e97eecc1557b14fb
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

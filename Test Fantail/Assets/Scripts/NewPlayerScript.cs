@@ -60,8 +60,12 @@ public class NewPlayerScript : MonoBehaviour
     public GameObject normalSpriteObject;
     private SpriteRenderer normalSpriteRenderer;
 
+    public GameObject withStickSpriteObject;
+    private SpriteRenderer withStickSpriteRenderer;
+
     public TrailRenderer trail;
     public Animator animator;
+    public Animator stickAnimator;
 
     //Variables related to inputs
 
@@ -86,6 +90,9 @@ public class NewPlayerScript : MonoBehaviour
 
     private float deltaTime;
 
+    public AudioManager audioManager;
+    private bool splashSFXPlay;
+
     // Use this for initialization
     void Start()
     {
@@ -94,6 +101,7 @@ public class NewPlayerScript : MonoBehaviour
 
         rigidbody = GetComponent<Rigidbody2D>();
         normalSpriteRenderer = normalSpriteObject.GetComponent<SpriteRenderer>();
+        withStickSpriteRenderer = withStickSpriteObject.GetComponent<SpriteRenderer>();
 
         cursorHeadSpriteRenderer = cursorHead.GetComponent<SpriteRenderer>();
         cursorLineSpriteRenderer = cursorLine.GetComponent<SpriteRenderer>();
@@ -110,7 +118,6 @@ public class NewPlayerScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
         //Variables related to inputs
 
         float inputHorizontal = Input.GetAxis("Horizontal");
@@ -124,7 +131,9 @@ public class NewPlayerScript : MonoBehaviour
         Vector2 transformRight2 = new Vector2(transform.right.x, transform.right.y);
 
 
-
+        if (bottomCollides)
+        {
+        }
 
         //deals with all instances of player moving horizontally
         if (walking)
@@ -137,6 +146,7 @@ public class NewPlayerScript : MonoBehaviour
             {
                 hopping = false;
                 rigidbody.velocity = new Vector2(rigidbody.velocity.x, hopSpeed);
+
             }
             else
             {
@@ -150,10 +160,12 @@ public class NewPlayerScript : MonoBehaviour
             if (inputHorizontal < 0)
             {
                 normalSpriteRenderer.flipX = true;
+                withStickSpriteRenderer.flipX = true;
             }
             else if(inputHorizontal > 0)
             {
                 normalSpriteRenderer.flipX = false;
+                withStickSpriteRenderer.flipX = false;
             }
         }
         else
@@ -212,8 +224,11 @@ public class NewPlayerScript : MonoBehaviour
             }
         }
 
+        Vector2 inputJoystick = new Vector2(inputJoystickX,-inputJoystickY) * 4;
+        //Debug.Log(inputJoystick.sqrMagnitude);
+
         //Pecking
-        if (bottomCollides && !walking && !hasFlown && !inWater)
+        if (bottomCollides && !walking && !hasFlown && !inWater && inputJoystick.sqrMagnitude <= 0.2)
         {
             if (Input.GetButtonDown("Glide/Peck"))
             {
@@ -240,6 +255,7 @@ public class NewPlayerScript : MonoBehaviour
 
             zoomNum = zoomNumLimit;
             normalSpriteObject.transform.eulerAngles = new Vector3(0, 0, 0);
+            withStickSpriteObject.transform.eulerAngles = new Vector3(0, 0, 0);
 
         }
 
@@ -248,10 +264,17 @@ public class NewPlayerScript : MonoBehaviour
         if (inWater)
         {
             appliedPenaltyMultiplier = penaltyMultiplier;
-
+            Debug.Log("");
+            if (!splashSFXPlay)
+            {
+                audioManager.Play("Splash");
+                audioManager.Play("Water Panic");
+                splashSFXPlay = true;
+            }
         }
         else if (!inWater)
         {
+            splashSFXPlay = false;
             appliedPenaltyMultiplier = 1;
 
         }
@@ -341,9 +364,11 @@ public class NewPlayerScript : MonoBehaviour
         //makes the player zoom towards the in-game cursor when the player clicks the left mouse button
         if (allowZoom)
         {
+            audioManager.Play("Wing Flap");
             hopping = false;
             rigidbody.velocity = zoomVector * zoomMultiplier * appliedPenaltyMultiplier;
             normalSpriteRenderer.flipX = false;
+            withStickSpriteRenderer.flipX = false;
         }
 
         //Makes the bird rotate towards velocity when having hopped
@@ -366,6 +391,7 @@ public class NewPlayerScript : MonoBehaviour
             if(intermediateBodyAngle > 90 || intermediateBodyAngle < -90)
             {
                 normalSpriteRenderer.flipX = true;
+                withStickSpriteRenderer.flipX = true;
                 newBodyAngle = intermediateBodyAngle + 180;
             }
             else
@@ -374,6 +400,7 @@ public class NewPlayerScript : MonoBehaviour
             }
 
             normalSpriteObject.transform.eulerAngles = new Vector3(0,0,newBodyAngle);
+            withStickSpriteObject.transform.eulerAngles = new Vector3(0, 0, newBodyAngle);
         }
 
 
@@ -413,6 +440,7 @@ public class NewPlayerScript : MonoBehaviour
             //rigidbody.constraints = RigidbodyConstraints2D.FreezeAll;
             gliding = true;
             normalSpriteRenderer.flipX = false;
+            withStickSpriteRenderer.flipX = false;
 
             //starts trail when flying
             trail.time = 0.4f;
@@ -427,6 +455,7 @@ public class NewPlayerScript : MonoBehaviour
             //rigidbody.constraints = RigidbodyConstraints2D.FreezeRotation;
             gliding = false;
             normalSpriteRenderer.flipY = false;
+            withStickSpriteRenderer.flipY = false;
 
             //Decreases trail length until zero, when it is disabled
             if (trail.time >= 0)
@@ -450,6 +479,18 @@ public class NewPlayerScript : MonoBehaviour
         animator.SetBool("peck", pecking);
         animator.SetBool("lookingUp", lookingUp);
         animator.SetBool("lookingDown", lookingDown);
+
+        stickAnimator.SetBool("fidget", fidgeting);
+        stickAnimator.SetBool("hopping", hopping);
+        stickAnimator.SetBool("gliding", gliding);
+        stickAnimator.SetBool("onGround", bottomCollides);
+        stickAnimator.SetBool("dashed", allowZoom);
+        stickAnimator.SetBool("inWater", inWater);
+        stickAnimator.SetBool("peck", pecking);
+        stickAnimator.SetBool("lookingUp", lookingUp);
+        stickAnimator.SetBool("lookingDown", lookingDown);
+
+
     }
 
     void LateUpdate()
@@ -461,7 +502,6 @@ public class NewPlayerScript : MonoBehaviour
             cameraScript.playerTransform = cursorHead.transform;
 
             hasFlown = true;
-            animator.Play("Dash", -1, 0f);
         }
     }
 
@@ -486,6 +526,8 @@ public class NewPlayerScript : MonoBehaviour
 
         normalSpriteObject.transform.eulerAngles = new Vector3(0, 0, glidingBodyAngle);
 
+        withStickSpriteObject.transform.eulerAngles = new Vector3(0, 0, glidingBodyAngle);
+
         bodyDirection = CursorPosition;
 
         rawAlpha = Vector2.SignedAngle(rigidbody.velocity, bodyDirection);
@@ -494,18 +536,20 @@ public class NewPlayerScript : MonoBehaviour
         if (processedBodyAngle > 90 && processedBodyAngle < 270)
         {
             normalSpriteRenderer.flipY = true;
+            withStickSpriteRenderer.flipY = true;
             processedAlpha = -rawAlpha;
         }
         else
         {
             normalSpriteRenderer.flipY = false;
+            withStickSpriteRenderer.flipY = false;
         }
 
         if (processedBodyAngle > 60 && processedBodyAngle < 120)
         {
 
             lookingUp = true;
-            Debug.Log("bird is looking up");
+            //Debug.Log("bird is looking up");
 
         }
         else
@@ -528,7 +572,7 @@ public class NewPlayerScript : MonoBehaviour
 
         }
 
-        Debug.Log("processedBodyAngle = " + processedBodyAngle + " , rawAlpha = " + rawAlpha + " , processedAlpha = " + processedAlpha);
+        //Debug.Log("processedBodyAngle = " + processedBodyAngle + " , rawAlpha = " + rawAlpha + " , processedAlpha = " + processedAlpha);
 
         alpha = rawAlpha;
 

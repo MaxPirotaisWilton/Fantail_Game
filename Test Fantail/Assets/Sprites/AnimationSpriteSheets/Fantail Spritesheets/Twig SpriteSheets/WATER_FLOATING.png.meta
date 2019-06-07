@@ -1,0 +1,981 @@
+fileFormatVersion: 2
+guid: 8026bd1a5c6a6433183822142cd0e6a9
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: WATER_FLOATING_0
+    21300002: WATER_FLOATING_1
+    21300004: WATER_FLOATING_2
+    21300006: WATER_FLOATING_3
+    21300008: WATER_FLOATING_4
+    21300010: WATER_FLOATING_5
+    21300012: WATER_FLOATING_6
+    21300014: WATER_FLOATING_7
+    21300016: WATER_FLOATING_8
+    21300018: WATER_FLOATING_9
+    21300020: WATER_FLOATING_10
+    21300022: WATER_FLOATING_11
+    21300024: WATER_FLOATING_12
+    21300026: WATER_FLOATING_13
+    21300028: WATER_FLOATING_14
+    21300030: WATER_FLOATING_15
+    21300032: WATER_FLOATING_16
+    21300034: WATER_FLOATING_17
+    21300036: WATER_FLOATING_18
+    21300038: WATER_FLOATING_19
+    21300040: WATER_FLOATING_20
+    21300042: WATER_FLOATING_21
+    21300044: WATER_FLOATING_22
+    21300046: WATER_FLOATING_23
+    21300048: WATER_FLOATING_24
+    21300050: WATER_FLOATING_25
+    21300052: WATER_FLOATING_26
+    21300054: WATER_FLOATING_27
+    21300056: WATER_FLOATING_28
+    21300058: WATER_FLOATING_29
+    21300060: WATER_FLOATING_30
+    21300062: WATER_FLOATING_31
+    21300064: WATER_FLOATING_32
+    21300066: WATER_FLOATING_33
+    21300068: WATER_FLOATING_34
+    21300070: WATER_FLOATING_35
+    21300072: WATER_FLOATING_36
+    21300074: WATER_FLOATING_37
+    21300076: WATER_FLOATING_38
+    21300078: WATER_FLOATING_39
+    21300080: WATER_FLOATING_40
+    21300082: WATER_FLOATING_41
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WATER_FLOATING_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3590
+        width: 766
+        height: 718
+      alignment: 9
+      pivot: {x: 0.7, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ff2e9ddb94141f2a2b42a9e485d74e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WATER_FLOATING_1
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 3590
+        width: 766
+        height: 718
+      alignment: 9
+      pivot: {x: 0.7, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c706c8de351c6424ca4fc26c80a966a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WATER_FLOATING_2
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 3590
+        width: 766
+        height: 718
+      alignment: 9
+      pivot: {x: 0.7, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0b3d5dc6f00448da06c777d4ee545e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WATER_FLOATING_3
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 3590
+        width: 766
+        height: 718
+      alignment: 9
+      pivot: {x: 0.7, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9052b76c27ed4275b1e42e52545ba62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WATER_FLOATING_4
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 3590
+        width: 766
+        height: 718
+      alignment: 9
+      pivot: {x: 0.7, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6b39b7898a848a2a23181a037c2c79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WATER_FLOATING_5
+      rect:
+        serializedVersion: 2
+        x: 3830
+        y: 3590
+        width: 766
+        height: 718
+      alignment: 9
+      pivot: {x: 0.7, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22ed23d27c3a4ab586b2819e96a3738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WATER_FLOATING_6
+      rect:
+        serializedVersion: 2
+        x: 4596
+        y: 3590
+        width: 766
+        height: 718
+      alignment: 9
+      pivot: {x: 0.7, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a91fcb022dd041a6a80856e917699e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WATER_FLOATING_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2872
+        width: 766
+        height: 718
+      alignment: 9
+      pivot: {x: 0.7, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5c8b3665f784498a8cf4177fca4995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WATER_FLOATING_8
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 2872
+        width: 766
+        height: 718
+      alignment: 9
+      pivot: {x: 0.7, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c6056a95b6a48bbb10eee253426faf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WATER_FLOATING_9
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 2872
+        width: 766
+        height: 718
+      alignment: 9
+      pivot: {x: 0.7, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851b977dcf80e412d86e7dc6d3da82a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WATER_FLOATING_10
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 2872
+        width: 766
+        height: 718
+      alignment: 9
+      pivot: {x: 0.7, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc7ea24e1af84166beef2d461d76736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WATER_FLOATING_11
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 2872
+        width: 766
+        height: 718
+      alignment: 9
+      pivot: {x: 0.7, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a09ae79ec0e4523b7c5a5d8f072aaa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WATER_FLOATING_12
+      rect:
+        serializedVersion: 2
+        x: 3830
+        y: 2872
+        width: 766
+        height: 718
+      alignment: 9
+      pivot: {x: 0.7, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9baab03f8703f42a8a4245b1364074dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WATER_FLOATING_13
+      rect:
+        serializedVersion: 2
+        x: 4596
+        y: 2872
+        width: 766
+        height: 718
+      alignment: 9
+      pivot: {x: 0.7, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d3450f60f9a4b66b59a45a663503bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WATER_FLOATING_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2154
+        width: 766
+        height: 718
+      alignment: 9
+      pivot: {x: 0.7, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53f94da2275648e09875bd83a9488b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WATER_FLOATING_15
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 2154
+        width: 766
+        height: 718
+      alignment: 9
+      pivot: {x: 0.7, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d55457680c304e88b625af501486a2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WATER_FLOATING_16
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 2154
+        width: 766
+        height: 718
+      alignment: 9
+      pivot: {x: 0.7, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432abad8b8dcf4cf1a61812272a465d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WATER_FLOATING_17
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 2154
+        width: 766
+        height: 718
+      alignment: 9
+      pivot: {x: 0.7, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556c1bdf2f01249e4bc291460ab510c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WATER_FLOATING_18
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 2154
+        width: 766
+        height: 718
+      alignment: 9
+      pivot: {x: 0.7, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61850ace5b11465b888de58fa249666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WATER_FLOATING_19
+      rect:
+        serializedVersion: 2
+        x: 3830
+        y: 2154
+        width: 766
+        height: 718
+      alignment: 9
+      pivot: {x: 0.7, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1d1639658194ba981149d112fd707e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WATER_FLOATING_20
+      rect:
+        serializedVersion: 2
+        x: 4596
+        y: 2154
+        width: 766
+        height: 718
+      alignment: 9
+      pivot: {x: 0.7, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53e7d2af500846079770334d4326316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WATER_FLOATING_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1436
+        width: 766
+        height: 718
+      alignment: 9
+      pivot: {x: 0.7, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd83ef2195774c559b38a80c5cc587e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WATER_FLOATING_22
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1436
+        width: 766
+        height: 718
+      alignment: 9
+      pivot: {x: 0.7, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70961e34bd7b4f9fbee3e7546feedab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WATER_FLOATING_23
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1436
+        width: 766
+        height: 718
+      alignment: 9
+      pivot: {x: 0.7, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0e32e630eee4848b197563c8506ece
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WATER_FLOATING_24
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 1436
+        width: 766
+        height: 718
+      alignment: 9
+      pivot: {x: 0.7, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3c21ea524624fc987432dc0ead1347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WATER_FLOATING_25
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 1436
+        width: 766
+        height: 718
+      alignment: 9
+      pivot: {x: 0.7, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35036b9cf39f943208885d65b0badae7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WATER_FLOATING_26
+      rect:
+        serializedVersion: 2
+        x: 3830
+        y: 1436
+        width: 766
+        height: 718
+      alignment: 9
+      pivot: {x: 0.7, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230f1671d8e1e49a0b90c36aa656ab5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WATER_FLOATING_27
+      rect:
+        serializedVersion: 2
+        x: 4596
+        y: 1436
+        width: 766
+        height: 718
+      alignment: 9
+      pivot: {x: 0.7, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa631d3921384af89da9aa0a38245dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WATER_FLOATING_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 718
+        width: 766
+        height: 718
+      alignment: 9
+      pivot: {x: 0.7, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1d63b9996d542d2aa0e717a9036c8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WATER_FLOATING_29
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 718
+        width: 766
+        height: 718
+      alignment: 9
+      pivot: {x: 0.7, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51316cf7b8dda4d11a553bea69d66d3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WATER_FLOATING_30
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 718
+        width: 766
+        height: 718
+      alignment: 9
+      pivot: {x: 0.7, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c8fa308486a4e9c9fa278852463ebe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WATER_FLOATING_31
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 718
+        width: 766
+        height: 718
+      alignment: 9
+      pivot: {x: 0.7, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41dc44fb8fa5e49c6b0d570191795275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WATER_FLOATING_32
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 718
+        width: 766
+        height: 718
+      alignment: 9
+      pivot: {x: 0.7, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62d678c01d1d4ec0a3f38d97668b69e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WATER_FLOATING_33
+      rect:
+        serializedVersion: 2
+        x: 3830
+        y: 718
+        width: 766
+        height: 718
+      alignment: 9
+      pivot: {x: 0.7, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962abdc4f1a644449b01f02d345d911f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WATER_FLOATING_34
+      rect:
+        serializedVersion: 2
+        x: 4596
+        y: 718
+        width: 766
+        height: 718
+      alignment: 9
+      pivot: {x: 0.7, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6812d029e804fec9d46bf37269c5d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WATER_FLOATING_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 766
+        height: 718
+      alignment: 9
+      pivot: {x: 0.7, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18632f1c483243378689036d9e0914a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WATER_FLOATING_36
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 0
+        width: 766
+        height: 718
+      alignment: 9
+      pivot: {x: 0.7, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ea08d00d1dd4fe9a19ff9aff26795c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WATER_FLOATING_37
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 0
+        width: 766
+        height: 718
+      alignment: 9
+      pivot: {x: 0.7, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d42865876214200b9f21a0806807c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WATER_FLOATING_38
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 0
+        width: 766
+        height: 718
+      alignment: 9
+      pivot: {x: 0.7, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02076d3a62c343bd9db3a08d0b75014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WATER_FLOATING_39
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 0
+        width: 766
+        height: 718
+      alignment: 9
+      pivot: {x: 0.7, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccb0920028434d0a998f2a54b6db4a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WATER_FLOATING_40
+      rect:
+        serializedVersion: 2
+        x: 3830
+        y: 0
+        width: 766
+        height: 718
+      alignment: 9
+      pivot: {x: 0.7, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a0acf54c50547029b676abcb87ab70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WATER_FLOATING_41
+      rect:
+        serializedVersion: 2
+        x: 4596
+        y: 0
+        width: 766
+        height: 718
+      alignment: 9
+      pivot: {x: 0.7, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9bb641cf6dbd45a9a7a5f43d983af9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 37760e26cea3b41a58d9e2b1d4df4abd
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

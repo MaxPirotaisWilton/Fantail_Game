@@ -1,0 +1,477 @@
+fileFormatVersion: 2
+guid: aa9879a3c94654e8f832b221b7126e19
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SIDEWAYS_DIVE_0
+    21300002: SIDEWAYS_DIVE_1
+    21300004: SIDEWAYS_DIVE_2
+    21300006: SIDEWAYS_DIVE_3
+    21300008: SIDEWAYS_DIVE_4
+    21300010: SIDEWAYS_DIVE_5
+    21300012: SIDEWAYS_DIVE_6
+    21300014: SIDEWAYS_DIVE_7
+    21300016: SIDEWAYS_DIVE_8
+    21300018: SIDEWAYS_DIVE_9
+    21300020: SIDEWAYS_DIVE_10
+    21300022: SIDEWAYS_DIVE_11
+    21300024: SIDEWAYS_DIVE_12
+    21300026: SIDEWAYS_DIVE_13
+    21300028: SIDEWAYS_DIVE_14
+    21300030: SIDEWAYS_DIVE_15
+    21300032: SIDEWAYS_DIVE_16
+    21300034: SIDEWAYS_DIVE_17
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SIDEWAYS_DIVE_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 598
+        width: 869
+        height: 299
+      alignment: 9
+      pivot: {x: 0.62, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31dc88b43ef6d4fccbb3fb5d45ebe892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEWAYS_DIVE_1
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 598
+        width: 869
+        height: 299
+      alignment: 9
+      pivot: {x: 0.62, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5be7540383a24a4eb66c33419a5afe4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEWAYS_DIVE_2
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 598
+        width: 869
+        height: 299
+      alignment: 9
+      pivot: {x: 0.62, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9895058a63d8848a1a29b57f9db76a47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEWAYS_DIVE_3
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 598
+        width: 869
+        height: 299
+      alignment: 9
+      pivot: {x: 0.62, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40dd3d30384994c32baebd592011666f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEWAYS_DIVE_4
+      rect:
+        serializedVersion: 2
+        x: 3476
+        y: 598
+        width: 869
+        height: 299
+      alignment: 9
+      pivot: {x: 0.62, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ffab23cc736481b87de2375ed787d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEWAYS_DIVE_5
+      rect:
+        serializedVersion: 2
+        x: 4345
+        y: 598
+        width: 869
+        height: 299
+      alignment: 9
+      pivot: {x: 0.62, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19961443573d6403ba665c8a546d0eab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEWAYS_DIVE_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 299
+        width: 869
+        height: 299
+      alignment: 9
+      pivot: {x: 0.62, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5453cc6338c7340eaa23b6dd5b196b4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEWAYS_DIVE_7
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 299
+        width: 869
+        height: 299
+      alignment: 9
+      pivot: {x: 0.62, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be317e178baea4150818b5c12200a689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEWAYS_DIVE_8
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 299
+        width: 869
+        height: 299
+      alignment: 9
+      pivot: {x: 0.62, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ba2806ac460415da8668e3b6b7fda0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEWAYS_DIVE_9
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 299
+        width: 869
+        height: 299
+      alignment: 9
+      pivot: {x: 0.62, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d94e3263c264d87b437136f61702c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEWAYS_DIVE_10
+      rect:
+        serializedVersion: 2
+        x: 3476
+        y: 299
+        width: 869
+        height: 299
+      alignment: 9
+      pivot: {x: 0.62, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4258c3f0318e4b9c94aec7c5df377c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEWAYS_DIVE_11
+      rect:
+        serializedVersion: 2
+        x: 4345
+        y: 299
+        width: 869
+        height: 299
+      alignment: 9
+      pivot: {x: 0.62, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308178df87f364f5eb11cc6008ec4189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEWAYS_DIVE_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 869
+        height: 299
+      alignment: 9
+      pivot: {x: 0.62, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e50a86591235413fa783b75e16568d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEWAYS_DIVE_13
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 0
+        width: 869
+        height: 299
+      alignment: 9
+      pivot: {x: 0.62, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8c8aaf934ef487dbbfd752bc26ca0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEWAYS_DIVE_14
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 0
+        width: 869
+        height: 299
+      alignment: 9
+      pivot: {x: 0.62, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5474d73e6b4644b8db67ed55df2fa255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEWAYS_DIVE_15
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 0
+        width: 869
+        height: 299
+      alignment: 9
+      pivot: {x: 0.62, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72adca10d3cc243599cd13293c21c9af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEWAYS_DIVE_16
+      rect:
+        serializedVersion: 2
+        x: 3476
+        y: 0
+        width: 869
+        height: 299
+      alignment: 9
+      pivot: {x: 0.62, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f112a2a6ddbae42baa8ba2cd7c295383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEWAYS_DIVE_17
+      rect:
+        serializedVersion: 2
+        x: 4345
+        y: 0
+        width: 869
+        height: 299
+      alignment: 9
+      pivot: {x: 0.62, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51293bddba36342ccb88bd36e49fa8ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2dc3096ea4b8348f590d1c6d4baffcbc
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

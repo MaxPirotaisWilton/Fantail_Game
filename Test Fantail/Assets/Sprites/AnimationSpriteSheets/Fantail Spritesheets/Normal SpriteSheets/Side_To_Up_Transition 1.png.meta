@@ -1,0 +1,939 @@
+fileFormatVersion: 2
+guid: 507122baaed1d4c9e9d9459d28ce0dc8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Side_To_Up_Transition 1_0
+    21300002: Side_To_Up_Transition 1_1
+    21300004: Side_To_Up_Transition 1_2
+    21300006: Side_To_Up_Transition 1_3
+    21300008: Side_To_Up_Transition 1_4
+    21300010: Side_To_Up_Transition 1_5
+    21300012: Side_To_Up_Transition 1_6
+    21300014: Side_To_Up_Transition 1_7
+    21300016: Side_To_Up_Transition 1_8
+    21300018: Side_To_Up_Transition 1_9
+    21300020: Side_To_Up_Transition 1_10
+    21300022: Side_To_Up_Transition 1_11
+    21300024: Side_To_Up_Transition 1_12
+    21300026: Side_To_Up_Transition 1_13
+    21300028: Side_To_Up_Transition 1_14
+    21300030: Side_To_Up_Transition 1_15
+    21300032: Side_To_Up_Transition 1_16
+    21300034: Side_To_Up_Transition 1_17
+    21300036: Side_To_Up_Transition 1_18
+    21300038: Side_To_Up_Transition 1_19
+    21300040: Side_To_Up_Transition 1_20
+    21300042: Side_To_Up_Transition 1_21
+    21300044: Side_To_Up_Transition 1_22
+    21300046: Side_To_Up_Transition 1_23
+    21300048: Side_To_Up_Transition 1_24
+    21300050: Side_To_Up_Transition 1_25
+    21300052: Side_To_Up_Transition 1_26
+    21300054: Side_To_Up_Transition 1_27
+    21300056: Side_To_Up_Transition 1_28
+    21300058: Side_To_Up_Transition 1_29
+    21300060: Side_To_Up_Transition 1_30
+    21300062: Side_To_Up_Transition 1_31
+    21300064: Side_To_Up_Transition 1_32
+    21300066: Side_To_Up_Transition 1_33
+    21300068: Side_To_Up_Transition 1_34
+    21300070: Side_To_Up_Transition 1_35
+    21300072: Side_To_Up_Transition 1_36
+    21300074: Side_To_Up_Transition 1_37
+    21300076: Side_To_Up_Transition 1_38
+    21300078: Side_To_Up_Transition 1_39
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Side_To_Up_Transition 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2007
+        width: 738
+        height: 669
+      alignment: 9
+      pivot: {x: 0.72, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce4a5c1c7fe94823be9c1e7c310ceec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side_To_Up_Transition 1_1
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 2007
+        width: 738
+        height: 669
+      alignment: 9
+      pivot: {x: 0.72, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96c59a39a201423787f45c0d1022a11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side_To_Up_Transition 1_2
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 2007
+        width: 738
+        height: 669
+      alignment: 9
+      pivot: {x: 0.72, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ece109b07604f978fbd5156674e88a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side_To_Up_Transition 1_3
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 2007
+        width: 738
+        height: 669
+      alignment: 9
+      pivot: {x: 0.72, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89702ca8fcf48435bbb31b1e4b60c7d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side_To_Up_Transition 1_4
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 2007
+        width: 738
+        height: 669
+      alignment: 9
+      pivot: {x: 0.72, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a9b1a7a9de3467f85401e63a4577f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side_To_Up_Transition 1_5
+      rect:
+        serializedVersion: 2
+        x: 3690
+        y: 2007
+        width: 738
+        height: 669
+      alignment: 9
+      pivot: {x: 0.72, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2c2a8fc66cd4791b2b284d84327fa6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side_To_Up_Transition 1_6
+      rect:
+        serializedVersion: 2
+        x: 4428
+        y: 2007
+        width: 738
+        height: 669
+      alignment: 9
+      pivot: {x: 0.72, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed9499288ecf4bb9bc0c3264ab3d490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side_To_Up_Transition 1_7
+      rect:
+        serializedVersion: 2
+        x: 5166
+        y: 2007
+        width: 738
+        height: 669
+      alignment: 9
+      pivot: {x: 0.72, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046e902fe70d0402397414949eeef7ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side_To_Up_Transition 1_8
+      rect:
+        serializedVersion: 2
+        x: 5904
+        y: 2007
+        width: 738
+        height: 669
+      alignment: 9
+      pivot: {x: 0.72, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd161784c56cd4ac6b7cc4fe6079cda4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side_To_Up_Transition 1_9
+      rect:
+        serializedVersion: 2
+        x: 6642
+        y: 2007
+        width: 738
+        height: 669
+      alignment: 9
+      pivot: {x: 0.72, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f6ffd3d10f542be8cc6e5683b061ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side_To_Up_Transition 1_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1338
+        width: 738
+        height: 669
+      alignment: 9
+      pivot: {x: 0.72, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234b1d63be78d4b6ab4367f0d426ff4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side_To_Up_Transition 1_11
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1338
+        width: 738
+        height: 669
+      alignment: 9
+      pivot: {x: 0.72, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acb2f065cc3943c8968a0ba1496840b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side_To_Up_Transition 1_12
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 1338
+        width: 738
+        height: 669
+      alignment: 9
+      pivot: {x: 0.72, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cbbd49ea5fe478a8840886347e61cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side_To_Up_Transition 1_13
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 1338
+        width: 738
+        height: 669
+      alignment: 9
+      pivot: {x: 0.72, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e9623d77aa04d0fa1f09c74270a896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side_To_Up_Transition 1_14
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 1338
+        width: 738
+        height: 669
+      alignment: 9
+      pivot: {x: 0.72, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6da5a8cce91422c80f3665d45ac181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side_To_Up_Transition 1_15
+      rect:
+        serializedVersion: 2
+        x: 3690
+        y: 1338
+        width: 738
+        height: 669
+      alignment: 9
+      pivot: {x: 0.72, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b279775e6ba744f66a49620440892153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side_To_Up_Transition 1_16
+      rect:
+        serializedVersion: 2
+        x: 4428
+        y: 1338
+        width: 738
+        height: 669
+      alignment: 9
+      pivot: {x: 0.72, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010c1ab2ff48e4ead99cca4b2cc941e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side_To_Up_Transition 1_17
+      rect:
+        serializedVersion: 2
+        x: 5166
+        y: 1338
+        width: 738
+        height: 669
+      alignment: 9
+      pivot: {x: 0.72, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4679fb4f6d1d3489c8c49ccf17ce9e90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side_To_Up_Transition 1_18
+      rect:
+        serializedVersion: 2
+        x: 5904
+        y: 1338
+        width: 738
+        height: 669
+      alignment: 9
+      pivot: {x: 0.72, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e6a67cb7c9647238cf8a4d3848aece
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side_To_Up_Transition 1_19
+      rect:
+        serializedVersion: 2
+        x: 6642
+        y: 1338
+        width: 738
+        height: 669
+      alignment: 9
+      pivot: {x: 0.72, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6816fde3283b145e9bc134fd2fd8bcd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side_To_Up_Transition 1_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 669
+        width: 738
+        height: 669
+      alignment: 9
+      pivot: {x: 0.72, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78af279e5bfbb41448c80217d85c5a93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side_To_Up_Transition 1_21
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 669
+        width: 738
+        height: 669
+      alignment: 9
+      pivot: {x: 0.72, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c626fd6aea71442448856e1e75aa9bc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side_To_Up_Transition 1_22
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 669
+        width: 738
+        height: 669
+      alignment: 9
+      pivot: {x: 0.72, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdd85e4bc7e44c05b2cdcd2815bec0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side_To_Up_Transition 1_23
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 669
+        width: 738
+        height: 669
+      alignment: 9
+      pivot: {x: 0.72, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1b985eb810b4ac09726228b40c5d25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side_To_Up_Transition 1_24
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 669
+        width: 738
+        height: 669
+      alignment: 9
+      pivot: {x: 0.72, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ef7e19d54f4406195f8ca6abe6db35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side_To_Up_Transition 1_25
+      rect:
+        serializedVersion: 2
+        x: 3690
+        y: 669
+        width: 738
+        height: 669
+      alignment: 9
+      pivot: {x: 0.72, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf8dc164911342f9bd0477d8a62e4c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side_To_Up_Transition 1_26
+      rect:
+        serializedVersion: 2
+        x: 4428
+        y: 669
+        width: 738
+        height: 669
+      alignment: 9
+      pivot: {x: 0.725, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1211d497a33664164844287ad171d721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side_To_Up_Transition 1_27
+      rect:
+        serializedVersion: 2
+        x: 5166
+        y: 669
+        width: 738
+        height: 669
+      alignment: 9
+      pivot: {x: 0.73, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6859b51a7e3ef4c1a9b1e8c55d45d8ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side_To_Up_Transition 1_28
+      rect:
+        serializedVersion: 2
+        x: 5904
+        y: 669
+        width: 738
+        height: 669
+      alignment: 9
+      pivot: {x: 0.735, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79a50c6e31c6459a8aae6b47b156075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side_To_Up_Transition 1_29
+      rect:
+        serializedVersion: 2
+        x: 6642
+        y: 669
+        width: 738
+        height: 669
+      alignment: 9
+      pivot: {x: 0.74, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c35394eab9745b88e2afe9fd89cf27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side_To_Up_Transition 1_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 738
+        height: 669
+      alignment: 9
+      pivot: {x: 0.745, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099eaf2790c5e4fe193e00c66b9052ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side_To_Up_Transition 1_31
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 0
+        width: 738
+        height: 669
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158bfb95ca85f4ca69a1994c15f1294f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side_To_Up_Transition 1_32
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 0
+        width: 738
+        height: 669
+      alignment: 9
+      pivot: {x: 0.755, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1783cdd8075d44199e327ff80619ef7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side_To_Up_Transition 1_33
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 0
+        width: 738
+        height: 669
+      alignment: 9
+      pivot: {x: 0.76, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4103260c9b849b495bacaacde683c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side_To_Up_Transition 1_34
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 0
+        width: 738
+        height: 669
+      alignment: 9
+      pivot: {x: 0.765, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b71b2944e3f42d893d05162ae3e354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side_To_Up_Transition 1_35
+      rect:
+        serializedVersion: 2
+        x: 3690
+        y: 0
+        width: 738
+        height: 669
+      alignment: 9
+      pivot: {x: 0.77, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ffd0690136d4bdabefa1ec08c282c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side_To_Up_Transition 1_36
+      rect:
+        serializedVersion: 2
+        x: 4428
+        y: 0
+        width: 738
+        height: 669
+      alignment: 9
+      pivot: {x: 0.775, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d778fc74815b74c3f860d9701f11b48b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side_To_Up_Transition 1_37
+      rect:
+        serializedVersion: 2
+        x: 5166
+        y: 0
+        width: 738
+        height: 669
+      alignment: 9
+      pivot: {x: 0.78, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22931d4541ce5458aa75a85193aba931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side_To_Up_Transition 1_38
+      rect:
+        serializedVersion: 2
+        x: 5904
+        y: 0
+        width: 738
+        height: 669
+      alignment: 9
+      pivot: {x: 0.785, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4102f761ff2b443fc8c90e669bd66ba8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side_To_Up_Transition 1_39
+      rect:
+        serializedVersion: 2
+        x: 6642
+        y: 0
+        width: 738
+        height: 669
+      alignment: 9
+      pivot: {x: 0.79, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564bb061f70bd41948a076d5f51674ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 12485feaef3f4469da16ff54c94bda55
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

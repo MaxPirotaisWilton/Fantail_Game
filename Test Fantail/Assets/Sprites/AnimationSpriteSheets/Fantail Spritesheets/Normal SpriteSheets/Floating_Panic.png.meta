@@ -1,0 +1,1191 @@
+fileFormatVersion: 2
+guid: c34f1cb395db94b35bdfc0e280880583
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Floating_Panic_0
+    21300002: Floating_Panic_1
+    21300004: Floating_Panic_2
+    21300006: Floating_Panic_3
+    21300008: Floating_Panic_4
+    21300010: Floating_Panic_5
+    21300012: Floating_Panic_6
+    21300014: Floating_Panic_7
+    21300016: Floating_Panic_8
+    21300018: Floating_Panic_9
+    21300020: Floating_Panic_10
+    21300022: Floating_Panic_11
+    21300024: Floating_Panic_12
+    21300026: Floating_Panic_13
+    21300028: Floating_Panic_14
+    21300030: Floating_Panic_15
+    21300032: Floating_Panic_16
+    21300034: Floating_Panic_17
+    21300036: Floating_Panic_18
+    21300038: Floating_Panic_19
+    21300040: Floating_Panic_20
+    21300042: Floating_Panic_21
+    21300044: Floating_Panic_22
+    21300046: Floating_Panic_23
+    21300048: Floating_Panic_24
+    21300050: Floating_Panic_25
+    21300052: Floating_Panic_26
+    21300054: Floating_Panic_27
+    21300056: Floating_Panic_28
+    21300058: Floating_Panic_29
+    21300060: Floating_Panic_30
+    21300062: Floating_Panic_31
+    21300064: Floating_Panic_32
+    21300066: Floating_Panic_33
+    21300068: Floating_Panic_34
+    21300070: Floating_Panic_35
+    21300072: Floating_Panic_36
+    21300074: Floating_Panic_37
+    21300076: Floating_Panic_38
+    21300078: Floating_Panic_39
+    21300080: Floating_Panic_40
+    21300082: Floating_Panic_41
+    21300084: Floating_Panic_42
+    21300086: Floating_Panic_43
+    21300088: Floating_Panic_44
+    21300090: Floating_Panic_45
+    21300092: Floating_Panic_46
+    21300094: Floating_Panic_47
+    21300096: Floating_Panic_48
+    21300098: Floating_Panic_49
+    21300100: Floating_Panic_50
+    21300102: Floating_Panic_51
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Floating_Panic_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1785
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85981a598ffdd42caaf152386478ad8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_1
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1785
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfce0a1367214d78908e281b17f4c7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_2
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1785
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a6944b122ee4d99b150c77fe17cd62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_3
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 1785
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c77072e275c46e6b86ad1ba39871a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_4
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 1785
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071b2a73433aa405cb619ac9347690c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_5
+      rect:
+        serializedVersion: 2
+        x: 3525
+        y: 1785
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c58977746e646688d48973a0dd3a06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_6
+      rect:
+        serializedVersion: 2
+        x: 4230
+        y: 1785
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516f2343d8e0e4dcfa5cff53838b52a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_7
+      rect:
+        serializedVersion: 2
+        x: 4935
+        y: 1785
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa635fe076246427b98b02f050c3e661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_8
+      rect:
+        serializedVersion: 2
+        x: 5640
+        y: 1785
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730a3b1472e664a768b1cc446717c571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_9
+      rect:
+        serializedVersion: 2
+        x: 6345
+        y: 1785
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5bf8ef4fca747e68b9006c0b0e3163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_10
+      rect:
+        serializedVersion: 2
+        x: 7050
+        y: 1785
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c2c9d3a6a794e25a19118e79bb316b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_11
+      rect:
+        serializedVersion: 2
+        x: 7755
+        y: 1785
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8963cee548a4418ab874b4e0ad6434e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_12
+      rect:
+        serializedVersion: 2
+        x: 8460
+        y: 1785
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e587c08c678e44188ab5807ab8362f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1190
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c746980c03484490bc57ffa56f2706f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_14
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1190
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2e5267a2e43472db2c06210fe6dbca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_15
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1190
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305ab4a0696094f05a35570d969484f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_16
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 1190
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651cb9ee75e0943369f0383d338a0db4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_17
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 1190
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2225fb618a5420c9d20a6678fdbb5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_18
+      rect:
+        serializedVersion: 2
+        x: 3525
+        y: 1190
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259f722f2dea949c88fb23b2dba21b05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_19
+      rect:
+        serializedVersion: 2
+        x: 4230
+        y: 1190
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034529d36f3d44e0392e81361ec9e575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_20
+      rect:
+        serializedVersion: 2
+        x: 4935
+        y: 1190
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1463e6c0f52e4cb2a72a1b121e7fc89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_21
+      rect:
+        serializedVersion: 2
+        x: 5640
+        y: 1190
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc210adf39f04c84a10f04b8a5d7800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_22
+      rect:
+        serializedVersion: 2
+        x: 6345
+        y: 1190
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b7e3611410e4e3689da34605631ab5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_23
+      rect:
+        serializedVersion: 2
+        x: 7050
+        y: 1190
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf65144579ba47e3baecee598da6795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_24
+      rect:
+        serializedVersion: 2
+        x: 7755
+        y: 1190
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6124e8f3251644dbe951c6e16c0183c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_25
+      rect:
+        serializedVersion: 2
+        x: 8460
+        y: 1190
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f543f5a0c3246bebb1ae5cb9bb4333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 595
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d83991c5f9e4187a02480ea939ee77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_27
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 595
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2c7631d79d64294a204045430855a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_28
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 595
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8247e8b1743c4be88f1c481888f21c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_29
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 595
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554562ef2faeb44dab3a885685ae22cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_30
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 595
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f566004ab414c2ea9b01c4d3e38c37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_31
+      rect:
+        serializedVersion: 2
+        x: 3525
+        y: 595
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603ffb9cd182e48f4bfc570565452fad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_32
+      rect:
+        serializedVersion: 2
+        x: 4230
+        y: 595
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd89c61fb77d4af89dbf735f2068fd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_33
+      rect:
+        serializedVersion: 2
+        x: 4935
+        y: 595
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35819c529ab904098bd430d7ffd6ebb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_34
+      rect:
+        serializedVersion: 2
+        x: 5640
+        y: 595
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2a68262a9114e4ab0d2afc18ac680b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_35
+      rect:
+        serializedVersion: 2
+        x: 6345
+        y: 595
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f431038986e5430e8a5383ca8d4715d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_36
+      rect:
+        serializedVersion: 2
+        x: 7050
+        y: 595
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ad42318a8bc43369930a2a93e6e069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_37
+      rect:
+        serializedVersion: 2
+        x: 7755
+        y: 595
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92df3d08384824c1b9d1b90d2abd90b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_38
+      rect:
+        serializedVersion: 2
+        x: 8460
+        y: 595
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395cd8dbb555842e097b0b994ed831e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c382e525c463d477c933a0e3ca87ad87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_40
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 0
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b520dc75599496bbcc1a79dc59306e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_41
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 0
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f2a5d1409f64d5d9983084858c15f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_42
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 0
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbc2a17d9e8044aea26aec11297cf86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_43
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 0
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b33caf6f42ee4336a53664aabe34462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_44
+      rect:
+        serializedVersion: 2
+        x: 3525
+        y: 0
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73188d2631578473b9551f81f8a64303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_45
+      rect:
+        serializedVersion: 2
+        x: 4230
+        y: 0
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8cdff10f41e470dbd35ea8ff05bcfb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_46
+      rect:
+        serializedVersion: 2
+        x: 4935
+        y: 0
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfdfca8fa368d4a29905d83a3fa9e0be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_47
+      rect:
+        serializedVersion: 2
+        x: 5640
+        y: 0
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c33ee135baa84dc1b1dffda934f6233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_48
+      rect:
+        serializedVersion: 2
+        x: 6345
+        y: 0
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97763fc3221e43fbacd8bcb14c1e3c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_49
+      rect:
+        serializedVersion: 2
+        x: 7050
+        y: 0
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d0b9a415b8045a69da9b10ce636c4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_50
+      rect:
+        serializedVersion: 2
+        x: 7755
+        y: 0
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8804e50b18df4ac2afe369dfd2f22e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floating_Panic_51
+      rect:
+        serializedVersion: 2
+        x: 8460
+        y: 0
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: 0.78, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e6bb7123e6f425dab71dc187ebeafb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9752b06f2b1fe413e9b578c75fa9c225
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
